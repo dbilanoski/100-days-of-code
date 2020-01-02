@@ -21,5 +21,5 @@ In this run, my goal is to revisit what I knew before and learn what I need to k
 This repo is heavily inspired by Alexander Kallaway's 100-days-of-code project which I strongly recommend checking out.
 
 You can find additional information here:
-* [The Official Site](https://www.100daysofcode.com/);
+* [The Official Site](https://www.100daysofcode.com/)
 * [GitHub](https://github.com/kallaway)
