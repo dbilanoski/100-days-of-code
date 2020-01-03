@@ -28,9 +28,10 @@
 
 **Start date: January 1st, 2020.**
 
-## Days
+## Days - table of content
 [Day 1](#day-1-january-1st-2020)
 [Day 2](#day-2-january-2nd-2020)
+[Day 3](#day-3-january-3rd-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -41,7 +42,7 @@ While preparing this, learned some Markdown syntax.
 [Twitter post](https://twitter.com/DBilanoski/status/1212484655796105217)
 
 ### Day 2: January 2nd, 2020
-Today I started with [Kevin Powell's Responsive Web Design Bootcamp](https://scrimba.com/g/gresponsive) with a plan to revisit and recall HTML, CSS & Responsive design principles and almost at the end of first module, I can say I made a good choice of course literature.
+Today I started with [Kevin Powell's Responsive Web Design Bootcamp](https://scrimba.com/g/gresponsive) with a plan to revisit and recall HTML, CSS & Responsive design principles and roughtly at the third of the first module, I can say I made a good choice of course literature.
 
 **Topics I covered:**
 - Box model
@@ -51,8 +52,26 @@ Today I started with [Kevin Powell's Responsive Web Design Bootcamp](https://scr
 - Link states and how to style them properly
     - Interesting thing, five states of anchor tag, never heard of a:link state
     - Seems to me that best practice is to set styles for "a" in general, then style a:hover and a:focus
-- Small blog-post card project to practise
+- Small blog-post card project as practice
 
 **Note:** Scrimba was not working for me, code written in the service's playground was not rendering to mini browser inside so I finished the exercise on CodePen. 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1212866805762580481)
+
+### Day 3: January 3rd, 2020
+Further down the first module of Responsive Design Bootcamp which I am now, at the second third, slowly bringing to an end. I had fun learning about CSS Specificity - something I thought I understood earlier, but really did not.
+
+**Topics I covered:**
+- Styling buttons
+- CSS selectors and compounding of them
+- Specificity in CSS
+    - Interesting to note, CSS selectors priority is grouped in categories and when using compounding, adding of specificity points is done in those groups separately for each category
+    - so, If we say that these are priority groups ranked higher to lower:
+        - Inline CSS, ID, Class, Element
+    - calculation is done for each separately
+        - (points for inline), (points for ID), (points for Class), (points for Element)
+    - in example: 
+        - `.main-page #content a {color: red}` is calculated like:
+        -  (0, 0, 1, 0) + (0, 1, 0, 0) + (0, 0, 0, 1) = **(0, 1, 1, 1)**
+
+[Twitter post](https://twitter.com/DBilanoski/status/1213229696810393600)
