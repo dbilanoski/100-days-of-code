@@ -32,6 +32,7 @@
 [Day 1](#day-1-january-1st-2020)
 [Day 2](#day-2-january-2nd-2020)
 [Day 3](#day-3-january-3rd-2020)
+[Day 4](#day-4-january-4th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -66,12 +67,25 @@ Further down the first module of Responsive Design Bootcamp which I am now, at t
 - CSS selectors and compounding of them
 - Specificity in CSS
     - Interesting to note, CSS selectors priority is grouped in categories and when using compounding, adding of specificity points is done in those groups separately for each category
-    - so, If we say that these are priority groups ranked higher to lower:
+    - So, If we say that these are priority groups ranked higher to lower:
         - Inline CSS, ID, Class, Element
-    - calculation is done for each separately
+    - Calculation is done for each separately
         - (points for inline), (points for ID), (points for Class), (points for Element)
-    - in example: 
+    - In example: 
         - `.main-page #content a {color: red}` is calculated like:
         -  (0, 0, 1, 0) + (0, 1, 0, 0) + (0, 0, 0, 1) = **(0, 1, 1, 1)**
 
 [Twitter post](https://twitter.com/DBilanoski/status/1213229696810393600)
+
+### Day 4: January 4th, 2020
+
+Today I finished first module of Responsive Design Bootcamp called CSS Fundamentals and completed excercise at the and of the module. It was fun and educational but annoyance worth mentioning is frustration due to frequent interuptions during study which is something to consider when learning during weekends when everybody is at home. Looking forward to continue. 
+
+**Topics I covered:**
+- Text properties
+- Font stacks
+    - Interesting to note, when loading Google fonts it is faster if link is included in HTML as an stylesheet
+- Inheritance
+- Challenge excercise
+
+[Twitter post](https://twitter.com/DBilanoski/status/1213563165763624963)
