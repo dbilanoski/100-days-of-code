@@ -33,6 +33,7 @@
 [Day 2](#day-2-january-2nd-2020)
 [Day 3](#day-3-january-3rd-2020)
 [Day 4](#day-4-january-4th-2020)
+[Day 5](#day-5-january-5th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -89,3 +90,17 @@ Today I finished first module of Responsive Design Bootcamp called CSS Fundament
 - Challenge excercise
 
 [Twitter post](https://twitter.com/DBilanoski/status/1213563165763624963)
+
+### Day 5: January 5th, 2020
+
+Today I started with second module of the RWD bootcamp called "Starting to think responsively" and made it almost to the half of the module where I completed given exercise and challenge. Even though it was Sunday and I had family obligations, frequent interuptions and little to no "alone time" to actually sit and work, I am quite happy and proud of how I managed do produce more than two hours for this.
+
+**Topics I covered:**
+- CSS units in general
+    - Interesting to note that pixel value in CSS is actually an absolute unit that is based in something called "Reference pixel" whose lenght is calculated to 0.23 mm (1/96 inch).
+- Working with Em's & Rem's
+- Width, min-width & max-width
+- Basic Flexbox for simple layouting
+- Challenge exercise
+
+[Twitter post](https://twitter.com/DBilanoski/status/1213946518849433601)
