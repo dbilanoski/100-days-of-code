@@ -34,6 +34,7 @@
 [Day 3](#day-3-january-3rd-2020)
 [Day 4](#day-4-january-4th-2020)
 [Day 5](#day-5-january-5th-2020)
+[Day 6](#day-6-january-6th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -104,3 +105,19 @@ Today I started with second module of the RWD bootcamp called "Starting to think
 - Challenge exercise
 
 [Twitter post](https://twitter.com/DBilanoski/status/1213946518849433601)
+
+### Day 6: January 6th, 2020
+
+Today I was reading further about responsive design and played with Flexbox a lot. Also touched on media quearies and finally understood their syntax. Created simple navigation component, it was fun. Looking forward to the big challenge in course I'm currently attending.
+
+**Topics I covered:**
+- Flexbox
+    - Flex direction, what it means to change it
+    - Positioning commands for horizontal and vertical alignment
+        - Interesting to note, those commands (`align-items` or `justify-content`) always orient themselves on main axis)
+        - If we change the main axis with `flex-direction`, that change will reflect on behaviour of those commands (for example, up-down for `flex-direction: row` and left-right for `flex-direction: column`)
+- Media queries sintax and basic usage
+- Challenge exercise
+
+[Twitter post](https://twitter.com/DBilanoski/status/1214314023744876550)
+    
