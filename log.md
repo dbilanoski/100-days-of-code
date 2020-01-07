@@ -35,6 +35,7 @@
 [Day 4](#day-4-january-4th-2020)
 [Day 5](#day-5-january-5th-2020)
 [Day 6](#day-6-january-6th-2020)
+[Day 7](#day-7-january-7th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -121,3 +122,16 @@ Today I was reading further about responsive design and played with Flexbox a lo
 
 [Twitter post](https://twitter.com/DBilanoski/status/1214314023744876550)
     
+### Day 7, January 7th, 2020
+
+Today I wrote a lot of HTML while listening to course material at the end of the second module called "Starting to think responsively where I aimned to make the end project alone before listening how the course owner did it. Lost some time on playing with CSS transitions which was a good practice and a fine refresher on transforms, transform origins and little tricks on how to style navigation links. Looking forward to continue with the challenge.
+
+**Topics I covered**
+- How to structure main navigation on the page and what is considered good practice
+- Basic HTML accessibility considering structuring site elements and focus states of focusable elements
+    - Interesting thing to note, regarding `<main>` tag, you need to givi it "role" to be reckognised by earlier versions of IE. In example, `<main role="main">`.
+- Course challenge project progress:
+    - Finished styling main navigation which is now responsive
+    - Wrote all HTML for the main page
+
+[Twitter post](https://twitter.com/DBilanoski/status/1214668268331577344)
