@@ -36,6 +36,7 @@
 [Day 5](#day-5-january-5th-2020)
 [Day 6](#day-6-january-6th-2020)
 [Day 7](#day-7-january-7th-2020)
+[Day 8](#day-8-january-8th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -135,3 +136,19 @@ Today I wrote a lot of HTML while listening to course material at the end of the
     - Wrote all HTML for the main page
 
 [Twitter post](https://twitter.com/DBilanoski/status/1214668268331577344)
+
+### Day 8: January 8th, 2020
+
+Today I started styling the course exercise and went through most of it regarding layout, globals and typography. Looking forward to finishing the project which will probably be tomorrow. Beside the course I'm currently taking as a refresher, today I had a chance to work with Google Sheets query function more deeply which was fun.
+
+**Topics I covered**
+- Styling typography
+- Collapsing margins
+- Flexbox
+- Code refractoring
+- CSS variables
+- Google Sheets `IMPORTRANGE()` and `QUERY()` functions
+    - Interesting to note, `IMPORTRANGE()` can be used as a `QUERY()` argument for specifying source data but result is returned as an array
+    - This means that when specifying which columns to show or filter column letters (A, B, C, etc.) are no longer valid - syntax is to write them by number as `Col1, Col2, Col3 etc.`
+
+[Twitter post](https://twitter.com/DBilanoski/status/1215034594761809920)
