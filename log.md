@@ -37,6 +37,7 @@
 [Day 6](#day-6-january-6th-2020)
 [Day 7](#day-7-january-7th-2020)
 [Day 8](#day-8-january-8th-2020)
+[Day 9](#day-9-january-9th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -152,3 +153,16 @@ Today I started styling the course exercise and went through most of it regardin
     - This means that when specifying which columns to show or filter column letters (A, B, C, etc.) are no longer valid - syntax is to write them by number as `Col1, Col2, Col3 etc.`
 
 [Twitter post](https://twitter.com/DBilanoski/status/1215034594761809920)
+
+### Day 9: January 9th, 2020
+
+Today I finished main page of the course challenge without looking at solution which was a fine refresher on CSS basics and Flexbox based layouts. Found a struggle though - Mobile First aproach is not intuitive to me and I always end up doing desktop version first. Need to work on this! Later I watched what instructor did for the page and learned few tricks but nothing that my code would benefit if changed. Tomorrow I will do About page and Recents post page and conclude module 2 of the course.
+
+**Topics I covered:**
+- Mobile first aproach
+    - Interestingly, this aproach is not intuitive to me and I allways end up doing desktop version fist. Need to work on this.
+- Styling links with pseudo elements to create animated bottom border
+- Flexbox order
+- Media queries
+
+[Twitter post](https://twitter.com/DBilanoski/status/1215402707139416071)
