@@ -1,0 +1,462 @@
+<!-- 
+
+## Refractored whole project to push myself in thinking "Mobile first". 
+## CSS is internal just to simplify Git pushing to 100daysOfCode journal repository.
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Living the simple life</title>
+  <link href="https://fonts.googleapis.com/css?family=Lora|Ubuntu:300,400,700&display=swap" rel="stylesheet"> 
+  <style>
+    /* Resets & Globals */
+
+    * {
+      margin: 0;
+      box-sizing: border-box;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      margin-bottom: 1rem;
+    }
+
+    /* Colors */
+    :root {
+      --white: #fff;
+      --light-grey: #F8F8F8;
+      --grey: #EBEBEB;
+      --dark-grey: #717171;
+      --light-blue: #1792D2;
+      --dark-blue: #143774;
+    }
+
+    /* Utilities */
+
+    .wrapper {
+      max-width: 960px;
+      width: 95%;
+      margin: 0 auto;
+    }
+
+    /* Typography */
+
+    h2, h3, h4, p {
+      margin-bottom: 1em;
+    }
+
+    .main-title, .article-title {
+      font-family: 'Lora', serif;
+    }
+
+    .main-title {
+      font-size: 2rem;
+      font-weight: 400;
+      color: var(--dark-blue);
+    }
+
+    .main-subtitle {
+      color: var(--light-blue);
+      font-weight: bold;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    .article-title {
+      font-size: 1.5rem;
+      color: var(--dark-blue);
+    }
+
+    .aside-post .article-title {
+      font-size: 1.125rem;
+      margin-bottom: 0;
+      text-decoration: none;
+    }
+
+    .article-meta-info, .action-link, .aside-about-me p {
+      font-size: 0.87rem;
+    }
+
+    .aside-block-title {
+      font-size: 1.125rem;
+      color: var(--dark-blue);
+      text-transform: uppercase;
+    }
+
+    strong {
+      font-weight: 700;
+    }
+
+    .aside-about-me p {
+      color: var(--dark-blue);
+    }
+    .sentence-link, .action-link {
+      color: var(--light-blue);
+    }
+
+    .action-link {
+      display: inline-block;
+      text-decoration: none;
+      text-transform: uppercase;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+
+    .sentence-link:hover, .sentence-link:focus,
+    .action-link:hover, .action-link:focus {
+      color: var(--dark-blue);
+    }
+
+    a.article-title:hover, a.article-title:focus {
+      color: var(--light-blue);
+    }
+
+   
+    /* Layout */
+    .wrapper,
+    .article-featured,
+    .article-recent {
+      display: flex;
+      flex-direction: column;
+    }
+
+    @media screen and (min-width: 840px) {
+      .wrapper,
+      .article-recent {
+        flex-direction: row;
+      }
+
+      .wrapper-header {
+      justify-content: space-between;
+      align-items: center; 
+      }
+      
+      .wrapper-main {
+        align-items: flex-start;
+        justify-content: space-between;
+      }
+
+      main {
+        width: 72%;
+      }
+
+      aside {
+        width: 22%;
+      }
+
+      .article-recent {
+        justify-content: space-between;
+      }
+
+      .article-recent-header {
+        width: 27%;
+      }
+
+      .article-recent-body {
+        width: 69%;
+      }
+
+}
+
+
+    /* General Styles */
+
+    body {
+      font-family: 'Ubuntu', sans-serif;
+      font-weight: 300;
+      font-size: 1.125rem;
+      line-height: 1.5;
+      color: var(--dark-grey);
+    }
+
+    header { 
+      padding: 3rem;
+      background-color: var(--light-grey);
+      margin-bottom: 3rem;
+      text-align: center;
+    }
+
+    .main-nav ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .main-nav li {
+      display: block;
+  
+    }
+
+/* Nav links */
+
+  .nav-link {
+    color: var(--grey-dark);
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .main-nav a::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2px;
+    background-color: grey;
+    transform: scale(0);
+    transform-origin: right;
+    transition: transform ease-in-out 350ms;
+    transition-delay: 50ms;
+  }
+
+  .nav-link:hover.nav-link::after, 
+  .nav-link:focus.nav-link::after, 
+  .nav-link.active.nav-link::after {
+    transform: scale(1);
+    transform-origin: left;
+  }
+
+
+  .title {
+    margin-bottom: 1rem;
+  }
+
+  @media screen and (min-width: 840px) {
+    header {
+      text-align: left;
+    }
+
+    .wrapper-header {
+      display: flex;
+      align-items: center;
+    }
+
+    .main-nav li {
+      display: inline-block;
+      margin-left: 0.7rem;
+    }
+
+    .title {
+      margin-bottom: 0;
+    }
+  }
+
+  /* Articles */
+
+  .article-featured, .article-recent {
+  padding: 1rem 0;
+  }
+
+  .article-featured {
+    padding-top: 0;
+    padding-bottom: 2rem;
+  }
+
+  .article-recent:nth-of-type(2) {
+    padding-top: 2rem;
+  }
+
+  /* Featured article styles and flex order */
+  .article-featured {
+    border-bottom: 1px solid var(--dark-grey);
+  }
+
+  .article-featured img {
+    order: 1;
+    margin-bottom: 2rem;
+  }
+
+  .article-featured .article-meta-info {
+    order: 2;
+  }
+
+  .article-featured .article-title {
+    order: 3;
+  }
+  .article-featured p {
+    order: 4;
+  }
+
+  .article-featured .action-link {
+    order: 5;
+  }
+
+
+/* Aside Styles - About me block*/
+
+aside {
+  margin-top: 2rem;
+}
+
+.aside-about-me, .aside-recent-posts {
+  border: solid 20px var(--grey); 
+  margin-bottom: 4rem;
+  padding: 1rem;
+}
+ 
+.aside-post {
+  padding: 2rem 0;
+  border-bottom: 1px solid var(--dark-grey);
+}
+
+.aside-post:first-of-type {
+  padding-top: 0;
+}
+
+.aside-post:last-child {
+  border-bottom: none;
+}
+
+@media screen and (min-width: 840px) {
+  aside {
+    margin-top: 0;
+  }
+
+  .article-recent-header img {
+  object-fit: cover;
+  height: 250px;
+}
+
+  .aside-about-me img {
+    object-fit: cover;
+    object-position: 45% 0;
+    height: 150px;
+  }
+
+}
+
+/* Footer styles */
+footer {
+  margin-top: 2rem;
+  padding: 2rem 0;
+  background-color: var(--dark-blue);
+  align-items: center;  
+}
+
+footer p {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+
+</style>
+
+
+</head>
+<body>
+  <header>
+    <div class="wrapper wrapper-header">
+      <div class="title">
+        <h1 class="main-title">Living the simple life</h1>
+        <p class="main-subtitle">A blog exploring minimalism in life</p>
+      </div>
+      <nav class="main-nav">
+        <ul>
+          <li><a class="nav-link active" href="#">Home</a></li>
+          <li><a class="nav-link" href="#">About me</a></li>
+          <li><a class="nav-link" href="#">Recent posts</a></li>
+        </ul>
+      </nav>  
+    </div>
+  </header>
+  
+  <div class="wrapper wrapper-main">
+    <main role="main">
+      
+       <!-- Featured article starts here-->
+      <article class="article-featured">
+        <h2 class="article-title">Finding simplicity in life</h2>
+        <img src="https://picsum.photos/id/237/920/400" alt="Dog on the wooden floor looking at the camera.">
+        <p class="article-meta-info">July 23, 2019 | 3 comments</p>
+         <p><strong>Finding simplicity in life Life can get complicated really quickly</strong>, but it doesn't have to be! There are many ways to simplify your life, <a href="#" class="sentence-link">a few of which we've explored in the past.</a> This week we're taking a bit of a approach though, in how you can find simplicity in the life you already living.</p>
+          <a href="#" class="action-link">Continue reading</a>
+      </article>
+      
+      <!-- Recent articles list starts here-->
+       <!-- First article-->
+      <article class="article-recent">
+        <div class="article-recent-header">
+          <img src="https://picsum.photos/id/1080/920/400" alt="Dog on the wooden floor looking at the camera.">
+          <p class="article-meta-info">July 19, 2019 | 3 comments</p>
+        </div>
+        <div class="article-recent-body">
+          <h3 class="article-title">Keeping cooking simple</h3>
+          <p>Keeping cooking simple Food is a very important part of everyone's life. If you want to be healthy, you have to eat healthy. One of the easiest ways to do that is to keep your cooking nice and simple.</p>
+          <a href="#" class="action-link">Continue reading</a>
+      </div>
+      </article>
+      
+         <!-- Second post-->
+        <article class="article-recent">
+        <div class="article-recent-header">
+          <img src="https://picsum.photos/id/157/920/400" alt="Dog on the wooden floor looking at the camera.">
+          <p class="article-meta-info">July 12, 2019 | 3 comments</p>
+        </div>
+        <div class="article-recent-body">
+          <h3 class="article-title">Simplicity and work</h3>
+          <p>Simplicity and work Work is often a major source of stress. People get frustrated, it ruins their relationship with others and it leads to burnout. By keeping your work life as simple as possible, it will help balance everything out.</p>
+          <a href="#" class="action-link">Continue reading</a>
+      </div>
+      </article>
+      
+        <!-- Third post-->
+      <article class="article-recent">
+        <div class="article-recent-header">
+          <img src="https://picsum.photos/id/1008/920/400" alt="Simple room decorations with woman sleeping by the window.">
+          <p class="article-meta-info">July 3, 2019 | 3 comments</p>
+        </div>
+        <div class="article-recent-body">
+          <h3 class="article-title">Simple decorations</h3>
+              <p>Simple decorations A home isn't a home until you've decorated a little. People either don't decorate, or they go overboard and it doesn't have the impact they were hoping for. Staying simple will help draw the eye where you want it to and make things pop like never before. continue reading</p>
+          <a href="#" class="action-link">Continue reading</a>
+      </div>
+      </article>
+    </main>
+    
+    <aside>
+        <!-- Aside blocks -->
+      <article class="aside-about-me">
+        <h3 class="aside-block-title">About me</h3>
+        <img src="https://www.fillmurray.com/g/920/350" alt="Fill Muray">
+        <p>I find life better, and I'm happier, when things are nice and simple.</p>
+      </article>
+      
+      <section class="aside-recent-posts">
+        <h3 class="aside-block-title">Recent Posts</h3>
+          <!-- Fist post -->
+        <div class="aside-post">
+          <img src="https://picsum.photos/id/1080/700/400" alt="Dog on the wooden floor looking at the camera.">
+          <a href="#" class="article-title">Keep cooking simple</a>
+        </div>
+         <!-- Second post -->
+        <div class="aside-post">
+          <img src="https://picsum.photos/id/157/700/400" alt="Dog on the wooden floor looking at the camera.">
+          <a href="#" class="article-title">Simplicity and work</a>
+        </div>
+         <!-- Third post -->
+        <div class="aside-post">
+          <img src="https://picsum.photos/id/1008/700/400" alt="Simple room decorations with woman sleeping by the window.">
+          <a href="#" class="article-title">Simple decorations</a>
+        </div>
+      </section>
+    </aside>
+  </div>
+  
+  <footer>
+    <p><strong>Living the Simple life</strong></p>
+    <p>Copyright 2020</p>
+  </footer>
+</body>
+</html>

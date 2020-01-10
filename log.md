@@ -38,6 +38,7 @@
 [Day 7](#day-7-january-7th-2020)
 [Day 8](#day-8-january-8th-2020)
 [Day 9](#day-9-january-9th-2020)
+[Day 10](#day-10-january-10th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -166,3 +167,26 @@ Today I finished main page of the course challenge without looking at solution w
 - Media queries
 
 [Twitter post](https://twitter.com/DBilanoski/status/1215402707139416071)
+
+### Day 10: January 10th, 2020
+
+Today I decided to redo the whole CSS of the yesterday's exercise to try the "Mobile First" approach again and reinforce it as a principle - success. After rethinking the whole process, I concluded that:
+- Mobile first is actually a lot less CSS code to write initially so CSS is lighter and more simple
+    - Layout for mobile devices is mostly done without event writing CSS
+- When writing HTML, desktop version needs to be considered because of more complex layout
+
+After that, I finished last video of the course second module and successfully completed exercise project using both approaches. 
+
+I decided to include all bigger challenge project to this journal by this parameters:
+- Projects will be stored in "exercises" folder
+- Whenever I can, I will try to make projects as sigle files for simplicity
+- When available, I will link project file to the journal entry
+
+**Topics I covered:**
+- Mobile first approach in structuring CSS
+- Code refactoring
+
+[Twitter post](https://twitter.com/DBilanoski/status/1215761357565571073)
+
+[Link to exercise](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_01-M2_Living_the_simple_life.html)
+
