@@ -39,6 +39,7 @@
 [Day 8](#day-8-january-8th-2020)
 [Day 9](#day-9-january-9th-2020)
 [Day 10](#day-10-january-10th-2020)
+[Day 11](#day-11-january-11th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -190,3 +191,18 @@ I decided to include all bigger challenge project to this journal by this parame
 
 [Link to exercise](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_01-M2_Living_the_simple_life.html)
 
+### Day 11: January 11th, 2020
+
+Weekend comes and biggest challenge for me becomes to catch time for learning. Today I started module 3 of the RWD course called "Stepping up your style" and got up to half of the first challenge which was fun. Looking forward to finish it tomorrow.
+
+**Topics I covered:**
+- More text properties like:
+    - line-height
+        - Interesting to note, even though it will take any unit, it is probably best to use "unitless" number since value here is multiplier on font-size
+            - In example, if font size is set to 16px and line height to 1.6, it will calculate as 16 * 1.6
+    - text-transform
+    - letter-spacing
+- Background-image
+    - I you have text on top of image, use standard `<img>`, if not, `background-image: url("link.jpg")` is good idea
+
+[Twitter post](https://twitter.com/DBilanoski/status/1216106160694140932)
