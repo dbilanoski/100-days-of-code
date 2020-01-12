@@ -40,6 +40,7 @@
 [Day 9](#day-9-january-9th-2020)
 [Day 10](#day-10-january-10th-2020)
 [Day 11](#day-11-january-11th-2020)
+[Day 12](#day-12-january-12th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -206,3 +207,22 @@ Weekend comes and biggest challenge for me becomes to catch time for learning. T
     - I you have text on top of image, use standard `<img>`, if not, `background-image: url("link.jpg")` is good idea
 
 [Twitter post](https://twitter.com/DBilanoski/status/1216106160694140932)
+
+### Day 12: January 12th, 2012
+
+Today I was super productive - especially for one Sunday where I usually manage to sit down at a computer only later at night. Key is to avoid responsibilities :) I've managed to learn for almost 4 hours in two sittings and almost finished third module from the RWD course. For tomorrow I am leaving CSS blend modes after which I will take one day off from the course materials to study HTML forms.
+
+**Topics I covered:**
+- Flexbox order refresher
+- Viewport units
+- Box-sizing options
+- HTML Forms - basics
+- Styling forms
+- CSS gradients
+    - **Very** interesting thing - you can set background image to borders and with that make the border have garient background
+    - Weird syntax though
+        - `border-image: linear-gradient(direction, color 1, color 2) 1;` where the "1" at the and is called "Slice" value and border needs it to render image properly
+- CSS transitions
+- Challenge project completed, upload to journal scheduled for tommorow then I'll actually finish the module
+
+[Twitter post](https://twitter.com/DBilanoski/status/1216481279874682880)
