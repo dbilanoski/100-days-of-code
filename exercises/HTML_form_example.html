@@ -1,0 +1,254 @@
+<!-- 
+
+## HTML Form example following best practices from MDN's articles.
+## CSS is internal just to simplify Git pushing to 100daysOfCode journal repository.
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Simple payment form</title>
+  <style>
+        /*
+
+    ## When structuring form, few things to consider:
+      * If there are different parts of form with different functionality, good practice is to contain them in seperate <section> elements
+      * Smaller groupings should be done with <fieldset> tag
+        - <legend> is used to describe <fieldset> tag and should be used whenever <fieldset> tag is used
+      * Common pratcice is to use other common HTML structure
+        - <ul> -> <li>'s for lists
+        - <p> or <div> elements to wrap label and its input widget
+        - <h1-6> for titles etc.
+
+    ## When structuring form widgets:
+      * <label> should be used to define a label for used widget
+      * To implement it correctly with input elements, <label>'s "for" attribute should match <input>'s "ID" atrribute
+      * Two ways of writing them:
+        - separate:
+          # <label for="name">Name:</label>
+          # <input type="text" id="name" name="user_name">
+        - or nested:
+          # <label for="name">
+          #   Name: <input type="text" id="name" name="user_name">
+          # </label>
+        - in both cases, it is considered best practice to set for & id attributes to match
+      * Labels are clickable
+    */
+
+
+    /* Globals & resets */
+
+    @import url('https://fonts.googleapis.com/css?family=Roboto:400,900&display=swap');
+
+    * {box-sizing: border-box;}
+
+    body {
+      color: #474039;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    h1, button, strong {
+      color: #1e1b18;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    em {
+      display: block;
+      margin-top: 0.5rem;
+    }
+
+    /* Utilities */
+
+    .wrapper {
+      max-width: 90%;
+      width: 720px;
+      margin: 0 auto;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      padding: 3rem 4rem;
+    }
+
+    /* Form styles */
+
+    section {
+      margin-top: 2rem;
+    }
+
+    fieldset {
+      margin-bottom: 2rem;
+    }
+
+    h1, h1 + p {
+      text-align: center;
+      margin: 0;
+    }
+
+    h1 + p {
+      margin-top: 0.25rem;
+    }
+
+    input, select {
+      width: 100%;
+      margin-top: 1rem;
+      padding: 1em;
+    }
+
+    input::placeholder, h1 + p, em {
+      color: #7f7266;
+    } 
+
+    input[type="radio"] {
+      width: auto;
+    }
+
+    button {
+      display: block;
+      padding: 0.75em 2.5em;
+      margin: 2rem auto 0 auto;
+      cursor: pointer;
+    }
+
+    button:hover, button:focus {
+      background-color: #7f7266;
+      color: #fff;
+    }  
+      
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+  
+    <form action="#" method="POST">
+      
+      <!-- Form title and brief description -->
+      <h1>Payment form</h1>
+      <p>Required fields are followed by <strong><abbr title="required">*</abbr>.</strong></p>
+      
+      <!-- Start of the first disctinct section of our form - Contact data -->
+      <section>
+        <h2>Contact information</h2>
+        
+        <!-- Group of related form items with description in <legend> -->
+        <fieldset>
+          <legend>Title</legend>
+          
+          <!-- For our list of radio buttons, we'll use unordered list -->
+          <ul>
+            
+            <!-- First radio button item -->
+            <li>
+              <!-- <label> for description of corresponding nested <input> -->
+              <label for="title_1">
+                <input type="radio" id="title_1" name="title" value="K">
+                King
+              </label>
+            </li>
+            
+            <!-- Second radio button item -->
+            <li>
+              <label for="title_2">
+                <input type="radio" id="title_2" name="title" value="Q">
+                Queen
+              </label>
+            </li>
+               
+            <!-- Third radio button item -->
+            <li>
+              <label for="title_3">
+                <input type="radio" id="title_3" name="title" value="J">
+                Joker
+              </label>
+            </li>
+          </ul>
+        </fieldset>
+      
+        <!-- Start of textual inputs in section, we'll wrap items in paragraph tag -->
+      
+        <!-- First item -->
+        <p>
+          <label for="name">
+            <!-- We'll wrap "Name" with <span> tag and point out required field with "*" wrapped in <strong> and <abbr> tags -->
+            <span>Name:</span>
+            <strong><abbr title="required">*</abbr></strong>
+          </label>
+          <input type="text" id="name" name="username" placeholder="Your name">
+      </p>
+      
+      <!-- Second item -->
+      <p>
+        <label for="mail">
+          <span>E-mail:</span>
+          <strong><abbr title="required">*</abbr></strong>
+        </label>
+        <input type="email" id="mail" name="usermail" placeholder="Your e-mail address">
+      </p>
+      
+      <!-- Third item -->
+      <p>
+        <label for="password">
+          <span>Password: </span>
+          <strong><abbr title="required">*</abbr></strong>
+        </label>
+        <input type="password" id="password" name="password" placeholder="Your password">
+      </p>
+      </section>
+      
+      <!-- Start of the second distinct section of our form - Payment data -->
+      <section>
+        
+        <!-- Title of our section -->
+        <h2>Payment information</h2>
+        
+        <!-- Again, we are wrapping inputs & their labels in <p> tags -->
+        <!-- First item -->
+        <p>
+          <label for="card">
+            <span>Card type:</span>
+          </label>
+          
+          <!-- Dropdown menu list for credit cards - we are still matching "id" with <label>'s "For" -->
+          <select name="usercard" id="card">
+            <option value="visa">VISA</option>
+            <option value="mc">Mastercard</option>
+            <option value="amex">American Express</option>
+          </select>
+        </p>
+        
+        <!-- Second item -->
+        <p>
+          <label for="number">
+            <span>Card number:</span>
+            <strong><abbr title="required">*</abbr></strong>
+          </label>
+          
+          <!-- I'm using "tel" type instead of "number" to avoid arrows for incrementing number values that are showing when type is set to "number" -->
+          <input type="tel" id="number" name="cardnumber">
+        </p>
+        
+        <!-- Third item -->
+        <p>
+          <label for="date">
+            <span>Expiration date:</span>
+            <strong><abbr title="required">*</abbr></strong>
+            <em>formatted as mm/yy</em>
+          </label>
+          <input type="date" id="date" name="expiration">
+        </p>
+      </section>
+      
+      <!-- Submit button at the end -->
+      <p> 
+        <button type="submit"> Validate the payment </button>
+      </p>
+    </form>
+    
+  </div>
+</body>
+</html>

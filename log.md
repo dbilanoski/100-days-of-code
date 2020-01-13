@@ -41,6 +41,7 @@
 [Day 10](#day-10-january-10th-2020)
 [Day 11](#day-11-january-11th-2020)
 [Day 12](#day-12-january-12th-2020)
+[Day 13](#day-13-january-13th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -226,3 +227,25 @@ Today I was super productive - especially for one Sunday where I usually manage 
 - Challenge project completed, upload to journal scheduled for tommorow then I'll actually finish the module
 
 [Twitter post](https://twitter.com/DBilanoski/status/1216481279874682880)
+
+### Day 13: January 13th, 2020
+
+Today I completed module 2 of Kevin Powell's RWB course where I revisited CSS blend modes. After that, I took a detour from course material to learn more about structuring forms and what is considered to be best practice for that matter. Also, played a bit with `border-image` and clipping background to text with CSS.
+
+Tomorrow I'm continuing with course materials starting module 4 - looking forward to that.
+
+**Topics I covered:**
+- HTML forms
+    - How to structure them
+    - How to grup similar items into fieldsets and larger groups into sections
+    - How to properly use labels and inputs to achieve accessibility
+        - Interestingly, inputs can be nested into labels and still be considered best pratcice
+        - Important is to match input's ID to correspodning label's "for" attribute
+    - Basic styling of form elements
+    - How screen readers percieve form structure and elements
+    - Built an example with tutorial on [Codepen](https://codepen.io/dbilanoski/pen/JjoZapB)
+- CSS border images and clip masking 
+    - Border gradient with `border-image`
+    - Knockout text with `background-clip: text`
+
+[Twitter post](https://twitter.com/DBilanoski/status/1216857573200203776)
