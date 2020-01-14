@@ -42,6 +42,7 @@
 [Day 11](#day-11-january-11th-2020)
 [Day 12](#day-12-january-12th-2020)
 [Day 13](#day-13-january-13th-2020)
+[Day 14](#day-14-january-14th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -249,3 +250,25 @@ Tomorrow I'm continuing with course materials starting module 4 - looking forwar
     - Knockout text with `background-clip: text`
 
 [Twitter post](https://twitter.com/DBilanoski/status/1216857573200203776)
+
+### Day 14: January 14th, 2020
+
+Today I started a deep dive into Flexbox and went through horizontal and vertical aligment methonds both by flex parent and on child items and learnt how to control size and growth of flex child items. Super fun. Finished first challenge exercise by myself, need to check how instructor did it.
+
+Before I started Module 4 of the RWD course, I finished CSS border-image & mask-clipping example on [Codepen](https://codepen.io/dbilanoski/pen/BayPBzQ) and saved it both as a quick refererence and as a Twitter upload CSS trick for todays post.
+
+**Topics I covered:**
+- Flex flow (`flex-direction` and `flex-wrap`)
+- Flex (`flex-grow`, `flex-shrink` and `flex-basis`)
+- Horizontal and vertical aligment by flex parent
+    - `justify-content` and `align-items`
+    - Interestingly, there is also `align-content` function
+        - It will align all new rows created automaticly if `flex-wrap: wrap` by cross axis
+- Horizontal and vertical aligment by flex child items
+    - `align-self`, but since it works only by cross axis, when `flex-direction: column` it becomes aligment for left and right 
+        - Here we use "auto" for top and bottom margins since in Flexbox "auto" on margins works for vertical aligment also
+
+[Twitter post](https://twitter.com/DBilanoski/status/1217217370340646912)
+
+[Challenge exercise on Codepen](https://codepen.io/dbilanoski/pen/qBEyXBP) 
+
