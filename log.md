@@ -43,6 +43,7 @@
 [Day 12](#day-12-january-12th-2020)
 [Day 13](#day-13-january-13th-2020)
 [Day 14](#day-14-january-14th-2020)
+[Day 15](#day-15-january-15th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -192,7 +193,7 @@ I decided to include all bigger challenge project to this journal by this parame
 
 [Twitter post](https://twitter.com/DBilanoski/status/1215761357565571073)
 
-[Link to exercise](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_01-M2_Living_the_simple_life.html)
+[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_01-M2_Living_the_simple_life.html)
 
 ### Day 11: January 11th, 2020
 
@@ -272,3 +273,18 @@ Before I started Module 4 of the RWD course, I finished CSS border-image & mask-
 
 [Challenge exercise on Codepen](https://codepen.io/dbilanoski/pen/qBEyXBP) 
 
+### Day 15: January 15th, 2020
+
+Today I've completed Module 4 of RWD course where I watched how instructor solved the challenge I took yesterday by myself. Learned few good tricks, especially one with present bug when trying to use `flex-basis` on images. Refractored my code to reflect that issue with implemented solution to be saved as a quick reference, and to share with Twitter folks. Will be calling it a night and use time left to relax and play some video games before sleep - good first half of the month, tommorow on to the Module 4 and CSS Grid - can't wait.
+
+**Topics I covered:**
+- Flexbox in general, practiced it on example and refreshed knowledge
+- Code refractoring
+- Flex-basis and issues in some edge cases
+    - Interestingly, when used on image, it won't work on Chrome and Firefox (known bug)
+    - To fix it, `min-width` and/or `min-height` needs to be set to 0
+- Object-fit and object-position
+
+[Twitter post](https://twitter.com/DBilanoski/status/1217568401117368322)
+
+[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_03-Card_component.html)

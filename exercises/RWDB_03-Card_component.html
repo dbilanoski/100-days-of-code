@@ -1,0 +1,175 @@
+<!-- 
+
+## Challenge project from Module 3 "Taking flexbox to the next level". 
+## CSS is internal just to simplify Git pushing to 100daysOfCode journal repository.
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Blinker:400,700|Source+Sans+Pro&display=swap" rel="stylesheet">
+  <title>Card Component</title>
+
+  <style>
+    /* Colors */
+    :root {
+      --dark-blue: #222d4a;
+      --light-blue: #05cbe9;
+    }
+
+    /* Globals & resets */
+    * {
+      box-sizing: border-box;
+      margin: 0; 
+    }
+
+    body {
+      font-family: 'Source Sans Pro', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    /* Typography */
+    h2, p {
+      margin-bottom: 1em;
+    }
+
+    .button, .card-title, .meta-info {
+      font-family: 'Blinker', sans-serif;
+    }
+
+    .card-title {
+      color: var(--light-blue);
+      font-size: 28px;
+      margin-bottom: 0.5em;
+      line-height: 1.1;
+    }
+
+    .card-text, .meta-info {
+      color: rgba(255, 255, 255, 0.7);
+    }
+
+    .card-text {
+      line-height: 1.6;
+    }
+
+    .meta-info {
+      margin-bottom: 0;
+      font-weight: 400;
+      line-height: 1.4;
+      font-size: 1rem;
+    }
+
+    .span, .button {
+      font-weight: 700;
+    }
+
+    span {
+      display: block;
+      font-size: 1.85em;
+    }
+
+    .button {
+      font-size: 20px;
+      letter-spacing: 1px;
+      text-decoration: none;
+      padding: 0.55em 2em;
+      color: var(--dark-blue);
+      background-color: var(--light-blue); 
+    }
+
+    .button:hover, .button:focus {
+      background-color: rgba(255, 255, 255, 0.6);
+    }
+
+    @media screen and (min-width: 620px) {
+      .card-title {
+        font-size: 36px;
+      }
+      
+      .card-text {
+        font-size: 18px;
+      }
+    }
+
+    /* Card Styles */
+    .card, .card-body, .cta {
+      display: flex;
+      
+    }
+    .card {
+      width: 90%;
+      max-width: 780px;
+      height: 620px;
+      flex-direction: column;
+      background-color: var(--dark-blue);
+    }
+
+    .card-header {
+        /*
+      background-color: #fff;
+      background-image: url(https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg);
+      background-size: cover;
+      background-position: center;
+      */
+      
+      flex-basis: 40%;
+      object-fit: cover;
+      /* When using flex-basis on image, there is a bug in browsers (mostly Chrome) where flex-basis is not applied.*/
+      /* To fix it, min width and hight (or whichever is cousing you problems) need to be set to 0. */
+      min-width: 0;
+      min-height: 0;
+    }
+
+    .card-body {
+      flex-basis: 60%;
+      padding: 2rem;
+      flex-direction: column;
+    }
+
+    .cta {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-top: auto;
+    }
+
+    .cta p {
+      flex: 0;
+    }
+
+    @media screen and (min-width: 620px) {
+      .card {
+        flex-direction: row;
+        height: 350px;
+      }
+      
+      .card-header {
+      object-position: 20% 30%;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+  <div class="card">
+    <!--<div class="card-header"></div>-->
+    <img class="card-header" src="https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg" alt="Woman typing on keyboard with glowing keys">
+    <article class="card-body">
+      <h2 class="card-title">7 tech tips that you need to know</h2>
+      <p class="card-text">Using these 7 proven tips from experts in the industry, you can save time, money and more!</p>
+      <div class="cta">
+        <p class="meta-info"><span>15</span> minute read</p>
+        <a href="#" class="button">Read more</a>
+      </div>
+    </article>
+  </div>
+</body>
+</html>
