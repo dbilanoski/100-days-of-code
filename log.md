@@ -44,6 +44,7 @@
 [Day 13](#day-13-january-13th-2020)
 [Day 14](#day-14-january-14th-2020)
 [Day 15](#day-15-january-15th-2020)
+[Day 16](#day-16-january-16th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -288,3 +289,21 @@ Today I've completed Module 4 of RWD course where I watched how instructor solve
 [Twitter post](https://twitter.com/DBilanoski/status/1217568401117368322)
 
 [Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_03-Card_component.html)
+
+### Day 16: January 16th, 2020
+
+Today I started Module 5 of the RWD course and a deep dive into CSS Grid. Now, I have tried Grid before, but never actually learned it. Went over few basic properties for setting parent-children relationship and jumped into positioning items over grid and aligning them vertically and horizontally.
+
+Tested everything by rewriting last exercise to use Grid, managed to pull it off without issues. So far, I'm excited to learn but not sure if Grid is actually a better solution for simple layouts. I'm thinking more in terms of - Grid for big/site layout, Flexbox for simple smaller layouts.
+
+**Topics I covered:**
+- Grid, what it is and how it works
+- Templating for rows and columns
+- Positioning children over grid using line numbers
+    - Interestingly, you can count them backward, but with negative numbers (1 to 4 -> -1 to -4)
+    - With that in mind, full cover of item over all lines can be shortened by using 1 to -1
+- Aligning positioned children both from parent and by self using justify and align functions
+
+[Twitter post](https://twitter.com/DBilanoski/status/1217942649052844032)
+
+[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_04-Card_component_with_grid.html)

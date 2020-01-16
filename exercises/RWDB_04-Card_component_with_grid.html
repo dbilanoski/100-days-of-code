@@ -1,0 +1,197 @@
+<!-- 
+
+## Challenge project from Module 4 "Taking flexbox to the next level" rewritten using CSS Grid as a first challenge in Module 5. 
+## CSS is internal just to simplify Git pushing to 100daysOfCode journal repository.
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Card Component with Grid</title>
+  <style>
+    /* Imports */
+      @import url('https://fonts.googleapis.com/css?family=Blinker:400,700|Source+Sans+Pro&display=swap');
+
+      /* Colors */
+      :root {
+        --dark-blue: #222d4a;
+        --light-blue: #05cbe9;
+      }
+
+      /* Globals & resets */
+      * {
+        box-sizing: border-box;
+        margin: 0; 
+      }
+
+      img {
+        width: 100%;
+        height: 100%;
+      }
+
+      body {
+        font-family: 'Source Sans Pro', sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      /* Typography */
+      h2, p {
+        margin-bottom: 1em;
+      }
+
+      .button, .card-title, .meta-info {
+        font-family: 'Blinker', sans-serif;
+      }
+
+      .card-title {
+        color: var(--light-blue);
+        font-size: 28px;
+        margin-bottom: 0.5em;
+        line-height: 1.1;
+      }
+
+      .card-text, .meta-info {
+        color: rgba(255, 255, 255, 0.7);
+      }
+
+      .card-text {
+        line-height: 1.6;
+      }
+
+      .meta-info {
+        margin-bottom: 0;
+        font-weight: 400;
+        line-height: 1.4;
+        font-size: 1rem;
+      }
+
+      .span, .button {
+        font-weight: 700;
+      }
+
+      span {
+        display: block;
+        font-size: 1.85em;
+      }
+
+      .button {
+        font-size: 20px;
+        letter-spacing: 1px;
+        text-decoration: none;
+        padding: 0.55em 2em;
+        color: var(--dark-blue);
+        background-color: var(--light-blue); 
+      }
+
+      .button:hover, .button:focus {
+        background-color: rgba(255, 255, 255, 0.6);
+      }
+
+      @media screen and (min-width: 620px) {
+        .card-title {
+          font-size: 36px;
+        }
+        
+        .card-text {
+          font-size: 18px;
+        }
+      }
+
+      /* Card Styles */
+
+      .card {
+        display: grid;
+        grid-template: 250px 1rem auto auto 150px 1rem / 1rem auto auto 1rem;                       
+        width: 90%;
+        max-width: 780px;
+        background-color: var(--dark-blue);
+      }
+
+      .card-header {
+        object-fit: cover;
+        grid-column: 1 / 5;
+      }
+
+      .card-title {
+        grid-column: 2 / 4;
+        grid-row: 3 / 4;
+      }
+
+      .card-text {
+        grid-row: 4 / 5;
+        grid-column: 2 / 4;
+      }
+
+      .meta-info, .button {
+        grid-row: 5 / 6;
+        align-self: end;
+      }
+
+      .meta-info {
+        grid-column: 2 / 3;
+        justify-self: start;
+      }
+
+      .button {
+        grid-column: 3 / 4;
+        justify-self: end;
+      
+      }
+
+      @media screen and (min-width: 620px) {
+        .card {
+          grid-template: 1rem auto auto 150px 1rem / 250px 1rem auto auto 1rem;
+        }
+        
+      .card-header {
+        object-position: 20% 30%;
+        grid-column: 1 / 2;
+        grid-row: 1 / -1;
+      }
+
+      .card-title {
+        grid-column: 3 / 5;
+        grid-row: 2 / 3;
+      }
+
+      .card-text {
+        grid-row: 3 / 4;
+        grid-column: 3 / 5;
+      }
+
+      .meta-info, .button {
+        grid-row: 4 / 5;
+        align-self: end;
+      }
+
+      .meta-info {
+        grid-column: 3 / 4;
+        justify-self: start;
+      }
+
+      .button {
+        grid-column: 4 / 5;
+        justify-self: end;
+      
+      }
+
+      }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img class="card-header" src="https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg" alt="Woman typing on keyboard with glowing keys">
+    <h2 class="card-title">7 tech tips that you need to know</h2>
+    <p class="card-text">Using these 7 proven tips from experts in the industry, you can save time, money and more!</p>
+    <p class="meta-info"><span>15</span> minute read</p>
+    <a href="#" class="button">Read more</a>
+  </div>
+</body>
+</html>
