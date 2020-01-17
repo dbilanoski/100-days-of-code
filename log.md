@@ -45,6 +45,7 @@
 [Day 14](#day-14-january-14th-2020)
 [Day 15](#day-15-january-15th-2020)
 [Day 16](#day-16-january-16th-2020)
+[Day 17](#day-17-january-17th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -307,3 +308,19 @@ Tested everything by rewriting last exercise to use Grid, managed to pull it off
 [Twitter post](https://twitter.com/DBilanoski/status/1217942649052844032)
 
 [Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_04-Card_component_with_grid.html)
+
+### Day 17: January 17th, 2020
+
+Today I decided to pratcice what I learned yesterday and test my understaning of CSS Grid basic concepts by building component card. I spent more time than I intended looking for complex enough design which looked good - decided on shoe store product card, turned out really nice. Althought I understood Grid just fine, almost whole hour went on making responsive square box around some boxed numbers to stay in proportion. And that is how you end up after midnight, way pass intended bed time, and with missed push to Github.
+
+**Topics I covered:**
+- Challenge exercise to test my Grid understanding
+    - CSS Grid basic templating conceptcs
+    - Aligning items horizontally and vertically
+    - Chaning layout in media queries
+- How to make responsive square with borders around element whose content varies
+    - Interesting solution described [here](https://spin.atomicobject.com/2015/07/14/css-responsive-square/)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1218318445365944321)
+
+[Challenge excercise on Codepen](https://codepen.io/dbilanoski/pen/GRgYENj?editors=1100)
