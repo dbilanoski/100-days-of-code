@@ -46,6 +46,7 @@
 [Day 15](#day-15-january-15th-2020)
 [Day 16](#day-16-january-16th-2020)
 [Day 17](#day-17-january-17th-2020)
+[Day 18](#day-18-january-18th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -324,3 +325,15 @@ Today I decided to pratcice what I learned yesterday and test my understaning of
 [Twitter post](https://twitter.com/DBilanoski/status/1218318445365944321)
 
 [Challenge excercise on Codepen](https://codepen.io/dbilanoski/pen/GRgYENj?editors=1100)
+
+### Day 18: January 18th. 2020
+
+Today I knew there will be an hour at best of free time so I planned my hour properly - fix issue with product image and refactor some code from yesterday's project, then go through Free Code Camp and finish basic CSS module of Responsive Web Design certification - check, check and check.
+
+**Topics I covered:**
+- CSS custom properties (variables)
+- Specificity in CSS
+- Basic CSS functions, mostly all of them
+- Code refactoring
+
+[Twitter post](https://twitter.com/DBilanoski/status/1218621599340994563)
