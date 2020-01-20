@@ -48,6 +48,7 @@
 [Day 17](#day-17-january-17th-2020)
 [Day 18](#day-18-january-18th-2020)
 [Day 19](#day-19-january-19th-2020)
+[Day 20](#day-20-january-20th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -352,3 +353,20 @@ Today I continued with Responsive Web Design Course, Module 5, CSS Grid where I 
     - Interestingly, you can't use fr unit as minimum in minmax()
 
 [Twitter post](https://twitter.com/DBilanoski/status/1218990421503815680)
+
+### Day 20: January 20th, 2020
+
+Today was more theoretical then "hands-on" - I completed module 5 of the RWD Course but since I caught a nasty cold, wasn't able to sit for longer periods of time at my computer so I postponed challenge project for tommorow, finished "Applied Visual Design" module on Free Code Camp an tought myself how to animate a [heartbeat](https://codepen.io/dbilanoski/pen/wvBQQyJ) with CSS.
+
+**Topics I covered:**
+- CSS Grid
+    - repeat() function
+    - how to use it with Auto-fit & Auto-fill
+    - Auto-fill is interesting, it will continue to add new columns eventhough they are blank and not declared in the markup
+- CSS in general
+    - animations
+    - apsolute positioning
+    - gradients and different ways of declaring colors
+- Color theory basics
+
+[Twitter post](https://twitter.com/DBilanoski/status/1219379689443282944)
