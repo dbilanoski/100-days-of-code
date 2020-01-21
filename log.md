@@ -49,6 +49,7 @@
 [Day 18](#day-18-january-18th-2020)
 [Day 19](#day-19-january-19th-2020)
 [Day 20](#day-20-january-20th-2020)
+[Day 21](#day-21-january-21st-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -370,3 +371,21 @@ Today was more theoretical then "hands-on" - I completed module 5 of the RWD Cou
 - Color theory basics
 
 [Twitter post](https://twitter.com/DBilanoski/status/1219379689443282944)
+
+
+### Day 21: January 21st, 2020
+
+Today I finally started with final challenge project form RWD course, wrote HTML for homepage, started styling it and after I wrote all resets, typography, some styles and started with layout, I realised that I constructed that whole page with Flexbox in mind. Rewroted HTML, wrote Grid layout and called it a night. Also, spent more than hour to find usable assets online since Scimba: 
+- is not allowing to download images instructor used
+- is still unusable.
+
+**Topics I covered:**
+- Writing bigger project from scratch
+- How to plan a layout
+    - Considering Flexbox
+    - Considering Grid
+- Flexbox & Grid layout
+- Basic CSS styles
+- Code refactor
+
+[Twitter post](https://twitter.com/DBilanoski/status/1219761005510713344)
