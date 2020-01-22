@@ -50,6 +50,7 @@
 [Day 19](#day-19-january-19th-2020)
 [Day 20](#day-20-january-20th-2020)
 [Day 21](#day-21-january-21st-2020)
+[Day 22](#day-22-january-22nd-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -372,7 +373,6 @@ Today was more theoretical then "hands-on" - I completed module 5 of the RWD Cou
 
 [Twitter post](https://twitter.com/DBilanoski/status/1219379689443282944)
 
-
 ### Day 21: January 21st, 2020
 
 Today I finally started with final challenge project form RWD course, wrote HTML for homepage, started styling it and after I wrote all resets, typography, some styles and started with layout, I realised that I constructed that whole page with Flexbox in mind. Rewroted HTML, wrote Grid layout and called it a night. Also, spent more than hour to find usable assets online since Scimba: 
@@ -389,3 +389,21 @@ Today I finally started with final challenge project form RWD course, wrote HTML
 - Code refactor
 
 [Twitter post](https://twitter.com/DBilanoski/status/1219761005510713344)
+
+### Day 22: January 22nd, 2020
+
+Refactored project from yesterday with more CSS Grind in mind where I basicly dont need containers and can work in two dimensions, wrote styles, finished layout and completed home page of the project. I wrote few lines of JavaScript to enable mobile navigation toggle and enjoyed that more than the rest of the page. Two things I need to do more:
+1. Build more complicated projects with CSS Grid and Mobile First approach
+2. Get back to JS as soon as possible
+
+**Topics I covered:**
+- Writing bigger project from scratch
+- How to plan a layout considering Grid
+    - Interstingly, you still need a hack to achieve "container"
+    - What I did was `grid-template-columns: minmax(1rem, 1f) (page content setup) minmax(1rem, 1f)`
+        - so, minimum 1em on the sides and grows if viewport is wider, minmax for the content also to desired max width
+- Grid layout with mobile first approach
+- Code refactor
+- JS click event listeners with classlist toggle
+
+[Twitter post](https://twitter.com/DBilanoski/status/1220118104581312516)
