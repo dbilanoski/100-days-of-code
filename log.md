@@ -51,6 +51,7 @@
 [Day 20](#day-20-january-20th-2020)
 [Day 21](#day-21-january-21st-2020)
 [Day 22](#day-22-january-22nd-2020)
+[Day 23](#day-23-january-23rd-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -392,18 +393,38 @@ Today I finally started with final challenge project form RWD course, wrote HTML
 
 ### Day 22: January 22nd, 2020
 
-Refactored project from yesterday with more CSS Grind in mind where I basicly dont need containers and can work in two dimensions, wrote styles, finished layout and completed home page of the project. I wrote few lines of JavaScript to enable mobile navigation toggle and enjoyed that more than the rest of the page. Two things I need to do more:
+Refactored project from yesterday with more CSS Grid in mind, wrote styles, finished layout and completed homepage of the project. I wrote few lines of JavaScript to enable mobile navigation toggle and enjoyed that more than the rest of the page. Two things I need to do more:
 1. Build more complicated projects with CSS Grid and Mobile First approach
 2. Get back to JS as soon as possible
 
 **Topics I covered:**
 - Writing bigger project from scratch
 - How to plan a layout considering Grid
-    - Interstingly, you still need a hack to achieve "container"
+    - Interstingly, and since you still need containers, with grid you need a "hack" to achieve them
     - What I did was `grid-template-columns: minmax(1rem, 1f) (page content setup) minmax(1rem, 1f)`
         - so, minimum 1em on the sides and grows if viewport is wider, minmax for the content also to desired max width
 - Grid layout with mobile first approach
 - Code refactor
 - JS click event listeners with classlist toggle
 
-[Twitter post](https://twitter.com/DBilanoski/status/1220118104581312516)
+[Twitter post](https://twitter.com/DBilanoski/status/1220119418560221186)
+
+### Day 23: January 23rd, 2020
+
+Today I watched how instructor did the landing page from previous challenge. Found out few things about my approach and what I need to practice more:
+- Consistent and pactical naming convention
+- CSS Grid - my was kind of more complex and maybe unnecessary
+    - Yes, I wanted to push it as a practice but padding and margins are just fine for spacing things out
+- Typography
+    - Need to learn defaults so I can be more efficient
+    - Find good reset where most defaults are usable
+Refactored parts of my code but did not changed main logic, that's all mine ;)
+Need to find better way of uploading code (images are problematic when I use offline, don't want to put folders here).
+
+**Topics I covered:**
+- Code reactoring
+- Positioning in CSS
+- Grid layout functions
+    - Interestingly, Grid child elements can also be arranged with `order`, just like Flex child elements
+
+[Twitter post](https://twitter.com/DBilanoski/status/1220469940249137152)
