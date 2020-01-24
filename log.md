@@ -52,6 +52,7 @@
 [Day 21](#day-21-january-21st-2020)
 [Day 22](#day-22-january-22nd-2020)
 [Day 23](#day-23-january-23rd-2020)
+[Day 24](#day-24-january-24th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -428,3 +429,18 @@ Need to find better way of uploading code (images are problematic when I use off
     - Interestingly, Grid child elements can also be arranged with `order`, just like Flex child elements
 
 [Twitter post](https://twitter.com/DBilanoski/status/1220469940249137152)
+
+### Day 24: January 24th, 2020
+
+Eventhought I initially wanted to skip this, today I styled About page of the course final challenge project to test my CSS Grid understanding and to test CSS Grid reusability. It was fun, fiddled with styling letters more than I thought I would. Started "Applied Accessibility" module of the FreeCodeCamp RWD course.
+
+Tomorow I might finish Scriba course and focus on FreeCodeCamp curriculum to try to finish it by the end of the month.
+
+
+**Topics I covered:**
+- CSS Grid reusability
+- Grid layout functions and aligning items
+    - Realised it is good idea to create "gaps" between items with margins, empty grid rows was a good exercise but ultimately more CSS needs to be written and I didn't like empty blocks, even layout wise where there is no HTML and `grid gap` functionality is not a great solution if you simulate container boxes with empty columns
+- Box-shadow and text-shadow properties in CSS
+
+[Twitter post](https://twitter.com/DBilanoski/status/1220842123773337600)
