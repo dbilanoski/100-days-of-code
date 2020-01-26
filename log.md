@@ -53,6 +53,7 @@
 [Day 22](#day-22-january-22nd-2020)
 [Day 23](#day-23-january-23rd-2020)
 [Day 24](#day-24-january-24th-2020)
+[Day 25](#day-25-january-25th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -444,3 +445,15 @@ Tomorow I might finish Scriba course and focus on FreeCodeCamp curriculum to try
 - Box-shadow and text-shadow properties in CSS
 
 [Twitter post](https://twitter.com/DBilanoski/status/1220842123773337600)
+
+### Day 25: January 25th, 2020
+
+Today I barely found time during the day and finally managed to sit down at my computer little past midnight where I finished Contact page of RWD course final challenge project and now whole site is complete. Tomorrow I will wrap up with the course, review it and attack FreeCodeCamp curriculum.
+
+**Topics I covered:**
+- Writing and styling contact form
+- CSS Grid reusability
+- Textarea element
+    - Interestingly, if left alone, like this `<textarea>`, without other parameters set to it (like name, id etc.), in Firefox it will "eat" rest of the HTML and display it as part of the textarea element effectively braking the site.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1221230384094023680)
