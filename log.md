@@ -54,6 +54,7 @@
 [Day 23](#day-23-january-23rd-2020)
 [Day 24](#day-24-january-24th-2020)
 [Day 25](#day-25-january-25th-2020)
+[Day 26](#day-26-january-26th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -454,6 +455,19 @@ Today I barely found time during the day and finally managed to sit down at my c
 - Writing and styling contact form
 - CSS Grid reusability
 - Textarea element
-    - Interestingly, if left alone, like this `<textarea>`, without other parameters set to it (like name, id etc.), in Firefox it will "eat" rest of the HTML and display it as part of the textarea element effectively braking the site.
+    - Interestingly, `<textarea>` needs a closing tag, while other input elements don't. Without it it will "eat" rest of the HTML and display it as part of the textarea element effectively braking the site.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1221230384094023680)
+
+### Day 26: January 26th, 2020
+
+Today I completed Kevin Powell's Responsive Web Design Bootcamp at Scrimba and while content-wise it was really a blast and a fine dive into responsive design with inspiring and enjoyable instructor, platform itself left much to be desired. Watched instructor solution to final challenge project, refactored mine a little, fixed some spacing issues and pushed project here to journal as a reference.
+
+**Topics I covered:**
+- CSS Grid reusability
+- CSS Grid layout functions and aligning items
+- Code refactoring
+
+[Twitter post](https://twitter.com/DBilanoski/status/1221557275082530816)
+
+[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_05-Final-Marketing_agency/)
