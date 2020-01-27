@@ -55,6 +55,7 @@
 [Day 24](#day-24-january-24th-2020)
 [Day 25](#day-25-january-25th-2020)
 [Day 26](#day-26-january-26th-2020)
+[Day 27](#day-27-january-27th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -471,3 +472,22 @@ Today I completed Kevin Powell's Responsive Web Design Bootcamp at Scrimba and w
 [Twitter post](https://twitter.com/DBilanoski/status/1221557275082530816)
 
 [Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_05-Final-Marketing_agency/)
+
+### Day 27: January 27th, 2020
+
+Today I went through "Applied Accessibility" module of the FreeCodeCamp RWD course and completed it. Also, installed Wakatime VS Code extention and configured it.
+
+**Topics I covered:**
+- Semantic value and role of HTML5 elements:
+    - header, footer, article, section, main, audio and figure
+- Forms and how to properly structure them
+    - label & inputs
+    - fieldsets & legend
+    - date type of input
+- Date & time tags
+- Some attributes that can play role in accessibility (tabindex, accesskey)
+    - Interestingly, `accesskey="letter"` attribute on an html tag defines shortcut key that will activate that tag if it's interactable
+    - Seems useful on navigation for keyboard only-users 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1221914595566260232)
+
