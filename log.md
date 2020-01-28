@@ -56,6 +56,7 @@
 [Day 25](#day-25-january-25th-2020)
 [Day 26](#day-26-january-26th-2020)
 [Day 27](#day-27-january-27th-2020)
+[Day 28](#day-28-january-28th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -491,3 +492,22 @@ Today I went through "Applied Accessibility" module of the FreeCodeCamp RWD cour
 
 [Twitter post](https://twitter.com/DBilanoski/status/1221914595566260232)
 
+### Day 28: January 28th, 2020
+
+Today I completed FreeCodeCamp "Responsive Web Design Principles" module and short free UI Design Course by Gary Simon on Scrimba which was super fun. Plan is to complete all modules from FreeCodeCamp up to certification projects and start with Wesbos's Grid course on Youtube by the end of the month.
+
+**Topics I covered:**
+- Vh, Vw, Vmin, Vmax units
+- Responsive images and typography
+- UI Design fundamental concepts:
+    - Whitespace
+    - Color
+    - Contrast
+        - Interestingly, there is a standard for good contrast ratios defined under the Web Content Accessibility Guidelines 2.0.
+        - Good read [here](https://webaim.org/articles/contrast/) 
+    - Scale
+    - Alignment
+    - Typography
+    - Visual Hierarchy
+
+[Twitter post](https://twitter.com/DBilanoski/status/1222292754786590726)
