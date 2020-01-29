@@ -57,6 +57,7 @@
 [Day 26](#day-26-january-26th-2020)
 [Day 27](#day-27-january-27th-2020)
 [Day 28](#day-28-january-28th-2020)
+[Day 29](#day-29-january-29th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -511,3 +512,18 @@ Today I completed FreeCodeCamp "Responsive Web Design Principles" module and sho
     - Visual Hierarchy
 
 [Twitter post](https://twitter.com/DBilanoski/status/1222292754786590726)
+
+### Day 29: January 29th, 2020
+
+Today I completed Flexbox module and Grid module on FreeCodeCamp and got to the challenge projects which I will start tomorrow. Started Wes Bos's CSS Grid course on Youtube, went through fundamentals.
+
+**Topics I covered:**
+- Flexbox basics
+- CSS grid basics
+- CSS implicit and explicit grid
+    - what they are, how to size and control them
+- Firefox DevTools
+    - Interestingly, grid lines there are changing in regard to grid type
+    - Explicit grid will be bordered with solid lines and crossed with dashed lines with full opacity while implicit will be drawn with semi opaque dotted lines
+
+[Twitter post](https://twitter.com/DBilanoski/status/1222643660094832640)
