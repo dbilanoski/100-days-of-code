@@ -58,6 +58,7 @@
 [Day 27](#day-27-january-27th-2020)
 [Day 28](#day-28-january-28th-2020)
 [Day 29](#day-29-january-29th-2020)
+[Day 30](#day-30-january-30th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -527,3 +528,17 @@ Today I completed Flexbox module and Grid module on FreeCodeCamp and got to the 
     - Explicit grid will be bordered with solid lines and crossed with dashed lines with full opacity while implicit will be drawn with semi opaque dotted lines
 
 [Twitter post](https://twitter.com/DBilanoski/status/1222643660094832640)
+
+### Day 30: January 30th, 2020
+
+Today I completed first of five design projects from Free Code Camp Responsive Web Design course where I built Mr. Spock tribute page with five cool fact about the character. Score - 10 of 10 from first try. 
+
+**Topics I covered:**
+- Figures, blockquotes and articles
+- Basic CSS styling and layouting
+- Flexbox
+- Pseudoelements
+
+[Codepen project](https://codepen.io/dbilanoski/pen/vYEqyqg)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1223012884025872390)
