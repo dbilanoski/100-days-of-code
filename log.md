@@ -59,6 +59,7 @@
 [Day 28](#day-28-january-28th-2020)
 [Day 29](#day-29-january-29th-2020)
 [Day 30](#day-30-january-30th-2020)
+[Day 31](#day-31-january-30st-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -542,3 +543,15 @@ Today I completed first of five design projects from Free Code Camp Responsive W
 [Codepen project](https://codepen.io/dbilanoski/pen/vYEqyqg)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1223012884025872390)
+
+### Day 31: January 31st, 2020
+
+Today I started second of five design projects from Free Code Camp Responsive Web Design course where I wrote HTML for Survey form, but wanted to learn HTML tables along the way and complicated form's layout a bit. This resulted with struggle to successfully complete project conditions which are too simple in calculation.
+
+Since it's not finished, I'll add project link tommorow.
+
+**Topics I covered:**
+- Forms
+- Tables
+
+[Twitter post](https://twitter.com/DBilanoski/status/1223380209321246725)
