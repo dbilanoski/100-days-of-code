@@ -555,3 +555,16 @@ Since it's not finished, I'll add project link tommorow.
 - Tables
 
 [Twitter post](https://twitter.com/DBilanoski/status/1223380209321246725)
+
+### Day 32: February 1st, 2020
+
+Today I completed second of five design projects from Free Code Camp Responsive Web Design course where I built a survey form, made it complex and practiced with tables a bit. Regardless of headcache and fever I was having today, I've managed to complete this challenge.
+
+**Topics I covered:**
+- Forms
+- Tables
+- Code refactor
+
+[Twitter post](https://twitter.com/DBilanoski/status/1223741866396540928)
+[Codepen project](https://codepen.io/dbilanoski/pen/VwYJgjJ)
+
