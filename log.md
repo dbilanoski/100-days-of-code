@@ -60,6 +60,8 @@
 [Day 29](#day-29-january-29th-2020)
 [Day 30](#day-30-january-30th-2020)
 [Day 31](#day-31-january-30st-2020)
+[Day 32](#day-32-february-1st-2020)
+[Day 32](#day-33-february-2nd-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -568,3 +570,16 @@ Today I completed second of five design projects from Free Code Camp Responsive 
 [Twitter post](https://twitter.com/DBilanoski/status/1223741866396540928)
 [Codepen project](https://codepen.io/dbilanoski/pen/VwYJgjJ)
 
+### Day 33: February 2nd, 2020
+
+Today I decided to take a day off - well earned and really needed. But, for it to not be empty challenge wise, little code refactor on yesterday's form, some sorting on CodePen & a good read on color theory. Also, wrote few lines of JavaScript to clear form input fields and alert user upon submiting form with poput message - felt really good.
+
+**Topics I covered:**
+- Code refactor
+- Some JavaScript
+    - Event listeners
+    - Arrow functions
+- Color theory
+    - Good read about the basics [here](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/) 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1224087067820462081)
