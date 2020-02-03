@@ -61,7 +61,8 @@
 [Day 30](#day-30-january-30th-2020)
 [Day 31](#day-31-january-30st-2020)
 [Day 32](#day-32-february-1st-2020)
-[Day 32](#day-33-february-2nd-2020)
+[Day 33](#day-33-february-2nd-2020)
+[Day 34](#day-34-february-3rd-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -568,6 +569,7 @@ Today I completed second of five design projects from Free Code Camp Responsive 
 - Code refactor
 
 [Twitter post](https://twitter.com/DBilanoski/status/1223741866396540928)
+
 [Codepen project](https://codepen.io/dbilanoski/pen/VwYJgjJ)
 
 ### Day 33: February 2nd, 2020
@@ -583,3 +585,19 @@ Today I decided to take a day off - well earned and really needed. But, for it t
     - Good read about the basics [here](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/) 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1224087067820462081)
+
+### Day 34: February 3rd, 2020
+
+Today I started third FCC Responsive Web Design project called "Landing page" where I decided on the theme, found most of the assets, planned out layout and wrote all markup. Played a bit with the colors and went to sleep half hour earlier than usual. Good day.
+
+
+**Topics I covered:**
+- Planning a small project
+    - Deciding on theme, finding assets
+    - Planning layout, making content up
+- HTML of landing page
+    - Page structure elements, Iframe, form
+    - Interestingly, while planning a layout and page structure, I intuitively wrote desktop version first. **Gotta start thinking responsive**.
+- Color sheme planning
+
+[Twitter post](https://twitter.com/DBilanoski/status/1224463239561564160)
