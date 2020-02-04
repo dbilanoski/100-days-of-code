@@ -63,6 +63,7 @@
 [Day 32](#day-32-february-1st-2020)
 [Day 33](#day-33-february-2nd-2020)
 [Day 34](#day-34-february-3rd-2020)
+[Day 35](#day-35-february-4th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -601,3 +602,18 @@ Today I started third FCC Responsive Web Design project called "Landing page" wh
 - Color sheme planning
 
 [Twitter post](https://twitter.com/DBilanoski/status/1224463239561564160)
+
+### Day 35: February 4th, 2020
+
+Today I continued with landing page project from FCC RWD. Refractored classes to start with mobile first and spent most of the time positioning hero section elements,figuring out why sticky positioning is not working and tweaking colors.
+
+
+**Topics I covered:**
+- Sticky position in CSS (really understood it)
+    - Interestingly, you can't specify which element will be "parent" element for sticky element, it's always the parent element so it's best to plan markup accordingly
+- Absolute positioning
+- Typography styling
+- CSS resets
+- Background images, positioning and blend modes 
+
+[Twitter post]()
