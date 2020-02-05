@@ -64,6 +64,7 @@
 [Day 33](#day-33-february-2nd-2020)
 [Day 34](#day-34-february-3rd-2020)
 [Day 35](#day-35-february-4th-2020)
+[Day 36](#day-36-february-5th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -616,4 +617,18 @@ Today I continued with landing page project from FCC RWD. Refractored classes to
 - CSS resets
 - Background images, positioning and blend modes 
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1224831356892520448)
+
+### Day 36: February 5th, 2020
+
+Continued with landing page project form FCC RWD, styled most of the sections and almost completed mobile view. Need to fix iframe size, decide on font family for section titles and sort some minor typography issues - then desktop size styles, all of that tomorrow.
+
+**Topics I covered:**
+- Flexbox layout
+    - Interestingly, and I knew this but manage to forget it again - there is a bug in modern browsers when image becomes flex item - flex basis will not affect it. To overcome this, min-width or min-height, depending on whichever is causing the issue (best to put them both), needs to be set to zero.
+- Typography styling
+- Object-fit & Object-position
+- Styling form elements
+- Mobile first approach
+
+[Twitter post](https://twitter.com/DBilanoski/status/1225182773658505217)
