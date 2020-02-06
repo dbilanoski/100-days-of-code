@@ -65,6 +65,7 @@
 [Day 34](#day-34-february-3rd-2020)
 [Day 35](#day-35-february-4th-2020)
 [Day 36](#day-36-february-5th-2020)
+[Day 37](#day-37-february-6th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -632,3 +633,17 @@ Continued with landing page project form FCC RWD, styled most of the sections an
 - Mobile first approach
 
 [Twitter post](https://twitter.com/DBilanoski/status/1225182773658505217)
+
+### Day 37: February 6th, 2020
+
+Completed third FCC Responsive Web Design project, created landing page for pizzeria with some Borderlands flavor ;) Code refactor is needed but initial score was 16/16 which was cool. 
+
+**Topics I covered:**
+- Flexbox layout
+- From mobile view to desktop view styles
+- Media queries
+- Typography styling
+- Styling form elements
+
+[Twitter post]()
+[Codepen project](https://codepen.io/dbilanoski/pen/yLNLQpK)
