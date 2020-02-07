@@ -645,5 +645,19 @@ Completed third FCC Responsive Web Design project, created landing page for pizz
 - Typography styling
 - Styling form elements
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1225558011827171329)
 [Codepen project](https://codepen.io/dbilanoski/pen/yLNLQpK)
+
+### Day 38: February 7th, 2020
+
+Today I worked on mobile toggle button and dropdown navigation menu on my landing page project. Wrote hamburger menu with CSS, animated it, fixed navigation items and set them up to slide down and wrote some JavaScript to make it work. Gonna take the rest of the night off to watch some movies with my wife.
+
+**Topics I covered:**
+- Mobile navigation
+- Hamburger menu with CSS
+- Apsolute and realtive positioning
+- JavaScript
+    - Functions and Event listeners
+    - If statements
+
+[Twitter post](https://twitter.com/DBilanoski/status/1225877759496540160)
