@@ -66,6 +66,9 @@
 [Day 35](#day-35-february-4th-2020)
 [Day 36](#day-36-february-5th-2020)
 [Day 37](#day-37-february-6th-2020)
+[Day 38](#day-38-february-7th-2020)
+[Day 39](#day-39-february-8th-2020)
+
 
 ---
 ### Day 1: January 1st, 2020
@@ -661,3 +664,18 @@ Today I worked on mobile toggle button and dropdown navigation menu on my landin
     - If statements
 
 [Twitter post](https://twitter.com/DBilanoski/status/1225877759496540160)
+
+### Day 39: February 8th, 2020
+
+Today I had few runs with CSS Grid whenever I got some spare time and managed to fully complete my landing page project where mobile navigations now works perfectly fine. Going to bed earlier to catch some sleep finally.
+
+**Topics I covered:**
+- Animating transitions with CSS
+- Some basic problem solving with JavaScript
+- Explicit & implicit CSS Grid
+- How to size auto rows and auto colums
+- Spaning grid items on the grid
+- Emmet
+    - Super powerfull. Needed 20 divs with class names "item item[div number]" where every one has text content with that div's number. Did it by writing `.item.item${$}` and "tab". Pure magic ;) 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1226269078932934656)
