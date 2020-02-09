@@ -68,6 +68,7 @@
 [Day 37](#day-37-february-6th-2020)
 [Day 38](#day-38-february-7th-2020)
 [Day 39](#day-39-february-8th-2020)
+[Day 40](#day-40-february-9th-2020)
 
 
 ---
@@ -679,3 +680,17 @@ Today I had few runs with CSS Grid whenever I got some spare time and managed to
     - Super powerfull. Needed 20 divs with class names "item item[div number]" where every one has text content with that div's number. Did it by writing `.item.item${$}` and "tab". Pure magic ;) 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1226269078932934656)
+
+### Day 40: February 9th, 2020
+
+Today I had some time during the day but later at night I was simply too tired. Managed to squize almost two hours and invested them in learning more of CSS Grid by following [Wes Bos's Youtube Course](https://www.youtube.com/watch?v=rBoveH7tdJU&list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG&index=18). Got right to exercises which I will do tomorrow.
+
+**Topics I covered:**
+- CSS Grid Template Areas
+- Naming lines
+- Auto-flow options and usefull "dense" option
+    - Gotta try to make gallery using this
+- Alignment, centering and reordering grid items
+
+[Twitter post](https://twitter.com/DBilanoski/status/1226624405729619968)
+
