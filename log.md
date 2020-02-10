@@ -69,6 +69,7 @@
 [Day 38](#day-38-february-7th-2020)
 [Day 39](#day-39-february-8th-2020)
 [Day 40](#day-40-february-9th-2020)
+[Day 41](#day-41-february-10th-2020)
 
 
 ---
@@ -693,4 +694,24 @@ Today I had some time during the day but later at night I was simply too tired. 
 - Alignment, centering and reordering grid items
 
 [Twitter post](https://twitter.com/DBilanoski/status/1226624405729619968)
+
+### Day 41: February 10th, 2020
+
+Worked on a cool CSS Grid Galery concept that I saw in Wes Bos's Grid Course and completed it mostly - little code refactor tomorrow and some style changes. Wanted to practice CSS Grid, mostly wrote JavaScript :)
+
+**Topics I covered:**
+- CSS Grid basic positioning
+- CSS Grid overlaping items
+- JavaScript
+    - Event listeners
+    - Functions
+    - Creating DOM elements
+    - Adding class names to DOM elements
+    - Traversing the DOM
+    - Event delegation
+    - Creating random numbers
+    - Working with arrays
+    - High order array methods (map())
+
+[Twitter post](https://twitter.com/DBilanoski/status/1227015455627456512)
 
