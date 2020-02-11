@@ -18,11 +18,11 @@
 
 ### First Quarter Plan
 - Revisit and recall HTML, CSS & responsive design principles
-    - Kevin Powell’s The Responsive Web Design Bootcamp
-    - freeCodeCamp Responsive Web Design Certification
+		- Kevin Powell’s The Responsive Web Design Bootcamp
+		- freeCodeCamp Responsive Web Design Certification
 - Revisit and recall previously learned JS
-    - Brad Traversy’s Modern Javascript From The Beginning
-    - Parallel to course, read Eloquent JavaScript
+		- Brad Traversy’s Modern Javascript From The Beginning
+		- Parallel to course, read Eloquent JavaScript
 - Focus more on object oriented JS, async JS and ES6 (things I know less now)
 - Plan further learning of JS and decide on JS framework, write second quarter plan
 
@@ -70,6 +70,7 @@
 [Day 39](#day-39-february-8th-2020)
 [Day 40](#day-40-february-9th-2020)
 [Day 41](#day-41-february-10th-2020)
+[Day 42](#day-42-february-11th-2020)
 
 
 ---
@@ -87,10 +88,10 @@ Today I started with [Kevin Powell's Responsive Web Design Bootcamp](https://scr
 - Box model
 - Inline VS block elements
 - Margin & padding, collapsing margins especially
-    - Interesting thing, if we set margin-top to first child element in some HTML box, that margin will become parent's top-margin
+		- Interesting thing, if we set margin-top to first child element in some HTML box, that margin will become parent's top-margin
 - Link states and how to style them properly
-    - Interesting thing, five states of anchor tag, never heard of a:link state
-    - Seems to me that best practice is to set styles for "a" in general, then style a:hover and a:focus
+		- Interesting thing, five states of anchor tag, never heard of a:link state
+		- Seems to me that best practice is to set styles for "a" in general, then style a:hover and a:focus
 - Small blog-post card project as practice
 
 **Note:** Scrimba was not working for me, code written in the service's playground was not rendering to mini browser inside so I finished the exercise on CodePen. 
@@ -104,14 +105,14 @@ Further down the first module of Responsive Design Bootcamp which I am now, at t
 - Styling buttons
 - CSS selectors and compounding of them
 - Specificity in CSS
-    - Interesting to note, CSS selectors priority is grouped in categories and when using compounding, adding of specificity points is done in those groups separately for each category
-    - So, If we say that these are priority groups ranked higher to lower:
-        - Inline CSS, ID, Class, Element
-    - Calculation is done for each separately
-        - (points for inline), (points for ID), (points for Class), (points for Element)
-    - In example: 
-        - `.main-page #content a {color: red}` is calculated like:
-        -  (0, 0, 1, 0) + (0, 1, 0, 0) + (0, 0, 0, 1) = **(0, 1, 1, 1)**
+		- Interesting to note, CSS selectors priority is grouped in categories and when using compounding, adding of specificity points is done in those groups separately for each category
+		- So, If we say that these are priority groups ranked higher to lower:
+				- Inline CSS, ID, Class, Element
+		- Calculation is done for each separately
+				- (points for inline), (points for ID), (points for Class), (points for Element)
+		- In example: 
+				- `.main-page #content a {color: red}` is calculated like:
+				-  (0, 0, 1, 0) + (0, 1, 0, 0) + (0, 0, 0, 1) = **(0, 1, 1, 1)**
 
 [Twitter post](https://twitter.com/DBilanoski/status/1213229696810393600)
 
@@ -122,7 +123,7 @@ Today I finished first module of Responsive Design Bootcamp called CSS Fundament
 **Topics I covered:**
 - Text properties
 - Font stacks
-    - Interesting to note, when loading Google fonts it is faster if link is included in HTML as an stylesheet
+		- Interesting to note, when loading Google fonts it is faster if link is included in HTML as an stylesheet
 - Inheritance
 - Challenge excercise
 
@@ -134,7 +135,7 @@ Today I started with second module of the RWD bootcamp called "Starting to think
 
 **Topics I covered:**
 - CSS units in general
-    - Interesting to note that pixel value in CSS is actually an absolute unit that is based in something called "Reference pixel" whose lenght is calculated to 0.23 mm (1/96 inch).
+		- Interesting to note that pixel value in CSS is actually an absolute unit that is based in something called "Reference pixel" whose lenght is calculated to 0.23 mm (1/96 inch).
 - Working with Em's & Rem's
 - Width, min-width & max-width
 - Basic Flexbox for simple layouting
@@ -148,15 +149,15 @@ Today I was reading further about responsive design and played with Flexbox a lo
 
 **Topics I covered:**
 - Flexbox
-    - Flex direction, what it means to change it
-    - Positioning commands for horizontal and vertical alignment
-        - Interesting to note, those commands (`align-items` or `justify-content`) always orient themselves on main axis)
-        - If we change the main axis with `flex-direction`, that change will reflect on behaviour of those commands (for example, up-down for `flex-direction: row` and left-right for `flex-direction: column`)
+		- Flex direction, what it means to change it
+		- Positioning commands for horizontal and vertical alignment
+				- Interesting to note, those commands (`align-items` or `justify-content`) always orient themselves on main axis)
+				- If we change the main axis with `flex-direction`, that change will reflect on behaviour of those commands (for example, up-down for `flex-direction: row` and left-right for `flex-direction: column`)
 - Media queries sintax and basic usage
 - Challenge exercise
 
 [Twitter post](https://twitter.com/DBilanoski/status/1214314023744876550)
-    
+		
 ### Day 7, January 7th, 2020
 
 Today I wrote a lot of HTML while listening to course material at the end of the second module called "Starting to think responsively where I aimned to make the end project alone before listening how the course owner did it. Lost some time on playing with CSS transitions which was a good practice and a fine refresher on transforms, transform origins and little tricks on how to style navigation links. Looking forward to continue with the challenge.
@@ -164,10 +165,10 @@ Today I wrote a lot of HTML while listening to course material at the end of the
 **Topics I covered**
 - How to structure main navigation on the page and what is considered good practice
 - Basic HTML accessibility considering structuring site elements and focus states of focusable elements
-    - Interesting thing to note, regarding `<main>` tag, you need to givi it "role" to be reckognised by earlier versions of IE. In example, `<main role="main">`.
+		- Interesting thing to note, regarding `<main>` tag, you need to givi it "role" to be reckognised by earlier versions of IE. In example, `<main role="main">`.
 - Course challenge project progress:
-    - Finished styling main navigation which is now responsive
-    - Wrote all HTML for the main page
+		- Finished styling main navigation which is now responsive
+		- Wrote all HTML for the main page
 
 [Twitter post](https://twitter.com/DBilanoski/status/1214668268331577344)
 
@@ -182,8 +183,8 @@ Today I started styling the course exercise and went through most of it regardin
 - Code refractoring
 - CSS variables
 - Google Sheets `IMPORTRANGE()` and `QUERY()` functions
-    - Interesting to note, `IMPORTRANGE()` can be used as a `QUERY()` argument for specifying source data but result is returned as an array
-    - This means that when specifying which columns to show or filter column letters (A, B, C, etc.) are no longer valid - syntax is to write them by number as `Col1, Col2, Col3 etc.`
+		- Interesting to note, `IMPORTRANGE()` can be used as a `QUERY()` argument for specifying source data but result is returned as an array
+		- This means that when specifying which columns to show or filter column letters (A, B, C, etc.) are no longer valid - syntax is to write them by number as `Col1, Col2, Col3 etc.`
 
 [Twitter post](https://twitter.com/DBilanoski/status/1215034594761809920)
 
@@ -193,7 +194,7 @@ Today I finished main page of the course challenge without looking at solution w
 
 **Topics I covered:**
 - Mobile first aproach
-    - Interestingly, this aproach is not intuitive to me and I allways end up doing desktop version fist. Need to work on this.
+		- Interestingly, this aproach is not intuitive to me and I allways end up doing desktop version fist. Need to work on this.
 - Styling links with pseudo elements to create animated bottom border
 - Flexbox order
 - Media queries
@@ -204,7 +205,7 @@ Today I finished main page of the course challenge without looking at solution w
 
 Today I decided to redo the whole CSS of the yesterday's exercise to try the "Mobile First" approach again and reinforce it as a principle - success. After rethinking the whole process, I concluded that:
 - Mobile first is actually a lot less CSS code to write initially so CSS is lighter and more simple
-    - Layout for mobile devices is mostly done without event writing CSS
+		- Layout for mobile devices is mostly done without event writing CSS
 - When writing HTML, desktop version needs to be considered because of more complex layout
 
 After that, I finished last video of the course second module and successfully completed exercise project using both approaches. 
@@ -228,13 +229,13 @@ Weekend comes and biggest challenge for me becomes to catch time for learning. T
 
 **Topics I covered:**
 - More text properties like:
-    - line-height
-        - Interesting to note, even though it will take any unit, it is probably best to use "unitless" number since value here is multiplier on font-size
-            - In example, if font size is set to 16px and line height to 1.6, it will calculate as 16 * 1.6
-    - text-transform
-    - letter-spacing
+		- line-height
+				- Interesting to note, even though it will take any unit, it is probably best to use "unitless" number since value here is multiplier on font-size
+						- In example, if font size is set to 16px and line height to 1.6, it will calculate as 16 * 1.6
+		- text-transform
+		- letter-spacing
 - Background-image
-    - I you have text on top of image, use standard `<img>`, if not, `background-image: url("link.jpg")` is good idea
+		- I you have text on top of image, use standard `<img>`, if not, `background-image: url("link.jpg")` is good idea
 
 [Twitter post](https://twitter.com/DBilanoski/status/1216106160694140932)
 
@@ -249,9 +250,9 @@ Today I was super productive - especially for one Sunday where I usually manage 
 - HTML Forms - basics
 - Styling forms
 - CSS gradients
-    - **Very** interesting thing - you can set background image to borders and with that make the border have garient background
-    - Weird syntax though
-        - `border-image: linear-gradient(direction, color 1, color 2) 1;` where the "1" at the and is called "Slice" value and border needs it to render image properly
+		- **Very** interesting thing - you can set background image to borders and with that make the border have garient background
+		- Weird syntax though
+				- `border-image: linear-gradient(direction, color 1, color 2) 1;` where the "1" at the and is called "Slice" value and border needs it to render image properly
 - CSS transitions
 - Challenge project completed, upload to journal scheduled for tommorow then I'll actually finish the module
 
@@ -265,17 +266,17 @@ Tomorrow I'm continuing with course materials starting module 4 - looking forwar
 
 **Topics I covered:**
 - HTML forms
-    - How to structure them
-    - How to grup similar items into fieldsets and larger groups into sections
-    - How to properly use labels and inputs to achieve accessibility
-        - Interestingly, inputs can be nested into labels and still be considered best pratcice
-        - Important is to match input's ID to correspodning label's "for" attribute
-    - Basic styling of form elements
-    - How screen readers percieve form structure and elements
-    - Built an example with tutorial on [Codepen](https://codepen.io/dbilanoski/pen/JjoZapB)
+		- How to structure them
+		- How to grup similar items into fieldsets and larger groups into sections
+		- How to properly use labels and inputs to achieve accessibility
+				- Interestingly, inputs can be nested into labels and still be considered best pratcice
+				- Important is to match input's ID to correspodning label's "for" attribute
+		- Basic styling of form elements
+		- How screen readers percieve form structure and elements
+		- Built an example with tutorial on [Codepen](https://codepen.io/dbilanoski/pen/JjoZapB)
 - CSS border images and clip masking 
-    - Border gradient with `border-image`
-    - Knockout text with `background-clip: text`
+		- Border gradient with `border-image`
+		- Knockout text with `background-clip: text`
 
 [Twitter post](https://twitter.com/DBilanoski/status/1216857573200203776)
 
@@ -289,12 +290,12 @@ Before I started Module 4 of the RWD course, I finished CSS border-image & mask-
 - Flex flow (`flex-direction` and `flex-wrap`)
 - Flex (`flex-grow`, `flex-shrink` and `flex-basis`)
 - Horizontal and vertical aligment by flex parent
-    - `justify-content` and `align-items`
-    - Interestingly, there is also `align-content` function
-        - It will align all new rows created automaticly if `flex-wrap: wrap` by cross axis
+		- `justify-content` and `align-items`
+		- Interestingly, there is also `align-content` function
+				- It will align all new rows created automaticly if `flex-wrap: wrap` by cross axis
 - Horizontal and vertical aligment by flex child items
-    - `align-self`, but since it works only by cross axis, when `flex-direction: column` it becomes aligment for left and right 
-        - Here we use "auto" for top and bottom margins since in Flexbox "auto" on margins works for vertical aligment also
+		- `align-self`, but since it works only by cross axis, when `flex-direction: column` it becomes aligment for left and right 
+				- Here we use "auto" for top and bottom margins since in Flexbox "auto" on margins works for vertical aligment also
 
 [Twitter post](https://twitter.com/DBilanoski/status/1217217370340646912)
 
@@ -308,8 +309,8 @@ Today I've completed Module 4 of RWD course where I watched how instructor solve
 - Flexbox in general, practiced it on example and refreshed knowledge
 - Code refractoring
 - Flex-basis and issues in some edge cases
-    - Interestingly, when used on image, it won't work on Chrome and Firefox (known bug)
-    - To fix it, `min-width` and/or `min-height` needs to be set to 0
+		- Interestingly, when used on image, it won't work on Chrome and Firefox (known bug)
+		- To fix it, `min-width` and/or `min-height` needs to be set to 0
 - Object-fit and object-position
 
 [Twitter post](https://twitter.com/DBilanoski/status/1217568401117368322)
@@ -326,8 +327,8 @@ Tested everything by rewriting last exercise to use Grid, managed to pull it off
 - Grid, what it is and how it works
 - Templating for rows and columns
 - Positioning children over grid using line numbers
-    - Interestingly, you can count them backward, but with negative numbers (1 to 4 -> -1 to -4)
-    - With that in mind, full cover of item over all lines can be shortened by using 1 to -1
+		- Interestingly, you can count them backward, but with negative numbers (1 to 4 -> -1 to -4)
+		- With that in mind, full cover of item over all lines can be shortened by using 1 to -1
 - Aligning positioned children both from parent and by self using justify and align functions
 
 [Twitter post](https://twitter.com/DBilanoski/status/1217942649052844032)
@@ -340,11 +341,11 @@ Today I decided to pratcice what I learned yesterday and test my understaning of
 
 **Topics I covered:**
 - Challenge exercise to test my Grid understanding
-    - CSS Grid basic templating conceptcs
-    - Aligning items horizontally and vertically
-    - Chaning layout in media queries
+		- CSS Grid basic templating conceptcs
+		- Aligning items horizontally and vertically
+		- Chaning layout in media queries
 - How to make responsive square with borders around element whose content varies
-    - Interesting solution described [here](https://spin.atomicobject.com/2015/07/14/css-responsive-square/)
+		- Interesting solution described [here](https://spin.atomicobject.com/2015/07/14/css-responsive-square/)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1218318445365944321)
 
@@ -369,10 +370,10 @@ Today I continued with Responsive Web Design Course, Module 5, CSS Grid where I 
 **Topics I covered:**
 - Implicit & Explicit grid and how to set size on implicit grid items
 - CSS Grid Areas
-    - Super useful, especially in media queries where you only need to redefine parent's code
+		- Super useful, especially in media queries where you only need to redefine parent's code
 - Grid units
-    - minmax(), fr, min-content, max-content
-    - Interestingly, you can't use fr unit as minimum in minmax()
+		- minmax(), fr, min-content, max-content
+		- Interestingly, you can't use fr unit as minimum in minmax()
 
 [Twitter post](https://twitter.com/DBilanoski/status/1218990421503815680)
 
@@ -382,13 +383,13 @@ Today was more theoretical then "hands-on" - I completed module 5 of the RWD Cou
 
 **Topics I covered:**
 - CSS Grid
-    - repeat() function
-    - how to use it with Auto-fit & Auto-fill
-    - Auto-fill is interesting, it will continue to add new columns eventhough they are blank and not declared in the markup
+		- repeat() function
+		- how to use it with Auto-fit & Auto-fill
+		- Auto-fill is interesting, it will continue to add new columns eventhough they are blank and not declared in the markup
 - CSS in general
-    - animations
-    - apsolute positioning
-    - gradients and different ways of declaring colors
+		- animations
+		- apsolute positioning
+		- gradients and different ways of declaring colors
 - Color theory basics
 
 [Twitter post](https://twitter.com/DBilanoski/status/1219379689443282944)
@@ -402,8 +403,8 @@ Today I finally started with final challenge project form RWD course, wrote HTML
 **Topics I covered:**
 - Writing bigger project from scratch
 - How to plan a layout
-    - Considering Flexbox
-    - Considering Grid
+		- Considering Flexbox
+		- Considering Grid
 - Flexbox & Grid layout
 - Basic CSS styles
 - Code refactor
@@ -419,9 +420,9 @@ Refactored project from yesterday with more CSS Grid in mind, wrote styles, fini
 **Topics I covered:**
 - Writing bigger project from scratch
 - How to plan a layout considering Grid
-    - Interstingly, and since you still need containers, with grid you need a "hack" to achieve them
-    - What I did was `grid-template-columns: minmax(1rem, 1f) (page content setup) minmax(1rem, 1f)`
-        - so, minimum 1em on the sides and grows if viewport is wider, minmax for the content also to desired max width
+		- Interstingly, and since you still need containers, with grid you need a "hack" to achieve them
+		- What I did was `grid-template-columns: minmax(1rem, 1f) (page content setup) minmax(1rem, 1f)`
+				- so, minimum 1em on the sides and grows if viewport is wider, minmax for the content also to desired max width
 - Grid layout with mobile first approach
 - Code refactor
 - JS click event listeners with classlist toggle
@@ -433,10 +434,10 @@ Refactored project from yesterday with more CSS Grid in mind, wrote styles, fini
 Today I watched how instructor did the landing page from previous challenge. Found out few things about my approach and what I need to practice more:
 - Consistent and pactical naming convention
 - CSS Grid - my was kind of more complex and maybe unnecessary
-    - Yes, I wanted to push it as a practice but padding and margins are just fine for spacing things out
+		- Yes, I wanted to push it as a practice but padding and margins are just fine for spacing things out
 - Typography
-    - Need to learn defaults so I can be more efficient
-    - Find good reset where most defaults are usable
+		- Need to learn defaults so I can be more efficient
+		- Find good reset where most defaults are usable
 Refactored parts of my code but did not changed main logic, that's all mine ;)
 Need to find better way of uploading code (images are problematic when I use offline, don't want to put folders here).
 
@@ -444,7 +445,7 @@ Need to find better way of uploading code (images are problematic when I use off
 - Code reactoring
 - Positioning in CSS
 - Grid layout functions
-    - Interestingly, Grid child elements can also be arranged with `order`, just like Flex child elements
+		- Interestingly, Grid child elements can also be arranged with `order`, just like Flex child elements
 
 [Twitter post](https://twitter.com/DBilanoski/status/1220469940249137152)
 
@@ -458,7 +459,7 @@ Tomorow I might finish Scriba course and focus on FreeCodeCamp curriculum to try
 **Topics I covered:**
 - CSS Grid reusability
 - Grid layout functions and aligning items
-    - Realised it is good idea to create "gaps" between items with margins, empty grid rows was a good exercise but ultimately more CSS needs to be written and I didn't like empty blocks, even layout wise where there is no HTML and `grid gap` functionality is not a great solution if you simulate container boxes with empty columns
+		- Realised it is good idea to create "gaps" between items with margins, empty grid rows was a good exercise but ultimately more CSS needs to be written and I didn't like empty blocks, even layout wise where there is no HTML and `grid gap` functionality is not a great solution if you simulate container boxes with empty columns
 - Box-shadow and text-shadow properties in CSS
 
 [Twitter post](https://twitter.com/DBilanoski/status/1220842123773337600)
@@ -471,7 +472,7 @@ Today I barely found time during the day and finally managed to sit down at my c
 - Writing and styling contact form
 - CSS Grid reusability
 - Textarea element
-    - Interestingly, `<textarea>` needs a closing tag, while other input elements don't. Without it it will "eat" rest of the HTML and display it as part of the textarea element effectively braking the site.
+		- Interestingly, `<textarea>` needs a closing tag, while other input elements don't. Without it it will "eat" rest of the HTML and display it as part of the textarea element effectively braking the site.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1221230384094023680)
 
@@ -494,15 +495,15 @@ Today I went through "Applied Accessibility" module of the FreeCodeCamp RWD cour
 
 **Topics I covered:**
 - Semantic value and role of HTML5 elements:
-    - header, footer, article, section, main, audio and figure
+		- header, footer, article, section, main, audio and figure
 - Forms and how to properly structure them
-    - label & inputs
-    - fieldsets & legend
-    - date type of input
+		- label & inputs
+		- fieldsets & legend
+		- date type of input
 - Date & time tags
 - Some attributes that can play role in accessibility (tabindex, accesskey)
-    - Interestingly, `accesskey="letter"` attribute on an html tag defines shortcut key that will activate that tag if it's interactable
-    - Seems useful on navigation for keyboard only-users 
+		- Interestingly, `accesskey="letter"` attribute on an html tag defines shortcut key that will activate that tag if it's interactable
+		- Seems useful on navigation for keyboard only-users 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1221914595566260232)
 
@@ -514,15 +515,15 @@ Today I completed FreeCodeCamp "Responsive Web Design Principles" module and sho
 - Vh, Vw, Vmin, Vmax units
 - Responsive images and typography
 - UI Design fundamental concepts:
-    - Whitespace
-    - Color
-    - Contrast
-        - Interestingly, there is a standard for good contrast ratios defined under the Web Content Accessibility Guidelines 2.0.
-        - Good read [here](https://webaim.org/articles/contrast/) 
-    - Scale
-    - Alignment
-    - Typography
-    - Visual Hierarchy
+		- Whitespace
+		- Color
+		- Contrast
+				- Interestingly, there is a standard for good contrast ratios defined under the Web Content Accessibility Guidelines 2.0.
+				- Good read [here](https://webaim.org/articles/contrast/) 
+		- Scale
+		- Alignment
+		- Typography
+		- Visual Hierarchy
 
 [Twitter post](https://twitter.com/DBilanoski/status/1222292754786590726)
 
@@ -534,10 +535,10 @@ Today I completed Flexbox module and Grid module on FreeCodeCamp and got to the 
 - Flexbox basics
 - CSS grid basics
 - CSS implicit and explicit grid
-    - what they are, how to size and control them
+		- what they are, how to size and control them
 - Firefox DevTools
-    - Interestingly, grid lines there are changing in regard to grid type
-    - Explicit grid will be bordered with solid lines and crossed with dashed lines with full opacity while implicit will be drawn with semi opaque dotted lines
+		- Interestingly, grid lines there are changing in regard to grid type
+		- Explicit grid will be bordered with solid lines and crossed with dashed lines with full opacity while implicit will be drawn with semi opaque dotted lines
 
 [Twitter post](https://twitter.com/DBilanoski/status/1222643660094832640)
 
@@ -587,10 +588,10 @@ Today I decided to take a day off - well earned and really needed. But, for it t
 **Topics I covered:**
 - Code refactor
 - Some JavaScript
-    - Event listeners
-    - Arrow functions
+		- Event listeners
+		- Arrow functions
 - Color theory
-    - Good read about the basics [here](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/) 
+		- Good read about the basics [here](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/) 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1224087067820462081)
 
@@ -601,11 +602,11 @@ Today I started third FCC Responsive Web Design project called "Landing page" wh
 
 **Topics I covered:**
 - Planning a small project
-    - Deciding on theme, finding assets
-    - Planning layout, making content up
+		- Deciding on theme, finding assets
+		- Planning layout, making content up
 - HTML of landing page
-    - Page structure elements, Iframe, form
-    - Interestingly, while planning a layout and page structure, I intuitively wrote desktop version first. **Gotta start thinking responsive**.
+		- Page structure elements, Iframe, form
+		- Interestingly, while planning a layout and page structure, I intuitively wrote desktop version first. **Gotta start thinking responsive**.
 - Color sheme planning
 
 [Twitter post](https://twitter.com/DBilanoski/status/1224463239561564160)
@@ -617,7 +618,7 @@ Today I continued with landing page project from FCC RWD. Refractored classes to
 
 **Topics I covered:**
 - Sticky position in CSS (really understood it)
-    - Interestingly, you can't specify which element will be "parent" element for sticky element, it's always the parent element so it's best to plan markup accordingly
+		- Interestingly, you can't specify which element will be "parent" element for sticky element, it's always the parent element so it's best to plan markup accordingly
 - Absolute positioning
 - Typography styling
 - CSS resets
@@ -631,7 +632,7 @@ Continued with landing page project form FCC RWD, styled most of the sections an
 
 **Topics I covered:**
 - Flexbox layout
-    - Interestingly, and I knew this but manage to forget it again - there is a bug in modern browsers when image becomes flex item - flex basis will not affect it. To overcome this, min-width or min-height, depending on whichever is causing the issue (best to put them both), needs to be set to zero.
+		- Interestingly, and I knew this but manage to forget it again - there is a bug in modern browsers when image becomes flex item - flex basis will not affect it. To overcome this, min-width or min-height, depending on whichever is causing the issue (best to put them both), needs to be set to zero.
 - Typography styling
 - Object-fit & Object-position
 - Styling form elements
@@ -662,8 +663,8 @@ Today I worked on mobile toggle button and dropdown navigation menu on my landin
 - Hamburger menu with CSS
 - Apsolute and realtive positioning
 - JavaScript
-    - Functions and Event listeners
-    - If statements
+		- Functions and Event listeners
+		- If statements
 
 [Twitter post](https://twitter.com/DBilanoski/status/1225877759496540160)
 
@@ -678,7 +679,7 @@ Today I had few runs with CSS Grid whenever I got some spare time and managed to
 - How to size auto rows and auto colums
 - Spaning grid items on the grid
 - Emmet
-    - Super powerfull. Needed 20 divs with class names "item item[div number]" where every one has text content with that div's number. Did it by writing `.item.item${$}` and "tab". Pure magic ;) 
+		- Super powerfull. Needed 20 divs with class names "item item[div number]" where every one has text content with that div's number. Did it by writing `.item.item${$}` and "tab". Pure magic ;) 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1226269078932934656)
 
@@ -690,7 +691,7 @@ Today I had some time during the day but later at night I was simply too tired. 
 - CSS Grid Template Areas
 - Naming lines
 - Auto-flow options and usefull "dense" option
-    - Gotta try to make gallery using this
+		- Gotta try to make gallery using this
 - Alignment, centering and reordering grid items
 
 [Twitter post](https://twitter.com/DBilanoski/status/1226624405729619968)
@@ -703,15 +704,35 @@ Worked on a cool CSS Grid Galery concept that I saw in Wes Bos's Grid Course and
 - CSS Grid basic positioning
 - CSS Grid overlaping items
 - JavaScript
-    - Event listeners
-    - Functions
-    - Creating DOM elements
-    - Adding class names to DOM elements
-    - Traversing the DOM
-    - Event delegation
-    - Creating random numbers
-    - Working with arrays
-    - High order array methods (map())
+		- Event listeners
+		- Functions
+		- Creating DOM elements
+		- Adding class names to DOM elements
+		- Traversing the DOM
+		- Event delegation
+		- Creating random numbers
+		- Working with arrays
+		- High order array methods (map())
 
 [Twitter post](https://twitter.com/DBilanoski/status/1227015455627456512)
+
+### Day 42: February 11th, 2020
+
+Completed collage/mosaic photo gallery I was working on from Wes Bos's Youtube grid course, added functionality to close the image modal by clicking outside of the modal box same as by clicking on the close button, refactored a little and prepared Codepen pen with the project.
+
+Went on with the CSS Grid course, watched a fine comparison between Flexbox and Grid and when each might be a better option - didn't know that Flexbox "grow" property can be animated with CSS while grid properties can't.
+
+**Topics I covered:**
+- Javascript
+	- Event listeners, event delegation
+	- Adding class names to DOM elements
+- CSS Grid & Flex-box
+	- Flex grow usage
+	- Horizontal and vertical alignment
+	- Basic positiong with both technologies
+- Code refactoring
+
+[Twitter post](https://twitter.com/DBilanoski/status/1227359063022940163)
+[Codepen project](https://codepen.io/dbilanoski/pen/bGdVdQJ)
+
 
