@@ -71,6 +71,7 @@
 [Day 40](#day-40-february-9th-2020)
 [Day 41](#day-41-february-10th-2020)
 [Day 42](#day-42-february-11th-2020)
+[Day 43](#day-43-february-12th-2020)
 
 
 ---
@@ -733,6 +734,17 @@ Went on with the CSS Grid course, watched a fine comparison between Flexbox and 
 - Code refactoring
 
 [Twitter post](https://twitter.com/DBilanoski/status/1227359063022940163)
+
 [Codepen project](https://codepen.io/dbilanoski/pen/bGdVdQJ)
 
+### Day 43: February 12th, 2020
 
+Work on a Codepen clone throughtout the day as a CSS Grid practice, ended up with Flexbox in few places but overall I'm quite happy with the project. Little code refactor for tomorrow to make it all CSS Grid and few sizing issues. Thinking about creating GitHub repo for clone sites and try to do one per month, something like "CSS Cardio".
+
+**Topics I covered:**
+- Building clone site from scratch
+- CSS Grid positioning
+- Flexbox positioning
+- CSS custom properties
+
+[Twitter post](https://twitter.com/DBilanoski/status/1227726648625311747)
