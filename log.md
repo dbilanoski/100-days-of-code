@@ -72,6 +72,8 @@
 [Day 41](#day-41-february-10th-2020)
 [Day 42](#day-42-february-11th-2020)
 [Day 43](#day-43-february-12th-2020)
+[Day 44](#day-44-february-13th-2020)
+
 
 
 ---
@@ -739,7 +741,7 @@ Went on with the CSS Grid course, watched a fine comparison between Flexbox and 
 
 ### Day 43: February 12th, 2020
 
-Work on a Codepen clone throughtout the day as a CSS Grid practice, ended up with Flexbox in few places but overall I'm quite happy with the project. Little code refactor for tomorrow to make it all CSS Grid and few sizing issues. Thinking about creating GitHub repo for clone sites and try to do one per month, something like "CSS Cardio".
+Worked on a Codepen clone throughtout the day as a CSS Grid practice, ended up with Flexbox in few places but overall I'm quite happy with the project. Little code refactor for tomorrow to make it all CSS Grid and few sizing issues. Thinking about creating GitHub repo for clone sites and try to do one per month, something like "CSS Cardio".
 
 **Topics I covered:**
 - Building clone site from scratch
@@ -748,3 +750,22 @@ Work on a Codepen clone throughtout the day as a CSS Grid practice, ended up wit
 - CSS custom properties
 
 [Twitter post](https://twitter.com/DBilanoski/status/1227726648625311747)
+
+### Day 44: February 13th, 2020
+
+Completed my little CodePen clone project, decided to leave Flexbox where it seemed to fit better, fixed minor sizing issues and added mobile view styles and layout changes. Spent most time writing JavaScript to enable chosing which editor will be visible, stayed far longer then I intended so GitHub repo will bi topic for tomorrow.
+
+**Topics I covered:**
+- Code refactoring
+- Making HTML elements resizeable
+- Making HTML elements editable
+- CSS & Flexbox layout tools
+- JS
+	- Event listeners
+	- Event delegation
+	- Query selectors
+	- For each and Find array methods
+
+[Twitter post](https://twitter.com/DBilanoski/status/1228101341236662272)
+
+
