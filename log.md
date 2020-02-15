@@ -74,6 +74,7 @@
 [Day 43](#day-43-february-12th-2020)
 [Day 44](#day-44-february-13th-2020)
 [Day 45](#day-45-february-14th-2020)
+[Day 46](#day-46-february-15th-2020)
 
 
 
@@ -783,5 +784,19 @@ Since I did most of the work during the day and for the evening I had other plan
 - CSS Grid and Flexbox
 
 [Twitter post](https://twitter.com/DBilanoski/status/1228644277007376384)
+
+[CSS Cardio: Web Clones Repo](https://github.com/dbilanoski/css-cardio-web-clones)
+
+### Day 46: February 15th, 2020
+
+Today I had little time and didn't code that much but I went through rest of Wes Bos's CSS Grid course examples and played a bit with configuring auto positioning with grid. Also, finished CSS Cardio project documentation and uploaded everything to GitHub. Next stop - last two FreeCodeCamp exercises to complete Responsive Web Design certification.  
+
+**Topics I covered:**
+- CSS Grid layout tools
+
+[Twitter post](https://twitter.com/DBilanoski/status/1228781698550292482)
+
+
+
 
 
