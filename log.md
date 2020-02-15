@@ -73,6 +73,7 @@
 [Day 42](#day-42-february-11th-2020)
 [Day 43](#day-43-february-12th-2020)
 [Day 44](#day-44-february-13th-2020)
+[Day 45](#day-45-february-14th-2020)
 
 
 
@@ -767,5 +768,20 @@ Completed my little CodePen clone project, decided to leave Flexbox where it see
 	- For each and Find array methods
 
 [Twitter post](https://twitter.com/DBilanoski/status/1228101341236662272)
+
+
+### Day 45: February 14th, 2020
+
+Today I worked on my CSS Cardio idea and created corresponding Git Hub repo, added guides, rules and my first clone project. Idea is to write a clone of existing website from scratch without looking at the source code.
+
+Since I did most of the work during the day and for the evening I had other plans (Valentine's Day), simply didn't managed to write here and to Twitter. So, two entries today, this one for yesterday, and one later for today. 
+
+**Topics I covered:**
+- Markdown basics
+	- Images, links, headings, blockquotes etc.
+- Basic Git syntax
+- CSS Grid and Flexbox
+
+[Twitter post](https://twitter.com/DBilanoski/status/1228644277007376384)
 
 
