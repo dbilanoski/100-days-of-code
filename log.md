@@ -75,7 +75,7 @@
 [Day 44](#day-44-february-13th-2020)
 [Day 45](#day-45-february-14th-2020)
 [Day 46](#day-46-february-15th-2020)
-
+[Day 47](#day-47-february-16th-2020)
 
 
 ---
@@ -796,6 +796,16 @@ Today I had little time and didn't code that much but I went through rest of Wes
 
 [Twitter post](https://twitter.com/DBilanoski/status/1228781698550292482)
 
+### Day 47: February 16th, 2020
+
+Today I started working on the fourth FreeCodeCamp certification project "Build a Technical Documentation Page". Decided on topic (CSS Selectors), prepared all materials, wrote content and started with HTML. Played a bit with `<details>` tag for expandable navigation and sorted all sections.
+
+**Topics I covered:**
+- Planning new project and preparing assets and content
+- CSS Selectors
+- HTML `<details>` tag
+
+[Twitter post]()
 
 
 
