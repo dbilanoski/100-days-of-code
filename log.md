@@ -76,6 +76,7 @@
 [Day 45](#day-45-february-14th-2020)
 [Day 46](#day-46-february-15th-2020)
 [Day 47](#day-47-february-16th-2020)
+[Day 48](#day-48-february-17th-2020)
 
 
 ---
@@ -805,7 +806,26 @@ Today I started working on the fourth FreeCodeCamp certification project "Build 
 - CSS Selectors
 - HTML `<details>` tag
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1229182742493122564)
+
+### Day 48: February 17th, 2020
+
+Continued working on my technical documentation project and finally completed the markup. It was a whole bunch of data and for the reference page, which is basicly a table of selectors, I've managed to convert my data to JSON, then parse it to JS object and wrote a little function to populate the table which saved me from writing about 250 lines of HTML. Yeah, good job.
+
+**Topics I covered:**
+- HTML table
+	- thead, tbody, tr, td
+- JSON
+	- Converting CSV data to JSON
+- JavaScript
+	- Parsing JSON to JavaScript object
+	- forEach array method
+	- Template literals (strings)
+	- Dynamic population of HTML with data from JSON object
+
+[Twitter post](https://twitter.com/DBilanoski/status/1229540619124723713)
+
+
 
 
 
