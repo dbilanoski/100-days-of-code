@@ -77,6 +77,7 @@
 [Day 46](#day-46-february-15th-2020)
 [Day 47](#day-47-february-16th-2020)
 [Day 48](#day-48-february-17th-2020)
+[Day 49](#day-49-february-18th-2020)
 
 
 ---
@@ -824,6 +825,17 @@ Continued working on my technical documentation project and finally completed th
 	- Dynamic population of HTML with data from JSON object
 
 [Twitter post](https://twitter.com/DBilanoski/status/1229540619124723713)
+
+### Day 49: February 18th, 2020
+
+Today was a long day. Managed to style some of the tech documentation project page during the day but evening completely went to tedious client work of manually entering markup data for cosmetics store static web page.
+
+**Topics I covered:**
+- Tedious data entry
+- Basic HTML, CSS and Flexbox
+- CSS Grid layouting
+
+[Twitter post]()
 
 
 
