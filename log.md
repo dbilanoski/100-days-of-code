@@ -835,7 +835,21 @@ Today was a long day. Managed to style some of the tech documentation project pa
 - Basic HTML, CSS and Flexbox
 - CSS Grid layouting
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1229907010226921480)
+
+### Day 50: February 19th, 2020
+
+Another long day - managed to follow up and finish with client work during the day and cleared my evening for FCC tech documentation page project. Finished styling the page, need to tweak some colors and program the mobile navigation toggle which I'll do tomorrow.
+
+**Topics I covered:**
+- CSS Grid
+- CSS Flexbox
+- Working with tables
+	- Forgot again, to achieve uninterrupted borders on table inner elements, element table needs a `border-collapse: collapse` entry.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1230276263958503424)
+
+
 
 
 
