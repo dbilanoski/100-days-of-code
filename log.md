@@ -849,10 +849,17 @@ Another long day - managed to follow up and finish with client work during the d
 
 [Twitter post](https://twitter.com/DBilanoski/status/1230276263958503424)
 
+### Day 51: February 20th, 2020
 
+Completed the FreeCodeCamp's fourth challenge project for Responsive Web Design Certification - a Technical Documentation Page. Decided to cover the topic of CSS Selectors, used MDN and W3C pages for content source and inspiration and worked on my design which turned out nicely. Next and final project - Personal Portfolio.
 
+**Topics I covered:**
+- Basic CSS
+- Pseudo Elements
+- Code refactoring
 
+[Twitter post]()
 
-
+[Codepen project](https://codepen.io/dbilanoski/full/vYOXMNp)
 
 
