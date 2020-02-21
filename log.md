@@ -78,6 +78,9 @@
 [Day 47](#day-47-february-16th-2020)
 [Day 48](#day-48-february-17th-2020)
 [Day 49](#day-49-february-18th-2020)
+[Day 50](#day-50-february-19th-2020)
+[Day 51](#day-51-february-20th-2020)
+[Day 52](#day-52-february-21th-2020)
 
 
 ---
@@ -858,8 +861,18 @@ Completed the FreeCodeCamp's fourth challenge project for Responsive Web Design 
 - Pseudo Elements
 - Code refactoring
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1230628383475806214)
 
 [Codepen project](https://codepen.io/dbilanoski/full/vYOXMNp)
+
+### Day 52: February 21th, 2020
+
+Slow and unproductive day - I looked few solutions to mobile navigation animations and fiddled a bit with some examples but ultimately didn't do much. Tomorrow. 
+
+**Topics I covered:**
+- Pseudo elements
+- Styling and animating mobile navigation
+
+[Twitter post](https://twitter.com/DBilanoski/status/1230989921063751682)
 
 
