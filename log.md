@@ -890,3 +890,19 @@ Had a little time today but managed to complete imagined transition for mobile n
 - CSS stacking context (intro)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1231375740312203264)
+
+
+### Day 54: February 23th, 2020
+
+Tweaked yesterday's navigation project a bit and animated toggle button to go with the flow of the main animation. Studied CSS stacking context more, revieved CSS positioning and started planning the last FCC project.
+
+**Topics I covered:**
+- CSS non-static positioning
+- CSS Stacking Context
+	- Interestingly, all transition properties, opacity and declaring z-index on flexbox and grid child items will create new stacking contexts
+- Project planning
+	- Colors, fonts, layout, assets
+
+[Twitter post](https://twitter.com/DBilanoski/status/1231702536471617536)
+
+
