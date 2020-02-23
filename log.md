@@ -81,6 +81,7 @@
 [Day 50](#day-50-february-19th-2020)
 [Day 51](#day-51-february-20th-2020)
 [Day 52](#day-52-february-21th-2020)
+[Day 53](#day-53-february-22th-2020)
 
 
 ---
@@ -875,4 +876,17 @@ Slow and unproductive day - I looked few solutions to mobile navigation animatio
 
 [Twitter post](https://twitter.com/DBilanoski/status/1230989921063751682)
 
+### Day 53: February 22th, 2020
 
+Had a little time today but managed to complete imagined transition for mobile navigation, test out `skew` and `rotate3d` CSS properties and read a little about CSS Stacking Context. 
+
+**Topics I covered:**
+- Pseudo elements
+- Styling and animating mobile navigation
+- CSS Transform options
+	- Skew, skew3d, rotate, rotate3d, translate
+- JS
+	- toggle function
+- CSS stacking context (intro)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1231375740312203264)
