@@ -82,6 +82,8 @@
 [Day 51](#day-51-february-20th-2020)
 [Day 52](#day-52-february-21th-2020)
 [Day 53](#day-53-february-22th-2020)
+[Day 54](#day-54-february-23th-2020)
+[Day 55](#day-55-february-24th-2020)
 
 
 ---
@@ -904,5 +906,18 @@ Tweaked yesterday's navigation project a bit and animated toggle button to go wi
 	- Colors, fonts, layout, assets
 
 [Twitter post](https://twitter.com/DBilanoski/status/1231702536471617536)
+
+
+### Day 55: February 24th, 2020
+
+Prepared all assets and wrote markup for the Personal Portfolio project of FreeCodeCamp Responsive Web Design certification.
+
+**Topics I covered:**
+- Planning new project and preparing assets and content
+- Basic HTML elements, HTML forms 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1232067451447398401)
+
+
 
 
