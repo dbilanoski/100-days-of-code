@@ -84,6 +84,7 @@
 [Day 53](#day-53-february-22th-2020)
 [Day 54](#day-54-february-23th-2020)
 [Day 55](#day-55-february-24th-2020)
+[Day 56](#day-56-february-25th-2020)
 
 
 ---
@@ -917,6 +918,22 @@ Prepared all assets and wrote markup for the Personal Portfolio project of FreeC
 - Basic HTML elements, HTML forms 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1232067451447398401)
+
+
+### Day 56: February 25th, 2020
+
+Started styling the Personal Portfolio project, structured basic grid with container max width, completed landing page and navigation, animated transitions, wrote basic layout rules for about section article. 
+
+**Topics I covered:**
+- CSS reset
+- Styling typography
+- CSS Grid
+- `:not()` pseudo-class
+	- Super usefull, for example when I want to set top margins on all items except first in container, no need for separate selectors, `p:not(:first-of-type) {margin-top: 1rem;}`
+
+[Twitter post](https://twitter.com/DBilanoski/status/1232438806122356738)
+
+
 
 
 
