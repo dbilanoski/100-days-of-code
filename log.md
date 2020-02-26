@@ -85,6 +85,7 @@
 [Day 54](#day-54-february-23th-2020)
 [Day 55](#day-55-february-24th-2020)
 [Day 56](#day-56-february-25th-2020)
+[Day 57](#day-57-february-26th-2020)
 
 
 ---
@@ -933,6 +934,17 @@ Started styling the Personal Portfolio project, structured basic grid with conta
 
 [Twitter post](https://twitter.com/DBilanoski/status/1232438806122356738)
 
+### Day 57: February 26th, 2020
+
+Continued working on the Personal Portfolio project, completed about section and projects section, animated project cards, wrote some JavaScript for navigation. Having second thought about used images so tomorrow, more work with assets.
+
+**Topics I covered:**
+- Styling typography
+- CSS Grid and Flexbox
+- CSS transitions
+- Object-fit, manipulating images
+
+[Twitter post](https://twitter.com/DBilanoski/status/1232799241149538305)
 
 
 
