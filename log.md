@@ -86,6 +86,7 @@
 [Day 55](#day-55-february-24th-2020)
 [Day 56](#day-56-february-25th-2020)
 [Day 57](#day-57-february-26th-2020)
+[Day 58](#day-58-february-27th-2020)
 
 
 ---
@@ -945,6 +946,19 @@ Continued working on the Personal Portfolio project, completed about section and
 - Object-fit, manipulating images
 
 [Twitter post](https://twitter.com/DBilanoski/status/1232799241149538305)
+
+### Day 58: February 27th, 2020
+
+Continued working on the Personal Portfolio project, added three more project cards, completed projects and contact section, animated buttons and links. Foooter and media queries I'm leaving for tomorrow.
+
+**Topics I covered:**
+- Styling links, buttons
+- CSS Grid and Flexbox
+- CSS transitions
+- Forms and their elements
+	- Interestingly, input elements and textarea elements do not inherit font-family by default. Neither do they inherit font-sizes or colors which is semi understandable.
+
+[Twitter post]()
 
 
 
