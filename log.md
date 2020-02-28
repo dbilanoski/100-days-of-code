@@ -958,8 +958,24 @@ Continued working on the Personal Portfolio project, added three more project ca
 - Forms and their elements
 	- Interestingly, input elements and textarea elements do not inherit font-family by default. Neither do they inherit font-sizes or colors which is semi understandable.
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1233168665975062528)
 
+### Day 59: February 28th, 2020
+
+Completed FreeCodeCamp's fifth project (Personal Portfolio) and got Responsive Web Design Certificate. Joined Code Wars community and solved few simple katas. Both services (FCC & CodeWars) are extremely usefull and fun.
+
+Will take rest of the weekend off to rest and tend to family, on Monday I'm starting with JavaScript (finally :)).
+
+**Topics I covered:**
+- Media Queries
+- Adjusting styles from desktop to mobile view
+- Styling Font Awesome icons
+- JavaScript
+	- Basic data types, functions, event listeners, basic DOM content manipulation
+
+[Twitter post](https://twitter.com/DBilanoski/status/1233537594111275008)
+
+[Codepen project](https://codepen.io/dbilanoski/full/mdJmYqL)
 
 
 
