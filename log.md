@@ -87,6 +87,8 @@
 [Day 56](#day-56-february-25th-2020)
 [Day 57](#day-57-february-26th-2020)
 [Day 58](#day-58-february-27th-2020)
+[Day 59](#day-59-february-28th-2020)
+[Day 60](#day-60-march-1st-2020)
 
 
 ---
@@ -977,6 +979,23 @@ Will take rest of the weekend off to rest and tend to family, on Monday I'm star
 
 [Codepen project](https://codepen.io/dbilanoski/full/mdJmYqL)
 
+
+### Day 60: March 1st, 2020
+
+I know I said I would take whole weekend off but CodeWars challenges are:
+- Fun 
+- Practical to do without losing too much time
+- You always learn sometning new
+- Slightly addictive ;)
+
+So, since I clocked more than an hour, here goes another entry.
+
+**Topics I covered:**
+- JavaScript
+	- Functions
+	- Problem solving
+
+[Twitter post](https://twitter.com/DBilanoski/status/1234217118528397312)
 
 
 
