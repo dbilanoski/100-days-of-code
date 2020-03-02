@@ -89,6 +89,7 @@
 [Day 58](#day-58-february-27th-2020)
 [Day 59](#day-59-february-28th-2020)
 [Day 60](#day-60-march-1st-2020)
+[Day 61](#day-60-march-2nd-2020)
 
 
 ---
@@ -996,6 +997,21 @@ So, since I clocked more than an hour, here goes another entry.
 	- Problem solving
 
 [Twitter post](https://twitter.com/DBilanoski/status/1234217118528397312)
+
+### Day 61: March 2nd, 2020
+
+Enrolled in Colt Steele and Stephen Grider [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/), managed to pull out and discount for the course, listened frist two sections, seems great for now. Solved about 15% of Basic Javascript seciton of FreeCodeCamp Javascript Algorithms and Data Structures Certification and earlier on work during launch watched a video about typography. Productive day.
+
+**Topics I covered:**
+- JavaScript
+	- primitives and data types
+	- operators, basic mathematical operations
+	- varibles
+- Typography
+	- space, visual hierarchy, sizes, colors
+
+[Twitter post](https://twitter.com/DBilanoski/status/1234611947842220032)
+
 
 
 
