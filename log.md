@@ -89,7 +89,8 @@
 [Day 58](#day-58-february-27th-2020)
 [Day 59](#day-59-february-28th-2020)
 [Day 60](#day-60-march-1st-2020)
-[Day 61](#day-60-march-2nd-2020)
+[Day 61](#day-61-march-2nd-2020)
+[Day 62](#day-62-march-3rd-2020)
 
 
 ---
@@ -1011,6 +1012,27 @@ Enrolled in Colt Steele and Stephen Grider [The Modern Javascript Bootcamp Cours
 	- space, visual hierarchy, sizes, colors
 
 [Twitter post](https://twitter.com/DBilanoski/status/1234611947842220032)
+
+
+### Day 62: March 3rd, 2020
+
+Went through Section 3 od the Udemy Course where I covered rest of the primitive types with most focus on strings. Also covered Match object, how to create random numbers, all opeartors and converting strings to numbers. Solved 30% of Basic Javascript seciton of FreeCodeCAmp JS Algorithms and Data Structures Certification.
+
+**Topics I covered:**
+- JavaScript
+	- Strings and their methods
+		- Lenght, indexes
+		- toUpperCase, toLowerCase, trim, indexOf, slice, replace and other string methods
+	- Template literals
+	- Escape simbols
+	- Math object
+		- floor, round, pow and random methods
+		- How to create random numbers
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1234970171745456134)
+
+
 
 
 
