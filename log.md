@@ -91,6 +91,7 @@
 [Day 60](#day-60-march-1st-2020)
 [Day 61](#day-61-march-2nd-2020)
 [Day 62](#day-62-march-3rd-2020)
+[Day 63](#day-63-march-4th-2020)
 
 
 ---
@@ -1031,6 +1032,20 @@ Went through Section 3 od the Udemy Course where I covered rest of the primitive
 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1234970171745456134)
+
+
+### Day 63: March 4th, 2020
+
+Wanted to complete section 4 of the JS course but I was too tired and could not focus any more. So, few short lectures about logic and if statemens, few pages of FreeCodeCamp Basic JS and off to bed.
+
+**Topics I covered:**
+- JavaScript
+	- Comparison operators
+	- If statements
+
+[Twitter post](https://twitter.com/DBilanoski/status/1235321605452173317)
+
+
 
 
 
