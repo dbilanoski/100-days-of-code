@@ -1045,6 +1045,22 @@ Wanted to complete section 4 of the JS course but I was too tired and could not 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1235321605452173317)
 
+### Day 64: March 5th, 2020
+
+Completed section 4 of the JS course, worked with conditionals, logical operators, switch statements and ternarry operators. Completed about 60% of the FreeCodeCamp Basic JS part.
+
+**Topics I covered:**
+- JavaScript
+	- Logical operators
+		- Interestingly, there is defined precedence between operators. For example, "not" will be applied before "and", "and" will be applied before "or". Parenthesis has the highest priority so when conditioning becomes complex - use parenthesis for grouping.
+	- Nested If statements
+	- Switch statement
+	- Ternary operator
+
+[Twitter post](https://twitter.com/DBilanoski/status/1235694957740113921)
+
+
+
 
 
 
