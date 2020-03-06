@@ -92,6 +92,9 @@
 [Day 61](#day-61-march-2nd-2020)
 [Day 62](#day-62-march-3rd-2020)
 [Day 63](#day-63-march-4th-2020)
+[Day 64](#day-64-march-5th-2020)
+[Day 65](#day-65-march-6th-2020)
+
 
 
 ---
@@ -1060,7 +1063,19 @@ Completed section 4 of the JS course, worked with conditionals, logical operator
 [Twitter post](https://twitter.com/DBilanoski/status/1235694957740113921)
 
 
+### Day 65: March 6th, 2020
 
+Started data structures section of the JavaScript course and worked with arrays and array methods. ALmost finished it but decided to leave last three lessons for tomorrow, especially because I need to practice `array.splice()` to fully understand it. Solved about 70% of the FreeCodeCamp basic JS part.
+
+**Topics I covered:**
+- JavaScript
+	- Arrays
+	- Array methods
+		- concat, includes, indexOf
+		- join, reverse
+		- slice, splice
+
+[Twitter post](https://twitter.com/DBilanoski/status/1236060840232697861)
 
 
 
