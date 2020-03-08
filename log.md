@@ -94,7 +94,7 @@
 [Day 63](#day-63-march-4th-2020)
 [Day 64](#day-64-march-5th-2020)
 [Day 65](#day-65-march-6th-2020)
-
+[Day 66](#day-66-march-8th-2020)
 
 
 ---
@@ -1076,6 +1076,19 @@ Started data structures section of the JavaScript course and worked with arrays 
 		- slice, splice
 
 [Twitter post](https://twitter.com/DBilanoski/status/1236060840232697861)
+
+### Day 66: March 8th, 2020
+
+Worked with arrays, objects and tested `array.splice()` more to properly understand it. Finished sixth section from the Colt Steele's JS Course and solved few FreeCodeCamp Basic JS pages.
+
+**Topics I covered:**
+- JavaScript
+	- Nesting arrays
+	- `array.splice()`
+	- Objects
+		- Interestingly, key names will be automatically converted to strings. You can name them however you want (even numbers and reserved keywords) but accessing them will not be possible with "the dot" syntax but with "array square brackets" syntax
+
+[Twitter post](https://twitter.com/DBilanoski/status/1236774907205337088)
 
 
 
