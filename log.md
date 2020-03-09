@@ -95,6 +95,7 @@
 [Day 64](#day-64-march-5th-2020)
 [Day 65](#day-65-march-6th-2020)
 [Day 66](#day-66-march-8th-2020)
+[Day 67](#day-67-march-9th-2020)
 
 
 ---
@@ -1089,6 +1090,21 @@ Worked with arrays, objects and tested `array.splice()` more to properly underst
 		- Interestingly, key names will be automatically converted to strings. You can name them however you want (even numbers and reserved keywords) but accessing them will not be possible with "the dot" syntax but with "array square brackets" syntax
 
 [Twitter post](https://twitter.com/DBilanoski/status/1236774907205337088)
+
+### Day 67: March 9th, 2020
+
+Worked with loops, covered For loop with string and arrrays, wrote few interesting infinite loops, solved 80% of FreeCodeCamp Basic Javascripti cert section.
+
+**Topics I covered:**
+- JavaScript
+	- Loops
+		- Foor loop in general, looping arrays and strings
+		- Infinite loops
+	- Objects
+		- how to write them, how to access them
+		- `object.hasOwnProperty(name)` method
+
+[Twitter post](https://twitter.com/DBilanoski/status/1237145908674023429)
 
 
 
