@@ -96,6 +96,7 @@
 [Day 65](#day-65-march-6th-2020)
 [Day 66](#day-66-march-8th-2020)
 [Day 67](#day-67-march-9th-2020)
+[Day 68](#day-68-march-10th-2020)
 
 
 ---
@@ -1106,6 +1107,21 @@ Worked with loops, covered For loop with string and arrrays, wrote few interesti
 
 [Twitter post](https://twitter.com/DBilanoski/status/1237145908674023429)
 
+
+### Day 68: March 10th, 2020
+
+Worked with loops, covered while and For..of loops, worked with objects and if statements, solved 90% of FreeCodeCamp Basic Javascripti cert section and almost completed section 7 of JS course I'm taking. Last two lectures I'm leaving for tomorrow because I'm too tired.
+
+**Topics I covered:**
+- JavaScript
+	- Loops
+		- While loop
+		- For..of loop
+		- Nested loops
+		- Break keyword
+	- Objects and arrays
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1237496998841978881)
 
 
 
