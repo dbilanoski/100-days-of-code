@@ -1124,7 +1124,20 @@ Worked with loops, covered while and For..of loops, worked with objects and if s
 [Twitter post](https://twitter.com/DBilanoski/status/1237496998841978881)
 
 
+### Day 69: March 12th, 2020
 
+Detour from JavaScript to Network/System administration for a week - decided to apply for an IT position in my current company so I need to temporary shift my focus to this. Since I've built discipline with this challenge and like the idea to log my progress, I will include that week here. It will be code, math and tech literature anyways and I would hate to skip a whole week here.
+
+So here we go - one week of system/network administration - today I covered basics about binary system, [IP adresess and subnetting](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html). 
+
+**Topics I covered:**
+- IP address basics & anatomy
+- Network classes
+- Subnets
+- Subnetting, Variable lengt subnetting
+- Binary system, conversion to decimal
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1238229768778190850)
 
 
 
