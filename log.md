@@ -97,7 +97,7 @@
 [Day 66](#day-66-march-8th-2020)
 [Day 67](#day-67-march-9th-2020)
 [Day 68](#day-68-march-10th-2020)
-
+[Day 69](#day-69-march-12th-2020)
 
 ---
 ### Day 1: January 1st, 2020
