@@ -98,6 +98,7 @@
 [Day 67](#day-67-march-9th-2020)
 [Day 68](#day-68-march-10th-2020)
 [Day 69](#day-69-march-12th-2020)
+[Day 70](#day-70-march-13th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1139,5 +1140,17 @@ So here we go - one week of system/network administration - today I covered basi
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1238229768778190850)
 
+### Day 70: March 13th, 2020
+
+Day 2 of my system administration detour - little time today. Worked more with subnetting and learned about variable lenght subnetting in detail. Highly practical. Solved few exercises and found [another place](https://subnettingpractice.com/howto.html) with examples and materials. 
+
+Need to cover subnetting of A and B networks more.
+
+**Topics I covered:**
+- Subnetting, Variable length subnetting
+	- Cool cheetsheet can be found [here](https://subnettingpractice.com/cheatsheet.html)
+- Little of Cisco router syntax and exports
+		
+[Twitter post]()
 
 
