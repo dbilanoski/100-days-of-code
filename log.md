@@ -99,6 +99,7 @@
 [Day 68](#day-68-march-10th-2020)
 [Day 69](#day-69-march-12th-2020)
 [Day 70](#day-70-march-13th-2020)
+[Day 71](#day-71-march-14th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1151,6 +1152,19 @@ Need to cover subnetting of A and B networks more.
 	- Cool cheetsheet can be found [here](https://subnettingpractice.com/cheatsheet.html)
 - Little of Cisco router syntax and exports
 		
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1238602687412940800)
+
+
+### Day 71: March 14th, 2020
+
+Day 3 of my system administration detour. Started with lower layers and studied layer 2 comunication, delt a little with ARP protocol. Spent some time with subnetting class A and B networks. OSI tomorow, then Windows server.
+
+
+**Topics I covered:**
+- Subnetting, Variable length subnetting
+	- Solid explanation of network concpets can be found on Youtube channel [Sunny Classroom](https://www.youtube.com/watch?v=NpiORFxyM4c)
+- Little of Cisco router syntax and exports
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1238932352702779393)
 
 
