@@ -100,6 +100,7 @@
 [Day 69](#day-69-march-12th-2020)
 [Day 70](#day-70-march-13th-2020)
 [Day 71](#day-71-march-14th-2020)
+[Day 72](#day-72-march-15th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1166,5 +1167,25 @@ Day 3 of my system administration detour. Started with lower layers and studied 
 - Little of Cisco router syntax and exports
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1238932352702779393)
+
+
+### Day 72: March 15th, 2020
+
+Day 4 of my system administration detour. Had a rough and busy day today and barely managed to catch time for learning. Went through OSI reference model, glanced at protocols that work on each layer, compared OSI layers to TCP/IP stack. Need to follow up on protocols of higher levels and then start with system administration. At this pace, I might need more than week.
+
+
+**Topics I covered:**
+- Read about networks in general
+	- diferent ways of segmenting types of networks
+	- what roles devices can have
+	- types of communication medium used for transfering
+- OSI reference model
+	- Went through layers and associated protocols
+	- Studied encapsuklation and how data travels from a to b
+- Compared OSI to TCP/IP stack
+- Read about devices on each layer
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1239319979910184960)
+
 
 
