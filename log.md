@@ -101,6 +101,7 @@
 [Day 70](#day-70-march-13th-2020)
 [Day 71](#day-71-march-14th-2020)
 [Day 72](#day-72-march-15th-2020)
+[Day 73](#day-73-march-16th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1186,6 +1187,25 @@ Day 4 of my system administration detour. Had a rough and busy day today and bar
 - Read about devices on each layer
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1239319979910184960)
+
+### Day 73: March 16th, 2020
+
+Day 5 of my system administration detour. Solved few subnetting exercises, studied middle levels of OSI reference models and associated protocols, TCP/UDP, IP and NAT/PAT, reviewed encapsulation and deencapsulation, installed Windows Server.
+
+
+**Topics I covered:**
+- Encapsulation/deencapsulation, transformation of PDU, different headers and their control information
+- OSI reference model with TCP/IP model
+	- Protocols on Transport layer and Network/Internet layer
+	- TCP, UDP, how they work, how the compare
+	- NAT/PAT and port forwarding
+- Ports, well know ports
+- Subnetting and VLSM subnetting
+- Installed Windows Server
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1239675273005748227)
+
+
 
 
 
