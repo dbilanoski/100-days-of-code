@@ -102,6 +102,7 @@
 [Day 71](#day-71-march-14th-2020)
 [Day 72](#day-72-march-15th-2020)
 [Day 73](#day-73-march-16th-2020)
+[Day 74](#day-74-march-17th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1206,6 +1207,17 @@ Day 5 of my system administration detour. Solved few subnetting exercises, studi
 [Twitter post](https://twitter.com/DBilanoski/status/1239675273005748227)
 
 
+### Day 74: March 17th, 2020
+
+Day 6 of my system administration detour. Today I started learning Windows Powershell scripting lanugage. Started with basics, learned about operators, variables, arrays and loops. Funny syntax. Great resource [here (Tutorials Point)](https://www.tutorialspoint.com/powershell/powershell_looping.htm).
 
 
+**Topics I covered:**
+- Windows Powershell
+	- Operators
+	- Variables & arrays
+	- Loops (for, foreach, while, do..while)
+	- Few cmdlets like `Write-Host` which printes text to the console
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1240040932021620736)
 
