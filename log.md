@@ -103,6 +103,7 @@
 [Day 72](#day-72-march-15th-2020)
 [Day 73](#day-73-march-16th-2020)
 [Day 74](#day-74-march-17th-2020)
+[Day 75](#day-75-march-18th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1221,3 +1222,18 @@ Day 6 of my system administration detour. Today I started learning Windows Power
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1240040932021620736)
 
+
+### Day 75: March 18th, 2020
+
+Day 7 of my system administration detour. Continued with Windows Powershell scripting lanugage, worked with If and Switch statements, arrays and hashtables. Learned a bit about basic administration commands and "command lets".
+
+
+**Topics I covered:**
+- Windows Powershell
+	- Arrays
+	- Hashtables
+	- If and switch statements
+	- Little bit of loops, especially `foreach`
+	- some basic commands like `$PSVersionTable` for checking PowerShell version
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1240402165769932801)
