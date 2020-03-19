@@ -104,6 +104,7 @@
 [Day 73](#day-73-march-16th-2020)
 [Day 74](#day-74-march-17th-2020)
 [Day 75](#day-75-march-18th-2020)
+[Day 76](#day-76-march-19th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1237,3 +1238,20 @@ Day 7 of my system administration detour. Continued with Windows Powershell scri
 	- some basic commands like `$PSVersionTable` for checking PowerShell version
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1240402165769932801)
+
+### Day 76: March 19th, 2020
+
+Day 8 of my system administration detour. Continued with Windows Powershell scripting lanugage, worked with cmdlets for files and folders manipulation, files I/O and dates/times. Kinda funny syntax and names of functions but not completely illogical.
+
+
+**Topics I covered:**
+- Windows Powershell
+	- Basic navigation
+	- Working with file/folder creation
+		- `New-Item`, `Copy-Item`, `Move-Item`, `Rename-Item`, `Remove-Item`, `Test-Path`
+	- Working with file input/output
+		- `Get-Content`, `Set-Content`, `Clear-Content`
+	- Working with dates and time
+		- `Get-Date`, `Set-Date`, `AddDays(num)` etc.
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1240761807167422471)
