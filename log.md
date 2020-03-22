@@ -105,6 +105,7 @@
 [Day 74](#day-74-march-17th-2020)
 [Day 75](#day-75-march-18th-2020)
 [Day 76](#day-76-march-19th-2020)
+[Day 77](#day-77-march-22nd-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1255,3 +1256,23 @@ Day 8 of my system administration detour. Continued with Windows Powershell scri
 		- `Get-Date`, `Set-Date`, `AddDays(num)` etc.
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1240761807167422471)
+
+
+### Day 77: March 22nd, 2020
+
+Day 9 of my system administration detour. Continued with Windows Powershell scripting lanugage, worked with cmdlets with verb "Get", learned about commands structure, pipe and number formatting, wrote my first script: 
+
+- `Get-PSDrive | Where-Object{$_.Free -gt 1} | foreach{$count = 0; Write-Host ""} {$_.Name + ":  Used space: " + "{0:N2}" -f ($_.Used/1gb) + " GB  Free space:" + "{0:N2}" -f ($_.free/1gb) + " GB  Total free space: " + "{0:N2}" -f (($_.free/1gb) + ($_.used/1gb)) + " GB"; $count += $_.free} {Write-Host""; Write-Host "Total free space: " ($count/1gb) -backgroundcolor DarkGray}`
+- It will print drives and their volumes
+
+
+**Topics I covered:**
+- Windows Powershell
+	- Cmdlets structure and logic
+	- Cmdlets with verb "Get"
+	- Piping, aliases, how to chaing cmdlets
+	- .net method for setting number formats
+		- `"{0:N0} -f <number>"`
+	- Decoding other scripts (a little), wrote my first script
+		
+[Twitter post]()
