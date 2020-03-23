@@ -1270,9 +1270,23 @@ Day 9 of my system administration detour. Continued with Windows Powershell scri
 - Windows Powershell
 	- Cmdlets structure and logic
 	- Cmdlets with verb "Get"
-	- Piping, aliases, how to chaing cmdlets
+	- Piping, aliases, how to chain cmdlets
 	- .net method for setting number formats
 		- `"{0:N0} -f <number>"`
 	- Decoding other scripts (a little), wrote my first script
 		
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1241862683592400897)
+
+
+### Day 78: March 23rd, 2020
+
+Day 10 of my system administration detour. Worked more with Powershell, read about date and time formats, had more of a practice day where I wrote similar scrpit as yesterday from head and experimented with piping, data input/output and simple scripting. Wrote my movies colection to the file filtered to show names and years with counter at the end and such scripts.
+
+
+**Topics I covered:**
+- Windows Powershell
+	- Cmdlets with verb "Get" & "Set"
+	- Piping, data i/o
+	- More of a practice day where I experimented with what I learned so far
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1242223527027187712)
