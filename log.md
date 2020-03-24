@@ -106,6 +106,9 @@
 [Day 75](#day-75-march-18th-2020)
 [Day 76](#day-76-march-19th-2020)
 [Day 77](#day-77-march-22nd-2020)
+[Day 78](#day-78-march-23rd-2020)
+[Day 79](#day-79-march-24th-2020)
+
 
 ---
 ### Day 1: January 1st, 2020
@@ -1290,3 +1293,17 @@ Day 10 of my system administration detour. Worked more with Powershell, read abo
 	- More of a practice day where I experimented with what I learned so far
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1242223527027187712)
+
+
+### Day 79: March 24th, 2020
+
+Day 11 of my system administration detour. More of Powershell, worked with some specific cmdlets for strings, files and date/time. Studied `Write-Host` and it's alternatives.
+
+**Topics I covered:**
+- Windows Powershell
+	- Manipulating date & time
+	- Manipulationg files & files I/O
+	- Strings, output to the console and logging
+	- `Write-Host` in more detail and it's alternatives
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1242570861976190978)
