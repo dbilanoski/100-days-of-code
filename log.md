@@ -108,7 +108,7 @@
 [Day 77](#day-77-march-22nd-2020)
 [Day 78](#day-78-march-23rd-2020)
 [Day 79](#day-79-march-24th-2020)
-
+[Day 80](#day-80-march-26th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1307,3 +1307,18 @@ Day 11 of my system administration detour. More of Powershell, worked with some 
 	- `Write-Host` in more detail and it's alternatives
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1242570861976190978)
+
+### Day 80: March 26th, 2020
+
+Day 12 of my system administration detour. More of Powershell, worked with files i/o, exporting and importing CSV files and string manipulation, arrays and objects and if statements.
+
+**Topics I covered:**
+- Windows Powershell
+	- String manipulation methods
+	- Objects
+	- Arrays
+	- If statements
+	- Files I/O
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1243303897676099584)
+
