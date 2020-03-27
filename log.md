@@ -109,6 +109,7 @@
 [Day 78](#day-78-march-23rd-2020)
 [Day 79](#day-79-march-24th-2020)
 [Day 80](#day-80-march-26th-2020)
+[Day 81](#day-81-march-27th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1322,3 +1323,17 @@ Day 12 of my system administration detour. More of Powershell, worked with files
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1243303897676099584)
 
+### Day 81: March 27th, 2020
+
+Day 13 of my system administration detour. Worked more with PowerShell array methods and string manipulation which will be the completition of my exploration of PowerShell basics. Starting with Windows Server administration - installed MS Windows Server 2012, configured VM network parameters and configured Active Domain server role as my test lab. Tomorrow - Active Directory.
+
+**Topics I covered:**
+- Windows Powershell
+	- Array methods
+	- String manipulation
+- Installed Windows Server 2012 test lab
+	- Configured Virtual Box network
+	- Configured Active Directory server role
+	- Created new domain and configured controller basics
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1243654971289198592)
