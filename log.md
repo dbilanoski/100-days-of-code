@@ -110,6 +110,7 @@
 [Day 79](#day-79-march-24th-2020)
 [Day 80](#day-80-march-26th-2020)
 [Day 81](#day-81-march-27th-2020)
+[Day 82](#day-82-march-28th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1337,3 +1338,19 @@ Day 13 of my system administration detour. Worked more with PowerShell array met
 	- Created new domain and configured controller basics
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1243654971289198592)
+
+### Day 82: March 28th, 2020
+
+Day 14 of my system administration detour. Started with server roles, promoted server to Domain Controller, created Domain and configured basic Active Directory structure for imagined firm with three locations. Gonna need more days for the detour so I'm adding one more week to the detour.
+
+**Topics I covered:**
+- Windows Server 2012
+	- Server roles -> Domain Controller
+	- Forest, Domain
+	- Active Directory basics
+		- Structure, organisational units
+		- Creating groups, users
+		- Basic administration
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1244006625343569920)
+
