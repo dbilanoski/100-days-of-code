@@ -111,6 +111,7 @@
 [Day 80](#day-80-march-26th-2020)
 [Day 81](#day-81-march-27th-2020)
 [Day 82](#day-82-march-28th-2020)
+[Day 83](#day-83-march-29th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1353,4 +1354,17 @@ Day 14 of my system administration detour. Started with server roles, promoted s
 		- Basic administration
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1244006625343569920)
+
+### Day 83: March 29th, 2020
+
+Day 15 of my system administration detour. Worked more with Active Directory and studied Group Policy. Not particularly productive but managed to try basic, configure few test cases and plot my test lap network.
+
+**Topics I covered:**
+- Virtual Box Networking
+	- Creating network of VM that can acces public network and communicate with the host
+-Windows Server 2012
+	- Active Directory basics
+	- Group Policy basics
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1244364451635216384)
 
