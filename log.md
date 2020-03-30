@@ -112,6 +112,7 @@
 [Day 81](#day-81-march-27th-2020)
 [Day 82](#day-82-march-28th-2020)
 [Day 83](#day-83-march-29th-2020)
+[Day 84](#day-84-march-30th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1367,4 +1368,16 @@ Day 15 of my system administration detour. Worked more with Active Directory and
 	- Group Policy basics
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1244364451635216384)
+
+### Day 84: March 30th, 2020
+
+Day 16 of my system administration detour. Worked with printer server role and file sharing in Windows Server 2012. Not a long session but managed to cover basics. Tomorrow I will setup the lab and make some examples.
+
+**Topics I covered:**
+- Windows Server 2012
+	- Printer server role and printer sharing over the network
+	- File sharing, file permissions,
+	- Bit of Group Policy & Active Directory
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1244737063695667204)
 
