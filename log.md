@@ -113,6 +113,7 @@
 [Day 82](#day-82-march-28th-2020)
 [Day 83](#day-83-march-29th-2020)
 [Day 84](#day-84-march-30th-2020)
+[Day 85](#day-85-march-31th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1381,3 +1382,22 @@ Day 16 of my system administration detour. Worked with printer server role and f
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1244737063695667204)
 
+### Day 85: March 31th, 2020
+
+Day 17 of my system administration detour. Ploted my lab design and scenario, wrote plan, created IP address scheme and naming convention scheme, wrote network resources and roles. Created new domain, installed two Win7 hosts, configured network and then lost almost two hour troubleshooting why hosts are unable to connect to the domain. 
+
+Turns out it was server side issue with DNS configurations - somehow, all records had a dot (".") at the end of Domain Controller name. Windows..
+
+**Topics I covered:**
+- Planning a network environment
+	- Ip address scheme
+	- Naming convention
+	- Devices, roles
+	- Scenario (company, domain, departments)
+- Windows Server 2012
+	- Denoting and promoting Domain Controller server role
+	- DNS server configuration, adding, editing and removing records
+	- Active Directory basics
+
+		
+[Twitter post]()
