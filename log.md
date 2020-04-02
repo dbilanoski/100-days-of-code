@@ -25,6 +25,19 @@
 		- Parallel to course, read Eloquent JavaScript
 - Focus more on object oriented JS, async JS and ES6 (things I know less now)
 - Plan further learning of JS and decide on JS framework, write second quarter plan
+- **Completition Report** [here](#day-86-april-2nd-2020)
+
+### Second Quarter Plan
+- First week - finish with system administration detour
+	- Test labs with Windows Server 2012
+	- Focus on Active Directory & Group Policy
+	- Revisit subnetting and OSI Transport, Network & Data Link protocols
+- Java Script
+	- Continue with Colt Steele's and Stephen Grinder's JS course
+	- Continue with freeCodeCamp JS certification
+	- Continue with CodeWars
+- Projects
+	- At least one entry to CSS Cardio - Clone Wars
 
 **Start date: January 1st, 2020.**
 
@@ -114,6 +127,7 @@
 [Day 83](#day-83-march-29th-2020)
 [Day 84](#day-84-march-30th-2020)
 [Day 85](#day-85-march-31th-2020)
+[Day 86](#day-86-april-2nd-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1384,7 +1398,7 @@ Day 16 of my system administration detour. Worked with printer server role and f
 
 ### Day 85: March 31th, 2020
 
-Day 17 of my system administration detour. Ploted my lab design and scenario, wrote plan, created IP address scheme and naming convention scheme, wrote network resources and roles. Created new domain, installed two Win7 hosts, configured network and then lost almost two hour troubleshooting why hosts are unable to connect to the domain. 
+Day 17 of my system administration detour. Plotted my lab design and scenario, wrote plan, created IP address scheme and naming convention scheme, wrote network resources and roles. Created new domain, installed two Win7 hosts, configured network and then lost almost two hour troubleshooting why hosts are unable to connect to the domain. 
 
 Turns out it was server side issue with DNS configurations - somehow, all records had a dot (".") at the end of Domain Controller name. Windows..
 
@@ -1400,4 +1414,48 @@ Turns out it was server side issue with DNS configurations - somehow, all record
 	- Active Directory basics
 
 		
+[Twitter post](https://twitter.com/DBilanoski/status/1245110165843726337)
+
+### Day 86: April 2nd, 2020
+
+Event though I did some client work today and wrote some HTML & CSS and read about shuting down Windows Server 2012 GUI to make it "Core Edition", today will be the first quarter review day and plan for the second.
+
+**Plan for the first quarter was:**
+
+- Revisit and recall HTML, CSS & responsive design principles
+	- Kevin Powell’s The Responsive Web Design Bootcamp
+	- freeCodeCamp Responsive Web Design Certification
+- Revisit and recall previously learned JS
+	- Brad Traversy’s Modern Javascript From The Beginning
+	- Parallel to course, read Eloquent JavaScript 
+-	Focus more on object oriented JS, async JS and ES6 (things I know less now)
+- Plan further learning of JS and decide on JS framework, write second quarter plan
+
+**What I actually did:**
+- Revisit and recall HTML, CSS & responsive design principles
+	- Kevin Powell’s The Responsive Web Design Bootcamp
+	- [freeCodeCamp](https://www.freecodecamp.org/learn) Responsive Web Design Certification
+	- Intro to [The UI Design Bootcamp](https://scrimba.com/g/gdesignbootcamp)
+	- Wes Bos's [CSS Grid course](https://cssgrid.io/)
+	- A lot about color theory, typography and visual hierarchy
+- Revisit and recall previously learned JS
+	- Decided to use different materials and bought Colt Steele's and Stephen Grinder's JS course 
+	- About 10% of [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+	- About 37% of [freeCodeCamp](https://www.freecodecamp.org/learn/) JS Algorithms and Data Structures Certification
+	- Started with CodeWars challenges
+	- Had to detour to System and Network Administration partly doe to potential job opportunity, partly due to actual job requirements
+- System & Network Administration 3 Week Detour
+	- Windows PowerShell Basics
+	- Networking Basics
+		- Basics, subnetting, OSI reference model & TCP/IP stack
+	- Windows Server technologies
+		- Domain Controller administration, Active Directory, Group Policy, Resource Sharing
+- Projects
+	- 5 completed projects
+	- Started [CSS Cardio - Web Clones](https://github.com/dbilanoski/css-cardio-web-clones) - 1 project
+	- 2 smaller components on Codepen
+	- Counting only projects I did on my own, not ones I followed in courses & tutorials
+- Plan for second quarter [here](#second-quarter-plan)
+		
 [Twitter post]()
+

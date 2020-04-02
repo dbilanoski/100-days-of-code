@@ -14,8 +14,9 @@ A company branch with sales, management and mechancs department. Setup will be a
 
 - Devices/Systems:
   1. Microsoft Server 2012 R2
-  2. Windows 7 host
+  2. Microsoft Server 2012 R2 Core Edition
   3. Windows 7 host
+  4. Windows 7 host
 
 - Naming convention:
   - Domain
@@ -33,6 +34,7 @@ A company branch with sales, management and mechancs department. Setup will be a
     - .1 - .10 Networking devices
       - **Default Gateway:** 172.16.2.2
       - **DC01:** 172.16.2.2
+      - **DC02:** 172.16.2.3
     - .10 - .20 Printers
     - .30 - .254 Hosts
 
