@@ -128,6 +128,7 @@
 [Day 84](#day-84-march-30th-2020)
 [Day 85](#day-85-march-31th-2020)
 [Day 86](#day-86-april-2nd-2020)
+[Day 87](#day-87-april-3rd-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1437,7 +1438,7 @@ Event though I did some client work today and wrote some HTML & CSS and read abo
 	- [freeCodeCamp](https://www.freecodecamp.org/learn) Responsive Web Design Certification
 	- Intro to [The UI Design Bootcamp](https://scrimba.com/g/gdesignbootcamp)
 	- Wes Bos's [CSS Grid course](https://cssgrid.io/)
-	- A lot about color theory, typography and visual hierarchy
+	- A lot of random materials about color theory, typography and visual hierarchy
 - Revisit and recall previously learned JS
 	- Decided to use different materials and bought Colt Steele's and Stephen Grinder's JS course 
 	- About 10% of [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
@@ -1457,5 +1458,31 @@ Event though I did some client work today and wrote some HTML & CSS and read abo
 	- Counting only projects I did on my own, not ones I followed in courses & tutorials
 - Plan for second quarter [here](#second-quarter-plan)
 		
-[Twitter post]()
+**Observations:**
+- Built discipline but slightly lost motivation
+- Productivity peaked through January, started to decline throught February
+- My concentration worsened throught March which affected my productivity greatly
+- Skipped only two days intentionally, but compensated afterwards
+	- Other blanks on GitHub were me loosing track of time and pushing content after midnight
+- Built more than third of projects I intended to build throught whole year
+- Sometimes writing a tweet and putting everything into 280 chars took more time than JS exercise
+- I finally learned to spell exercise without looking online ;)
+- I realised I like writing JavaScript. Need to figure out what that actually means..
+
+[Twitter post](https://twitter.com/DBilanoski/status/1245836855603605512)
+
+
+### Day 87: April 3rd, 2020
+
+Day 18 of my system administration detour. Continued building my lab, added one more server but this time as core edition to practice bare essentials of cli commands. Decided to make it read only domain controller and lost an hour troubleshooting connectivity issue. Good times.
+
+**Topics I covered:**
+- Windows Server 2012 Core
+	- Instalation
+	- CLI network configuration
+	- Basic powershell commands
+- Active Directory & DNS server
+- Little bit of ARP troubleshooting
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1246171298264502272)
 
