@@ -129,6 +129,7 @@
 [Day 85](#day-85-march-31th-2020)
 [Day 86](#day-86-april-2nd-2020)
 [Day 87](#day-87-april-3rd-2020)
+[Day 88](#day-88-april-5th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1485,4 +1486,26 @@ Day 18 of my system administration detour. Continued building my lab, added one 
 - Little bit of ARP troubleshooting
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1246171298264502272)
+
+### Day 88: April 5th, 2020
+
+Day 19 of my system administration detour. After two days of troubleshooting conectivity issues inside my virtual network I finally resolved them and figured it was mostly Windows Firewall and Remote Management services. So, rebuilt my network with other type of virtualisation, configured my two servers and hosts and now I'm ready to move on to DNS.
+
+**Topics I covered:**
+- Troubleshooting conectivity issues
+- Virtual Box networking
+	- Host only network, Internal network
+	- Cofiguring Internal network through CMS & by editing the .xml file
+- Powershell & CMD
+	- Deactivatin/Activating firewall
+	- Running shit as admin
+	- Adding trusted hosts to Windows Remote Manager
+- Windows Server 2012
+	- Instalation of servers with & without GUI
+	- DC configuration
+	- Adding read only DC to existing domain
+	- Active Directory
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1246918831156715522)
+
 

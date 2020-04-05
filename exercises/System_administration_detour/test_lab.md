@@ -28,13 +28,13 @@ A company branch with sales, management and mechancs department. Setup will be a
     - Username naming scheme: first-letter-of-firstname-lastname
       - eq. John Doe -> jdoe 
 - IP addressing scheme:
-  - Network: 172.16.2.0 /24
+  - Network: 172.16.3.0 /24
   - Available hosts: 254
   - IP Reservations:
     - .1 - .10 Networking devices
-      - **Default Gateway:** 172.16.2.2
-      - **DC01:** 172.16.2.2
-      - **DC02:** 172.16.2.3
+      - **Default Gateway:** 172.16.3.2
+      - **DC01:** 172.16.3.2
+      - **DC02:** 172.16.3.3
     - .10 - .20 Printers
     - .30 - .254 Hosts
 
