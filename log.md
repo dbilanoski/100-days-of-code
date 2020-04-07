@@ -130,6 +130,7 @@
 [Day 86](#day-86-april-2nd-2020)
 [Day 87](#day-87-april-3rd-2020)
 [Day 88](#day-88-april-5th-2020)
+[Day 89](#day-89-april-7th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1508,4 +1509,17 @@ Day 19 of my system administration detour. After two days of troubleshooting con
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1246918831156715522)
 
+
+### Day 89: April 7th, 2020
+
+Day 20 of my system administration detour. Not very productive today - finished configuring DNS server, cretered Reverse Lookup and Global Name zones, tested things a bit. Had a job interview today. It was a mess, I was all over the place. Well, without preparation and after a long time (fist in 8 years), I guess it could have been worse. Nah, it was worse :D
+
+Skipped a day yesterday because I wanted to prepare for the intervierw but I was so tired and did very little. So, no day for yesterday.
+
+**Topics I covered:**
+- Windows Server 2012
+	- DNS server configuration
+		- Reverse Lookup Zone, Global Name Zone
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1247638619252285442)
 
