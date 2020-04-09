@@ -131,6 +131,7 @@
 [Day 87](#day-87-april-3rd-2020)
 [Day 88](#day-88-april-5th-2020)
 [Day 89](#day-89-april-7th-2020)
+[Day 90](#day-90-april-9th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1520,6 +1521,18 @@ Skipped a day yesterday because I wanted to prepare for the intervierw but I was
 - Windows Server 2012
 	- DNS server configuration
 		- Reverse Lookup Zone, Global Name Zone
+		- Adding A and C records
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1247638619252285442)
 
+### Day 90: April 9th, 2020
+
+Day 21 of my system administration detour. Worked with DHCP server, learned about and configured scopes and superscope. Configured failover server, tested everything.
+
+**Topics I covered:**
+- Windows Server 2012
+	- DHCP server configuration
+		- Scope, Superscope
+		- Failover
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1248355325410971648)
