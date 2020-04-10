@@ -132,6 +132,7 @@
 [Day 88](#day-88-april-5th-2020)
 [Day 89](#day-89-april-7th-2020)
 [Day 90](#day-90-april-9th-2020)
+[Day 91](#day-91-april-10th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1536,3 +1537,17 @@ Day 21 of my system administration detour. Worked with DHCP server, learned abou
 		- Failover
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1248355325410971648)
+
+
+### Day 91: April 10th, 2020
+
+Day 22 of my system administration detour. Worked with Group Policy, created new policy object and  configured visibility/access of Control Panel for certain groups and backup of Desktop and Documents folder.  
+
+**Topics I covered:**
+- Windows Server 2012
+	- Group policy
+		- Creating objects, editing default ones
+		- Visibility and access of Control Panel
+		- Backup of Documents & Desktop folders
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1248699659671011329)
