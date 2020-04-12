@@ -133,6 +133,7 @@
 [Day 89](#day-89-april-7th-2020)
 [Day 90](#day-90-april-9th-2020)
 [Day 91](#day-91-april-10th-2020)
+[Day 92](#day-92-april-12th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1551,3 +1552,18 @@ Day 22 of my system administration detour. Worked with Group Policy, created new
 		- Backup of Documents & Desktop folders
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1248699659671011329)
+
+
+### Day 92: April 12th, 2020
+
+Day 23 of my system administration detour. Worked more with Group Policy, configured mapped drives for certain user groups and managed desktops further. Not a productive day but managed to get some "hands on" experience.
+
+**Topics I covered:**
+- Windows Server 2012
+	- Group policy
+		- Creating objects, editing default ones
+		- Mapping server folders as drives for certain users groups
+		- Managing desktops, wallpapers and default shortcuts
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1249435314323668992)
+
