@@ -134,6 +134,7 @@
 [Day 90](#day-90-april-9th-2020)
 [Day 91](#day-91-april-10th-2020)
 [Day 92](#day-92-april-12th-2020)
+[Day 93](#day-93-april-13th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1567,3 +1568,20 @@ Day 23 of my system administration detour. Worked more with Group Policy, config
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1249435314323668992)
 
+### Day 93: April 13th, 2020
+
+Day 24 of my system administration detour. Worked a bit more with Group Policy but spent the evening studying about networking, how the data is sent over different media and what technologies are implemented to assure deliverance of data.
+
+**Topics I covered:**
+- Windows Server 2012
+	- Group policy
+- Networks
+	- How data is sent over different media
+	- How coding/encoding is delt with
+		- Schemes, clock, control of data
+		- Machhester coding
+	- Framing of data
+		- How frames might be delimited
+	- [Excelent explanation available in this playlist](https://www.youtube.com/watch?v=1XrRT0CmzYw&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&index=6)
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1249816236818604033)
