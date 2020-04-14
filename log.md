@@ -135,6 +135,7 @@
 [Day 91](#day-91-april-10th-2020)
 [Day 92](#day-92-april-12th-2020)
 [Day 93](#day-93-april-13th-2020)
+[Day 94](#day-94-april-14th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1585,3 +1586,21 @@ Day 24 of my system administration detour. Worked a bit more with Group Policy b
 	- [Excelent explanation available in this playlist](https://www.youtube.com/watch?v=1XrRT0CmzYw&list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW&index=6)
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1249816236818604033)
+
+
+### Day 94: April 14th, 2020
+
+Day 25 of my system administration detour. More on networking, studied encapsulation - framing, ip pockets and transport layer segments. Woked with printer server in Windows Server 2012.
+
+**Topics I covered:**
+- Windows Server 2012
+	- Installing and sharing printers
+	- Creating printer pools
+- Networks
+	- Encapsulation
+		- Frames > Packets > Segements
+		- Headers and control information
+	- TCP connections and how they are handled
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1250169452567629825)
+
