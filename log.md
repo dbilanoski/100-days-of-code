@@ -136,6 +136,7 @@
 [Day 92](#day-92-april-12th-2020)
 [Day 93](#day-93-april-13th-2020)
 [Day 94](#day-94-april-14th-2020)
+[Day 95](#day-95-april-19th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1614,5 +1615,10 @@ Bought course about networking which serves as a preparation for CCNA exam which
 **Topics I covered:**
 - Windows Server 2012
 	- Active Directory
+	- DHCP server
+	- DNS server
+- Networking
+	- Examined CCNA exam outline
+	- Few intro videos from the "Complete Networking Fundamentals Course" by David Bombal
 		
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1251996273147854848)
