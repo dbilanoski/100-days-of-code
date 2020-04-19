@@ -1604,3 +1604,15 @@ Day 25 of my system administration detour. More on networking, studied encapsula
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1250169452567629825)
 
+
+### Day 95: April 19th, 2020
+
+Day 26 of my system administration detour. I've got the job! Starting on 1st of May, I'll be joining regional IT department as a On-site IT Service Delivery Engeneer. Now, my detour paid off greatly and my focus will shift from web developement to network and system administration completely. Need to think how this will bi tied into my 366DaysOfCode challenge. One thing is sure - I will complete 100DaysOfCode challenge and decide till then what to do with the rest of it.
+
+Bought course about networking which serves as a preparation for CCNA exam which I will need to take again, went throught inital content so that's for today. Played a bit with Active Directory and troubleshooted some minor connectiviti issues with one of my Win7 clients.
+
+**Topics I covered:**
+- Windows Server 2012
+	- Active Directory
+		
+[Twitter post]()
