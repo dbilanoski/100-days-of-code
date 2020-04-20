@@ -137,6 +137,7 @@
 [Day 93](#day-93-april-13th-2020)
 [Day 94](#day-94-april-14th-2020)
 [Day 95](#day-95-april-19th-2020)
+[Day 96](#day-96-april-20th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1622,3 +1623,18 @@ Bought course about networking which serves as a preparation for CCNA exam which
 	- Few intro videos from the "Complete Networking Fundamentals Course" by David Bombal
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1251996273147854848)
+
+### Day 96: April 20th, 2020
+
+Day 27 of my system administration detour. Started with the course about networking, could not access my old Cisco Account so I created new one, dowloaded Packet Traces and created basic topology with two routers and a switch, configured devices and got them to communicate. Ready for learning.
+
+**Topics I covered:**
+- Cisco Packet Traces
+	- Basic Navigation
+	- Devices, connections, preferences
+- Cisco IOS
+	- basic configuration of the terminal
+	- accessing and configuring links
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1252352594602688516)
+
