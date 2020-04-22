@@ -138,6 +138,7 @@
 [Day 94](#day-94-april-14th-2020)
 [Day 95](#day-95-april-19th-2020)
 [Day 96](#day-96-april-20th-2020)
+[Day 97](#day-97-april-22th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1638,3 +1639,15 @@ Day 27 of my system administration detour. Started with the course about network
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1252352594602688516)
 
+### Day 97: April 22th, 2020
+
+Day 28 of my system administration detour. Learned about basics of computer networks and a bit about the history - enjoyed watching older 10base5 cables and progress towards more practical and modern solutions. Read about different networking reference models and lost some time chewing through discussion about whether we should ditch OSI model. Personal conclusion - no, it's a good reference model and things would probably be a lot simpler if people followed the model more.
+
+**Topics I covered:**
+- Computer networks basics
+- Netwok devices, roles and media
+- OSI model
+- TCP/IP model
+- Expanded (5 layers) TCP/IP model which CCNA now teaches
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1253068566624194560)
