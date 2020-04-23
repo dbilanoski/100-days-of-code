@@ -1655,7 +1655,7 @@ Day 28 of my system administration detour. Learned about basics of computer netw
 
 ### Day 98: April 23th, 2020
 
-Day 29 of my system administration detour. Played with Pocket Tracer simulations to visualize flow of data, encapsulation and learn about different PDU parameters.
+Day 29 of my system administration detour. Played with Packet Tracer simulations to visualize flow of data, encapsulation and learn about different PDU parameters.
 
 **Topics I covered:**
 - Netwok devices, roles and media
