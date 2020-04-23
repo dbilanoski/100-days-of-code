@@ -139,6 +139,7 @@
 [Day 95](#day-95-april-19th-2020)
 [Day 96](#day-96-april-20th-2020)
 [Day 97](#day-97-april-22th-2020)
+[Day 98](#day-98-april-23th-2020)
 
 ---
 ### Day 1: January 1st, 2020
@@ -1651,3 +1652,14 @@ Day 28 of my system administration detour. Learned about basics of computer netw
 - Expanded (5 layers) TCP/IP model which CCNA now teaches
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1253068566624194560)
+
+### Day 98: April 23th, 2020
+
+Day 29 of my system administration detour. Played with Pocket Tracer simulations to visualize flow of data, encapsulation and learn about different PDU parameters.
+
+**Topics I covered:**
+- Netwok devices, roles and media
+- OSI & hybrid TCP/IP model protocols
+- Packet Tracer Simulations
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1253440804326125568)
