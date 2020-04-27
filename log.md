@@ -140,6 +140,8 @@
 [Day 96](#day-96-april-20th-2020)
 [Day 97](#day-97-april-22th-2020)
 [Day 98](#day-98-april-23th-2020)
+[Day 99](#day-99-april-27th-2020)
+
 
 ---
 ### Day 1: January 1st, 2020
@@ -1663,3 +1665,16 @@ Day 29 of my system administration detour. Played with Packet Tracer simulations
 - Packet Tracer Simulations
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1253440804326125568)
+
+
+### Day 99: April 27th, 2020
+
+Day 30 of my system administration detour. Continued with my networking course, reviewed OSI & TCP/IP stacks, solved few quizzes, worked with binary conversion, played a bit with Active Directory.
+
+**Topics I covered:**
+- OSI & hybrid TCP/IP model protocols
+- Binary system
+- Active Directory
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1254879256808697856)
+
