@@ -18,7 +18,7 @@ In this run, my goal is to revisit what I knew before and learn what I need to k
 4. Update the "Log" file with the day's progress and include link or screenshot of that day's work
 
 ## Rounds 
-Round One log available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/log.md)
+**Round One (January 1st 2020 - April 29th 2020)** - log available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/log.md)
 
 ## Note
 This repo is heavily inspired by Alexander Kallaway's 100-days-of-code project which I strongly recommend checking out.
