@@ -1,4 +1,4 @@
-# 366 Days Of Code Log - Round1 - Danilo Bilanoski
+# <s>366</s> 100 Days Of Code Log - Round1 - Danilo Bilanoski
 
 ## Challenge Goals & Planning
 
