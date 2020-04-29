@@ -1,9 +1,11 @@
-# 366 Days Of Code Log - Danilo Bilanoski
+# 366 Days Of Code Log - Round1 - Danilo Bilanoski
 
 ## Challenge Goals & Planning
 
 ### Primary Commitment
-> I will code for at least half hour every day for the next 366 days.
+> <s>I will code for at least half hour every day for the next 366 days.</s>
+
+> I will code for at least and hour every day for the next 100 days. It had to be changed to 100, explanation [here](#day-100-april-29th-2020).
 
 ### Broad Goals
 - Revisit HTML, CSS & responsive design principles
@@ -39,7 +41,16 @@
 - Projects
 	- At least one entry to CSS Cardio - Clone Wars
 
+
+### Conclusion
+- Got the job!! From May 1st I will be starting as a On-Site IT Service Delivery Engineer
+- Detoured from programming to network/system administration for the last third of the 100 days challenge - it paid of greatly :)
+- Decided to change the challenge from whole year to 100 days so I can restart it in rounds when I get to do some coding again
+- Some detailed description available [here](#day-100-april-29th-2020)
+
 **Start date: January 1st, 2020.**
+
+**Completion date: April 29th, 2020.**
 
 ## Days - table of content
 [Day 1](#day-1-january-1st-2020)
@@ -141,6 +152,7 @@
 [Day 97](#day-97-april-22th-2020)
 [Day 98](#day-98-april-23th-2020)
 [Day 99](#day-99-april-27th-2020)
+[Day 100](#day-100-april-29th-2020)
 
 
 ---
@@ -1677,4 +1689,29 @@ Day 30 of my system administration detour. Continued with my networking course, 
 - Active Directory
 		
 [Twitter post](https://twitter.com/DBilanoski/status/1254879256808697856)
+
+
+### Day 100: April 29th, 2020
+
+Day 31 of my system administration detour and final day of my challenge - since I changed IT field, got the job and actually found myself at the begining of my journey which, atleast at this point, doesn't have much coding, I will be switching this repo from "whole year of code" to "100 days of code", celebrate completion of the first round and as soon I start some coding again, will resume the challenge by starting a new round.
+
+So, no fancy nor detaild conclusion - just few major points I did throught this 100 days:
+- Revised HTML & CSS
+- Got really good with CSS and newer layouting tools
+- Revised JavaScript basics
+- Learned a lot od JS by building small projects
+- Counting only projects I built by myself - 5 bigger standalone projects and 2 smaller componets
+- Speaking of courses, completed one large and few smaller courses
+	- Certified Responsive Web Design on freeCodeCamp
+- Applied for and got the job in the field of Network & System Administration in the multilingual corporate environment
+- Detoured from programming to Sys admin topics for a month - detour paid off greatly :)
+
+Next months I will be studying those topics and probably preparing for the CCNA exam - had it certified back in 2009. and now it seems I will needing it again :)
+
+Great experience, honestly looking forward to a new round.
+		
+[Twitter post](https://twitter.com/DBilanoski/status/1255608597549125633)
+
+
+
 
