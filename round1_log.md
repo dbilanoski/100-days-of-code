@@ -1,11 +1,11 @@
-# <s>366</s> 100 Days Of Code Log - Round1 - Danilo Bilanoski
+# <s>366</s> 100 Days Of Code Log - Round 1 - Danilo Bilanoski
 
 ## Challenge Goals & Planning
 
 ### Primary Commitment
 > <s>I will code for at least half hour every day for the next 366 days.</s>
 
-> I will code for at least and hour every day for the next 100 days. It had to be changed to 100, explanation [here](#day-100-april-29th-2020).
+> I will code for at least an hour every day for the next 100 days. It had to be changed to 100, explanation [here](#day-100-april-29th-2020).
 
 ### Broad Goals
 - Revisit HTML, CSS & responsive design principles
@@ -303,7 +303,7 @@ I decided to include all bigger challenge project to this journal by this parame
 
 [Twitter post](https://twitter.com/DBilanoski/status/1215761357565571073)
 
-[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_01-M2_Living_the_simple_life.html)
+[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_1/RWDB_01-M2_Living_the_simple_life.html)
 
 ### Day 11: January 11th, 2020
 
@@ -397,7 +397,7 @@ Today I've completed Module 4 of RWD course where I watched how instructor solve
 
 [Twitter post](https://twitter.com/DBilanoski/status/1217568401117368322)
 
-[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_03-Card_component.html)
+[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_1/RWDB_03-Card_component.html)
 
 ### Day 16: January 16th, 2020
 
@@ -415,7 +415,7 @@ Tested everything by rewriting last exercise to use Grid, managed to pull it off
 
 [Twitter post](https://twitter.com/DBilanoski/status/1217942649052844032)
 
-[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_04-Card_component_with_grid.html)
+[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_1/RWDB_04-Card_component_with_grid.html)
 
 ### Day 17: January 17th, 2020
 
@@ -569,7 +569,7 @@ Today I completed Kevin Powell's Responsive Web Design Bootcamp at Scrimba and w
 
 [Twitter post](https://twitter.com/DBilanoski/status/1221557275082530816)
 
-[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/RWDB_05-Final-Marketing_agency/)
+[Challenge excercise on GitHub](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_1/RWDB_05-Final-Marketing_agency/)
 
 ### Day 27: January 27th, 2020
 
