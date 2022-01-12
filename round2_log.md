@@ -24,6 +24,7 @@
 ## Days - table of content
 [Day 1](#day-1-january-10th-2022)
 [Day 2](#day-2-january-11th-2022)
+[Day 2](#day-2-january-12th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -41,3 +42,10 @@ Started regex chapter in the JS course on [FreeCodeCamp](https://www.freecodecam
 Not a bad session overall.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1481031039090937860)
+
+### Day 3: January 12th, 2022
+Completed regex chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I went through basics of grouping, filtering combining patterns with or operators. Kind of rushed it as I only had little time between putting my kid to sleep and rushing to the semi night shift maintenance windows at work.
+
+Need to try to manage time better.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1481379638760857605)
