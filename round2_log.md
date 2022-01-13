@@ -24,7 +24,8 @@
 ## Days - table of content
 [Day 1](#day-1-january-10th-2022)
 [Day 2](#day-2-january-11th-2022)
-[Day 2](#day-2-january-12th-2022)
+[Day 3](#day-3-january-12th-2022)
+[Day 4](#day-4-january-13th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -49,3 +50,10 @@ Completed regex chapter in the JS course on [FreeCodeCamp](https://www.freecodec
 Need to try to manage time better.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1481379638760857605)
+
+### Day 4: January 13th, 2022
+Completed the debugging chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I went through basics of debugging in the browser console, checking the code for spelling/syntax errors and escaping infinite loops.
+
+Did not learn anything new but had a brief refresher + one more chapter of the course completed.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1481737603128999938)
