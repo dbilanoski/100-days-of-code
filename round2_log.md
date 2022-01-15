@@ -26,6 +26,7 @@
 [Day 2](#day-2-january-11th-2022)
 [Day 3](#day-3-january-12th-2022)
 [Day 4](#day-4-january-13th-2022)
+[Day 5](#day-5-january-15th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -57,3 +58,8 @@ Completed the debugging chapter in the JS course on [FreeCodeCamp](https://www.f
 Did not learn anything new but had a brief refresher + one more chapter of the course completed.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1481737603128999938)
+
+### Day 5: January 15th, 2022
+Skipped a day yesterday so pushed almost two hours today to compensate. Completed the Basic Data Structures chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I went through basics of arrays, objects and associated methods.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1482471615946502148)
