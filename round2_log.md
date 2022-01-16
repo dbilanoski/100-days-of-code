@@ -27,6 +27,7 @@
 [Day 3](#day-3-january-12th-2022)
 [Day 4](#day-4-january-13th-2022)
 [Day 5](#day-5-january-15th-2022)
+[Day 6](#day-6-january-16th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -63,3 +64,27 @@ Did not learn anything new but had a brief refresher + one more chapter of the c
 Skipped a day yesterday so pushed almost two hours today to compensate. Completed the Basic Data Structures chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I went through basics of arrays, objects and associated methods.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1482471615946502148)
+
+### Day 6: January 16th, 2022
+Started and went through about a third of Basic Algorithm Scripting chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org). This chapter had some real challanges so it was fun. Worked with arrays and writing logic for reshaping, sorting and filtering.
+
+This one will will return the lenght if the longest word in a sentence and it's all mine :) 
+
+```
+function findLongestWordLenght(str) {
+  let arr = str.split(" ");
+  let max = 0;
+
+  for(let i = 0; i <= arr.length-1; i++) {
+    let len = arr[i].length;
+    
+    if(max < len) {
+      max = len;
+    }
+  }
+
+  return max;
+}
+```
+
+[Twitter post](https://twitter.com/DBilanoski/status/1482854591498752004)
