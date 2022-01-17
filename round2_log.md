@@ -28,6 +28,7 @@
 [Day 4](#day-4-january-13th-2022)
 [Day 5](#day-5-january-15th-2022)
 [Day 6](#day-6-january-16th-2022)
+[Day 7](#day-7-january-17th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -88,3 +89,10 @@ function findLongestWordLenght(str) {
 ```
 
 [Twitter post](https://twitter.com/DBilanoski/status/1482854591498752004)
+
+### Day 7: January 17th, 2022
+Went through another third of Basic Algorithm Scripting chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) and had a really good time with simple string and array algorithms for changing words and filtering sentences.
+
+Also a good refresher on some strign and array methods which I forgot. I forgot a lot.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1483192458355916806)
