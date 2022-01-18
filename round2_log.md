@@ -29,6 +29,7 @@
 [Day 5](#day-5-january-15th-2022)
 [Day 6](#day-6-january-16th-2022)
 [Day 7](#day-7-january-17th-2022)
+[Day 8](#day-7-january-18th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -96,3 +97,10 @@ Went through another third of Basic Algorithm Scripting chapter in the JS course
 Also a good refresher on some strign and array methods which I forgot. I forgot a lot.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1483192458355916806)
+
+### Day 8: January 18th, 2022
+Completed Basic Algorithm Scripting chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) and had more fun with array filtering and mutating simple algorithms.
+
+I was poorely motivated and had a hard time keeping focus so it took more time than necessary + I had to google alot again. Need to work on my sleep quality and stress management.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1483577901706530829)
