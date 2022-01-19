@@ -107,7 +107,6 @@ I was poorely motivated and had a hard time keeping focus so it took more time t
 [Twitter post](https://twitter.com/DBilanoski/status/1483577901706530829)
 
 ### Day 9: January 19th, 2022
-Went through most of the Object Oriented Programming chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I worked with object, contstructors, and prototype chain.
-
+Went through most of the Object Oriented Programming chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I worked with object, contstructors, and prototype chain. Kept it a bit shorter than usual as it's my birthday.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1483937160436793350)
