@@ -30,6 +30,7 @@
 [Day 6](#day-6-january-16th-2022)
 [Day 7](#day-7-january-17th-2022)
 [Day 8](#day-7-january-18th-2022)
+[Day 8](#day-8-january-19th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -104,3 +105,9 @@ Completed Basic Algorithm Scripting chapter in the JS course on [FreeCodeCamp](h
 I was poorely motivated and had a hard time keeping focus so it took more time than necessary + I had to google alot again. Need to work on my sleep quality and stress management.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1483577901706530829)
+
+### Day 9: January 19th, 2022
+Went through most of the Object Oriented Programming chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I worked with object, contstructors, and prototype chain.
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1483937160436793350)
