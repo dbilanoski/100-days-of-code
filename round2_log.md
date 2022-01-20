@@ -30,7 +30,8 @@
 [Day 6](#day-6-january-16th-2022)
 [Day 7](#day-7-january-17th-2022)
 [Day 8](#day-7-january-18th-2022)
-[Day 8](#day-8-january-19th-2022)
+[Day 9](#day-9-january-19th-2022)
+[Day 10](#day-10-january-20th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -107,6 +108,11 @@ I was poorely motivated and had a hard time keeping focus so it took more time t
 [Twitter post](https://twitter.com/DBilanoski/status/1483577901706530829)
 
 ### Day 9: January 19th, 2022
-Went through most of the Object Oriented Programming chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I worked with object, contstructors, and prototype chain. Kept it a bit shorter than usual as it's my birthday.
+Went through most of the Object Oriented Programming chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I worked with object, constructors, and prototype chain. Kept it a bit shorter than usual as it's my birthday.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1483937160436793350)
+
+### Day 10: January 20th, 2022
+Completed Object Oriented Programming chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I worked more with objects and inheritance. Not a particulary productive day as I was poorely motivated and lacking iterest in the topic but pushed through it. Solid refresher at the end.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1484266459639525376)
