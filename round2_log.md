@@ -32,6 +32,7 @@
 [Day 8](#day-7-january-18th-2022)
 [Day 9](#day-9-january-19th-2022)
 [Day 10](#day-10-january-20th-2022)
+[Day 11](#day-11-january-22th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -116,3 +117,8 @@ Went through most of the Object Oriented Programming chapter in the JS course on
 Completed Object Oriented Programming chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I worked more with objects and inheritance. Not a particulary productive day as I was poorely motivated and lacking iterest in the topic but pushed through it. Solid refresher at the end.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1484266459639525376)
+
+### Day 11: January 22th, 2022
+Skipped a day as yesterday I did to little to count it as a day, so pushed a bit harder today to compensate. Completed Functional Programming chapter in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I mostly worked with array methods and had a few suprising challenges. Great chapter overall.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1484923510287912964)
