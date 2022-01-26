@@ -35,6 +35,7 @@
 [Day 11](#day-11-january-22th-2022)
 [Day 12](#day-12-january-23th-2022)
 [Day 13](#day-13-january-24th-2022)
+[Day 14](#day-14-january-26th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -134,3 +135,8 @@ Started Intermediate Algorithm Scripting module in the JS course on [FreeCodeCam
 Completed almonst 50% of Algorithm Scripting module in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I worked with strings, arrays and more tricky games with rearranging words and letters - had a great time and spent a lot of time.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1485730404715962368)
+
+### Day 14: January 26th, 2022
+Skipped another day due to being exausted and not having time to do much. Pushed bit more today and completed Algorithm Scripting module in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) I did have to Google alot especially for the math challenges but ultimately produced results. This was a very good insight into how much I still don't know and need to learn.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1486443885874368526)
