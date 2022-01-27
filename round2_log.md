@@ -36,6 +36,7 @@
 [Day 12](#day-12-january-23th-2022)
 [Day 13](#day-13-january-24th-2022)
 [Day 14](#day-14-january-26th-2022)
+[Day 15](#day-15-january-27th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -140,3 +141,8 @@ Completed almonst 50% of Algorithm Scripting module in the JS course on [FreeCod
 Skipped another day due to being exausted and not having time to do much. Pushed bit more today and completed Algorithm Scripting module in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) I did have to Google alot especially for the math challenges but ultimately produced results. This was a very good insight into how much I still don't know and need to learn.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1486443885874368526)
+
+### Day 15: January 27th, 2022
+Started final projects in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I solved two - paliendrome checker & ruman numerals conventer. I spent almost two hours on the roman numerals and after a solid session of while loops and If statemens, I checked Google a bit and saw a simpler implementation of my own logic. Bit of a cheat, but I did understand it.
+
+[Twitter post]()
