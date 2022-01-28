@@ -29,7 +29,7 @@
 [Day 5](#day-5-january-15th-2022)
 [Day 6](#day-6-january-16th-2022)
 [Day 7](#day-7-january-17th-2022)
-[Day 8](#day-7-january-18th-2022)
+[Day 8](#day-8-january-18th-2022)
 [Day 9](#day-9-january-19th-2022)
 [Day 10](#day-10-january-20th-2022)
 [Day 11](#day-11-january-22th-2022)
@@ -37,6 +37,7 @@
 [Day 13](#day-13-january-24th-2022)
 [Day 14](#day-14-january-26th-2022)
 [Day 15](#day-15-january-27th-2022)
+[Day 16](#day-16-january-28th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -145,4 +146,61 @@ Skipped another day due to being exausted and not having time to do much. Pushed
 ### Day 15: January 27th, 2022
 Started final projects in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I solved two - paliendrome checker & ruman numerals conventer. I spent almost two hours on the roman numerals and after a solid session of while loops and If statemens, I checked Google a bit and saw a simpler implementation of my own logic. Bit of a cheat, but I did understand it.
 
-[Twitter post]()
+```
+function convertToRoman(numb) {
+  const mappings = {
+    M:  1000,
+    CM: 900,
+    D:  500,
+    CD: 400,
+    C:  100,
+    XC: 90,
+    L:  50,
+    XL: 40,
+    X:  10,
+    IX: 9,
+    V:  5,
+    IV: 4,
+    I:  1,
+  };  
+
+  let result = '';
+  
+  for (let key in mappings) {
+    while(num <= 0) {
+      result+= key;
+      num -= mappings[key];
+    }
+  }
+  
+  return result;
+}
+```
+
+[Twitter post](https://twitter.com/DBilanoski/status/1486840405647929345)
+
+### Day 16: January 28th, 2022
+Continued with final projects in the JS course on [FreeCodeCamp](https://www.freecodecamp.org). Today I took it easy and solved one project, the "Caesars Cipher" with the [ROT13](https://en.wikipedia.org/wiki/ROT13) substitution cipher which I solved completely by myself, without even looking at JS documentation, using most basic of functions - for loops and if statemes. It was a blast.
+
+```
+function rot13(str) {
+  const alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+  const string = str.slice().toUpperCase().split("");
+  let decodedString =[];
+
+  for(let i = 0; i <= string.length-1; i++) {
+    let index = alphabet.indexOf(string[i]);
+    
+    if(index == -1) {
+      decodedString.push(string[i]);
+    } else if(index < 13) {
+        decodedString.push(alphabet[index+13]);
+    } else {
+        decodedString.push(alphabet[index-13]);
+    }
+  }
+return decodedString.join("");
+
+}
+```
+[Twitter post](https://twitter.com/DBilanoski/status/1487176351182430218)
