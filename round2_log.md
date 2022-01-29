@@ -204,3 +204,20 @@ return decodedString.join("");
 }
 ```
 [Twitter post](https://twitter.com/DBilanoski/status/1487176351182430218)
+
+
+### Day 17: January 29th, 2022
+Continued with final projects in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) where I completed one focusing on the regex usage and it was great as it forced me to look up regex documentation once again. Finally, I can say I'm feeling a bit more confortable with regexes in general and understand them better. Last project from the course I also started but leaving it for tomorrow.
+
+Validation of the US telephone numbers I wrote:
+
+```
+function telephoneCheck(str) {
+  const usPhonePattern = /^(?:\d{3}|\(\d{3}\)|1\s?\d{3}|1\s?\(\d{3}\))(?:\-|\s)?\d{3}(?:\-|\s)?\d{4}$/;
+
+  return usPhonePattern.test(str);
+ 
+}
+```
+
+[Twitter post]()
