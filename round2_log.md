@@ -38,6 +38,7 @@
 [Day 14](#day-14-january-26th-2022)
 [Day 15](#day-15-january-27th-2022)
 [Day 16](#day-16-january-28th-2022)
+[Day 17](#day-17-january-29th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -219,5 +220,4 @@ function telephoneCheck(str) {
  
 }
 ```
-
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1487528736102756356)
