@@ -13,7 +13,7 @@
 - [ ] Get beter at Linux sys administration
 - [ ] Revisit and learn Powershell in more detail 
 - [ ] Revisit Git in more detail
-- [ ] Get comfortable with regular expressions
+- [x] Get comfortable with regular expressions
 - [ ] Prepare for third round to tackle current DevOps tools
 - [ ] Create LinkedIn account and connect with people
 - [ ] Bring back discipline & order
