@@ -6,7 +6,7 @@
 > I will learn and code for at least half hour every day for the next 100 days.
 
 ### Broad Goals
-- [ ] Finish unfinished business (JS Certification from 2020.)
+- [x] Finish unfinished business (JS Certification from 2020.)
 - [ ] Learn basic Python scripting
 - [ ] Learn databases in more detail
 - [ ] Revisit and learn Bash scripting in more detail
@@ -39,6 +39,7 @@
 [Day 15](#day-15-january-27th-2022)
 [Day 16](#day-16-january-28th-2022)
 [Day 17](#day-17-january-29th-2022)
+[Day 18](#day-18-january-30th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -221,3 +222,79 @@ function telephoneCheck(str) {
 }
 ```
 [Twitter post](https://twitter.com/DBilanoski/status/1487528736102756356)
+
+### Day 18: January 29th, 2022
+Completed the "Cash register" final project in the JS course on [FreeCodeCamp](https://www.freecodecamp.org) after more than 2 hours of covering all cases. Take that, unifinished business from 2020!
+
+Gonna use next session to find good Python material to start learning basic sytnax and scripting there before I move to the databases.
+
+Cash register solution
+
+```
+function checkCashRegister(price, cash, cid) {
+  /* Money units in cents to escape math with decimals */
+  let currency = {
+    "ONE HUNDRED": 10000,
+    "TWENTY": 2000,
+    "TEN": 1000,
+    "FIVE": 500,
+    "ONE": 100,
+    "QUARTER": 25,
+    "DIME": 10,
+    "NICKEL": 5,
+    "PENNY": 1
+  }
+
+  /* How much the change is */
+  let change = (cash * 100) - (price *100);
+
+  /* How much money is in the drawer */
+  let cidSum = 0;
+
+  for (let elem of cid) {
+    cidSum += elem[1] * 100;
+  }
+
+  /* Main logic cases */
+
+  if(change > cidSum) {
+    /* IF more to return that in drawer, return insufficiend funds */
+    return {status: "INSUFFICIENT_FUNDS", change: []};
+
+  } else if (change == cidSum) {
+      /* If we have exact money to return, return closed with change as cid */
+      return {status: "CLOSED", change: cid};
+
+  } else {
+    /* Other cases where we have enough money to return change and need to update the drawer content */
+    cid = cid.reverse();
+    let returnedChange = [];
+
+    /* Looping through the change drawer*/
+    for (let elem of cid) {
+      elem[1] = elem[1]*100
+
+      /* Looping the currency to match appropriate money units we are taking from the drawer to return change and if there are any */
+      let returnedCurrency = [elem[0], 0];
+      while (change >= currency[elem[0]] && elem[1] > 1) {
+
+        /* Decrement change and current drawer money unit as you return money */
+        change -= currency[elem[0]];
+        elem[1] -= currency[elem[0]];
+
+        /* Add returned money units to the array returned to original currency (divided by 100) */
+        returnedCurrency[1] += currency[elem[0]]/100;
+      } 
+      /* Push to the totals array */
+      returnedChange.push(returnedCurrency);
+      };
+
+    if (change > 0) {
+      return {status: "INSUFFICIENT_FUNDS", change: []};
+    }
+
+    return {status: "OPEN", change: returnedChange.filter(current => current[1] !== 0)};
+  }
+}
+```
+[Twitter post](https://twitter.com/DBilanoski/status/1487921821714423822)
