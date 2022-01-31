@@ -40,6 +40,7 @@
 [Day 16](#day-16-january-28th-2022)
 [Day 17](#day-17-january-29th-2022)
 [Day 18](#day-18-january-30th-2022)
+[Day 19](#day-19-january-31th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -298,3 +299,10 @@ function checkCashRegister(price, cash, cid) {
 }
 ```
 [Twitter post](https://twitter.com/DBilanoski/status/1487921821714423822)
+
+### Day 19: January 31th, 2022
+Used today's session to review my goals and check online content for learning Python as I decided I will do that next while I'm still "warm" from the JavaScript Course. Plan is to learn basic Python syntax and use cases and test it as a tool for automating everyday computer tasks at work before I continue to databases and preparations for the DevOps tools.
+
+I decided to go with the [Complete Python Bootcamp From Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp) and parallel to that I will do the FreeCodeCamp's [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) if I manage to squize it. Important thing to remember here is that I do not want to stuck on this topic - just learn enough to be able to test the language and to be able to easy dig in later if I need it. And from what I see in the trends, I'll need it.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1488276940905926658)
