@@ -41,6 +41,7 @@
 [Day 17](#day-17-january-29th-2022)
 [Day 18](#day-18-january-30th-2022)
 [Day 19](#day-19-january-31th-2022)
+[Day 20](#day-20-february-1st-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -306,3 +307,8 @@ Used today's session to review my goals and check online content for learning Py
 I decided to go with the [Complete Python Bootcamp From Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp) and parallel to that I will do the FreeCodeCamp's [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) if I manage to squize it. Important thing to remember here is that I do not want to stuck on this topic - just learn enough to be able to test the language and to be able to easy dig in later if I need it. And from what I see in the trends, I'll need it.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1488276940905926658)
+
+### Day 20: February 1st, 2022
+Started [Complete Python Bootcamp From Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp), went through introductory explanations, installed Anaconda3 suite but also prepared VS Code for Python as that is what I'll rather use. All set to learn, I started with the basic data structures and already wrote dozen of unnecessary semicolons.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1488632443250913281)
