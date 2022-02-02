@@ -42,6 +42,7 @@
 [Day 18](#day-18-january-30th-2022)
 [Day 19](#day-19-january-31th-2022)
 [Day 20](#day-20-february-1st-2022)
+[Day 21](#day-21-february-2nd-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -312,3 +313,8 @@ I decided to go with the [Complete Python Bootcamp From Zero to Hero](https://ww
 Started [Complete Python Bootcamp From Zero to Hero](https://www.udemy.com/course/complete-python-bootcamp), went through introductory explanations, installed Anaconda3 suite but also prepared VS Code for Python as that is what I'll rather use. All set to learn, I started with the basic data structures and already wrote dozen of unnecessary semicolons.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1488632443250913281)
+
+### Day 21: February 2nd, 2022
+Continued with basic data structures in Python, did strings and lists today and explored some of their methods. Interesting, `list.sort()` just sorts the list, not returning it sorted - meaning, you can't do `new_list = list.sort()`, first you sort it, then do the `new_list = list` for example. Interesting language.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1488993041671237640)
