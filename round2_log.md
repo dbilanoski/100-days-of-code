@@ -43,6 +43,8 @@
 [Day 19](#day-19-january-31th-2022)
 [Day 20](#day-20-february-1st-2022)
 [Day 21](#day-21-february-2nd-2022)
+[Day 22](#day-22-february-3rd-2022)
+
 
 ---
 ### Day 1: January 10th, 2022
@@ -318,3 +320,8 @@ Started [Complete Python Bootcamp From Zero to Hero](https://www.udemy.com/cours
 Continued with basic data structures in Python, did strings and lists today and explored some of their methods. Interesting, `list.sort()` just sorts the list, not returning it sorted - meaning, you can't do `new_list = list.sort()`, first you sort it, then do the `new_list = list` for example. Interesting language.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1488993041671237640)
+
+### Day 22: February 3rd, 2022
+Continued with basic data structures and associated methonds in Python. Today was a bit slower seesion as I was tired and already squized but managed to go thruugh dictionaries, tuples, sets, booleans and basic IO which I'll need to revise tomorrow. Not that much of a productive session but I kept on for an hour.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1489359950866440195)
