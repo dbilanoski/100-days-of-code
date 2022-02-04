@@ -44,6 +44,7 @@
 [Day 20](#day-20-february-1st-2022)
 [Day 21](#day-21-february-2nd-2022)
 [Day 22](#day-22-february-3rd-2022)
+[Day 23](#day-23-february-4th-2022)
 
 
 ---
@@ -325,3 +326,8 @@ Continued with basic data structures in Python, did strings and lists today and 
 Continued with basic data structures and associated methonds in Python. Today was a bit slower seesion as I was tired and already squized but managed to go thruugh dictionaries, tuples, sets, booleans and basic IO which I'll need to revise tomorrow. Not that much of a productive session but I kept on for an hour.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1489359950866440195)
+
+### Day 23: February 4th, 2022
+Completed basic data structures and objects in Python which was first module of the course I'm taking. There was a solid school like test at the end - not a big fan of the method but nailed it ;) I do hope future assessments will be project based.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1489714603647029255)
