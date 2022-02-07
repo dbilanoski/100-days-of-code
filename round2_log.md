@@ -45,7 +45,8 @@
 [Day 21](#day-21-february-2nd-2022)
 [Day 22](#day-22-february-3rd-2022)
 [Day 23](#day-23-february-4th-2022)
-[Day 24](#day-25-february-4th-2022)
+[Day 24](#day-24-february-6th-2022)
+[Day 25](#day-25-february-7th-2022)
 
 
 ---
@@ -338,3 +339,22 @@ Completed basic data structures and objects in Python which was first module of 
 Skipped a day as yesterday I felt it was not enough to call it a day. Then today had even less time to do anything, so two half days, let's say it was a day. And a lousy one. Seems weekends are hardest to do anything these days. So, control flow - if, elif, else, for loops and while loops. Digging the syntax for this gotta say.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1490456078693416960)
+
+### Day 25: February 7th, 2022
+Completed second module of the Python course where I worked with control flow logic and iteration.  Today I reviewed useful functions for working with lists and for loops (such as `enumerate()`) and list comprehension way of writing for loops which basicly flattens the for loop. Gotta say it's weird and not that intuitive at first.
+
+```
+# Example
+
+my_list = [current for current in "Hello"]
+
+# is same as
+
+my_list = []
+for current in "Hello":
+  my_list.append(current)
+
+# Output: ["H", "e", "l", "l", "o"]
+```
+
+[Twitter post]()
