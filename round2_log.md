@@ -357,4 +357,4 @@ for current in "Hello":
 # Output: ["H", "e", "l", "l", "o"]
 ```
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1490831529961873411)
