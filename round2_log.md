@@ -47,6 +47,7 @@
 [Day 23](#day-23-february-4th-2022)
 [Day 24](#day-24-february-6th-2022)
 [Day 25](#day-25-february-7th-2022)
+[Day 26](#day-26-february-8th-2022)
 
 
 ---
@@ -358,3 +359,12 @@ for current in "Hello":
 ```
 
 [Twitter post](https://twitter.com/DBilanoski/status/1490831529961873411)
+
+
+### Day 26: February 8th, 2022
+Little detour today as I had an opportunity to solve a problem at work by using Python so I took a swing at it.
+Idea is to have a simple downloader script which authenticates to Google Cloud service and pulls files from the storage bucket. Luckly, there are pretty convenient libraries for that. 
+
+Little less luckly, I had to reinstall my Python setup, troubleshoot missing PIP modules which were actually installed and write code blind as I did not have service keys and needed info to test my script. On the bright side - it was fun, I tried Try and Except statements and actually reinforced some concepts learned in the previous lesson.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1491176557289021449)
