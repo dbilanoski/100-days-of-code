@@ -48,6 +48,7 @@
 [Day 24](#day-24-february-6th-2022)
 [Day 25](#day-25-february-7th-2022)
 [Day 26](#day-26-february-8th-2022)
+[Day 27](#day-27-february-9th-2022)
 
 
 ---
@@ -368,3 +369,8 @@ Idea is to have a simple downloader script which authenticates to Google Cloud s
 Little less luckly, I had to reinstall my Python setup, troubleshoot missing PIP modules which were actually installed and write code blind as I did not have service keys and needed info to test my script. On the bright side - it was fun, I tried Try and Except statements and actually reinforced some concepts learned in the previous lesson.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1491176557289021449)
+
+### Day 27: February 7th, 2022
+Worked a bit more on my Google Storage downloader script then continued with the course where I started learning functions and methods. Basics today, wrote a simple calculator function. Really liking the syntax.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1491532412626649100)
