@@ -49,6 +49,7 @@
 [Day 25](#day-25-february-7th-2022)
 [Day 26](#day-26-february-8th-2022)
 [Day 27](#day-27-february-9th-2022)
+[Day 28](#day-28-february-11th-2022)
 
 
 ---
@@ -370,7 +371,12 @@ Little less luckly, I had to reinstall my Python setup, troubleshoot missing PIP
 
 [Twitter post](https://twitter.com/DBilanoski/status/1491176557289021449)
 
-### Day 27: February 7th, 2022
+### Day 27: February 9th, 2022
 Worked a bit more on my Google Storage downloader script then continued with the course where I started learning functions and methods. Basics today, wrote a simple calculator function. Really liking the syntax.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1491532412626649100)
+
+### Day 28: February 11th, 2022
+Skipped a day again, this time I was too tired and just was not able to follow anything. Today did a bit better but under same conditions. Continued with functions, did few examples with tuples and tuples unpacking. Tried appening to lists using Javascript methonds ofcourse :D 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1492250996503949315)
