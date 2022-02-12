@@ -50,7 +50,7 @@
 [Day 26](#day-26-february-8th-2022)
 [Day 27](#day-27-february-9th-2022)
 [Day 28](#day-28-february-11th-2022)
-
+[Day 29](#day-29-february-12th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -380,3 +380,30 @@ Worked a bit more on my Google Storage downloader script then continued with the
 Skipped a day again, this time I was too tired and just was not able to follow anything. Today did a bit better but under same conditions. Continued with functions, did few examples with tuples and tuples unpacking. Tried appening to lists using Javascript methonds ofcourse :D 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1492250996503949315)
+
+
+### Day 29: February 12th, 2022
+Today I did good - managed to spend almost three hours on function excercizes solving simple problems in Python. Tomorrow round 2 :)
+```
+# ALMOST THERE 
+  # Given an integer n, return True if n is within 10 of either 100 or 200
+
+  # almost_there(90) --> True
+  # almost_there(104) --> True
+  # almost_there(150) --> False
+  # almost_there(209) --> True
+
+def almost_there(n):
+  n = abs(n)
+  r1 = range(90,111)
+  r2 = range (190,211)
+
+  if n in r1 or n in r2:
+    return True
+  else:
+    pass
+  
+  return False
+```
+
+[Twitter post](https://twitter.com/DBilanoski/status/1492618056580976644)
