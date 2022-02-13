@@ -407,3 +407,28 @@ def almost_there(n):
 ```
 
 [Twitter post](https://twitter.com/DBilanoski/status/1492618056580976644)
+
+
+### Day 30: February 13th, 2022
+Another good day, little less productive but still good. Round two of solving simple challenges in Python where aim was to get confortable with functions. Spent almost an hour on one which lists prime numbers from an range. Actually I am kind of proud as I had good logic but got stuck on second loop printing all odd numbers instead of primes. Then I saw few examples and figured I need a flag to make sure only prime number gets appended in the first loop. Good times :) 
+
+```
+def count_primes(num):
+  primes = [] # Initialize empty list
+  for n in range(2,num+1): # Looping from 2 (first prime number) to our feeded number
+    is_prime = True # Status flag to flag if number is prime
+    for i in range(2,n): # Another loop from 2 to current number from the first loop
+      if (n % i) == 0: 
+         is_prime = False # In case number is divisible, status flag is false
+      else:
+        pass
+    if is_prime == True: # Back to the first loop - if flag is true, append number to list since it's prime number
+      primes.append(n)
+    else:
+      pass
+
+  print(primes)
+  return len(primes)
+
+```
+[Twitter post](https://twitter.com/DBilanoski/status/1492977593775185923)
