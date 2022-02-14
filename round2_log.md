@@ -432,3 +432,22 @@ def count_primes(num):
 
 ```
 [Twitter post](https://twitter.com/DBilanoski/status/1492977593775185923)
+
+### Day 31: February 14th, 2022
+Today I was a bit less productive but took the chance to check on web solutions for challenges I was solving last two days to see how syntax and logic can improve. While doing it, I figured how to make my initial function for checking primes without any flags from yesterday work - FOR ELSE statement. Started a bit with map() and filter() methods but will leave it for tomorrow.
+
+```
+# My original logic without the flag, it was not working because I was unaware of the posibility to have an For - Else statement
+def count_primes_2(num):
+  primes = []
+  for n in range(2,num+1):
+    for i in range(2,n):
+      if n % i == 0:
+        break
+    else:
+      primes.append(n)
+
+  print(primes)
+  return len(primes)
+```
+[Twitter post](https://twitter.com/DBilanoski/status/1493353014853312512)
