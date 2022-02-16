@@ -51,6 +51,9 @@
 [Day 27](#day-27-february-9th-2022)
 [Day 28](#day-28-february-11th-2022)
 [Day 29](#day-29-february-12th-2022)
+[Day 30](#day-30-february-13th-2022)
+[Day 31](#day-31-february-14th-2022)
+[Day 32](#day-32-february-16th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -451,3 +454,16 @@ def count_primes_2(num):
   return len(primes)
 ```
 [Twitter post](https://twitter.com/DBilanoski/status/1493353014853312512)
+
+### Day 32: February 16th, 2022
+Skipped another day as yesterday, even though I did learn for more than an hour, I did not feel like I finished the topic so it made more sense to finish it today. So, yesterday and today I worked with lambda expressions, `map()` and `filter()` methods and read about scope in Python where I tested on few examples the LEGB lookup order of checking the variable assigment.
+
+```
+# LEGB Rule
+  # L - local, names assigned within a def or lambda function and not declared global in that function
+  # E - enclosing function locals, names in the local scope of any function, from inner to outer
+  # G - global, names assigned at the top lovel of a module file or declared global in a def within the file
+  # B - built-in Python, names preassigned in the built-in names module
+
+```
+[Twitter post](https://twitter.com/DBilanoski/status/1494067354740928512)
