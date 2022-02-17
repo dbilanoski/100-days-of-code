@@ -54,6 +54,7 @@
 [Day 30](#day-30-february-13th-2022)
 [Day 31](#day-31-february-14th-2022)
 [Day 32](#day-32-february-16th-2022)
+[Day 33](#day-33-february-17th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -458,12 +459,32 @@ def count_primes_2(num):
 ### Day 32: February 16th, 2022
 Skipped another day as yesterday, even though I did learn for more than an hour, I did not feel like I finished the topic so it made more sense to finish it today. So, yesterday and today I worked with lambda expressions, `map()` and `filter()` methods and read about scope in Python where I tested on few examples the LEGB lookup order of checking the variable assigment.
 
-```
-# LEGB Rule
-  # L - local, names assigned within a def or lambda function and not declared global in that function
-  # E - enclosing function locals, names in the local scope of any function, from inner to outer
-  # G - global, names assigned at the top lovel of a module file or declared global in a def within the file
-  # B - built-in Python, names preassigned in the built-in names module
+**LEGB Rule**
+
+Order of resolving variable names in Python.
+* L - local, names assigned within a def or lambda function and not declared global in that function
+* E - enclosing function locals, names in the local scope of any function, from inner to outer
+* G - global, names assigned at the top lovel of a module file or declared global in a def within the file
+* B - built-in Python, names preassigned in the built-in names module
+
+[Twitter post](https://twitter.com/DBilanoski/status/1494067354740928512)
+
+### Day 33: February 17th, 2022
+Another round of practicing functions with challenges in Python, good session.
 
 ```
-[Twitter post](https://twitter.com/DBilanoski/status/1494067354740928512)
+# Write a Python function to check whether a string is pangram or not. (Assume the string passed in does not have any punctuation)
+  # Note : Pangrams are words or sentences containing every letter of the alphabet at least once.
+  # For example : "The quick brown fox jumps over the lazy dog"
+
+import string
+
+def ispangram(str1, alphabet=string.ascii_lowercase):
+  prep = set(str1.replace(" ","").lower())
+  alph = set(alphabet)
+ 
+  return prep.issuperset(alph)
+
+```
+
+[Twitter post](https://twitter.com/DBilanoski/status/1494442340429316099)
