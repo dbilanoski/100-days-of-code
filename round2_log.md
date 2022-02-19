@@ -55,6 +55,7 @@
 [Day 31](#day-31-february-14th-2022)
 [Day 32](#day-32-february-16th-2022)
 [Day 33](#day-33-february-17th-2022)
+[Day 34](#day-34-february-19th-2022)
 
 ---
 ### Day 1: January 10th, 2022
@@ -488,3 +489,9 @@ def ispangram(str1, alphabet=string.ascii_lowercase):
 ```
 
 [Twitter post](https://twitter.com/DBilanoski/status/1494442340429316099)
+
+### Day 34: February 19th, 2022
+Skipped a day as yesterday I needed a day off. Today started with the first bigger project, Tic-Tac-Toe game in Python. Lets see :) 
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1495150907864014849)
