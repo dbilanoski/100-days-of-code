@@ -56,7 +56,7 @@
 [Day 32](#day-32-february-16th-2022)
 [Day 33](#day-33-february-17th-2022)
 [Day 34](#day-34-february-19th-2022)
-
+[Day 35](#day-35-february-20th-2022)
 ---
 ### Day 1: January 10th, 2022
 Dusted off my GitHub account, sorted this repo a bit and started with round 2 files. Made a plan and I am ready to start - it's you and me, unfinished business from 2020 :) 
@@ -490,8 +490,14 @@ def ispangram(str1, alphabet=string.ascii_lowercase):
 
 [Twitter post](https://twitter.com/DBilanoski/status/1494442340429316099)
 
+
 ### Day 34: February 19th, 2022
 Skipped a day as yesterday I needed a day off. Today started with the first bigger project, Tic-Tac-Toe game in Python. Lets see :) 
 
-
 [Twitter post](https://twitter.com/DBilanoski/status/1495150907864014849)
+
+
+### Day 35: February 20th, 2022
+Ok, more than 3 hours of coding today, pretty good. Started my Tic-tac-toe project and wanted to try working with dictionaries and function separation so ended up complicating things more than needed, as usual. But, feels it will be a good experience producing problems like this and solving them.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1495531158234443784)
