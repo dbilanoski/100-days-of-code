@@ -57,6 +57,7 @@
 [Day 33](#day-33-february-17th-2022)
 [Day 34](#day-34-february-19th-2022)
 [Day 35](#day-35-february-20th-2022)
+[Day 36](#day-36-february-21th-2022)
 ---
 ### Day 1: January 10th, 2022
 Dusted off my GitHub account, sorted this repo a bit and started with round 2 files. Made a plan and I am ready to start - it's you and me, unfinished business from 2020 :) 
@@ -501,3 +502,9 @@ Skipped a day as yesterday I needed a day off. Today started with the first bigg
 Ok, more than 3 hours of coding today, pretty good. Started my Tic-tac-toe project and wanted to try working with dictionaries and function separation so ended up complicating things more than needed, as usual. But, feels it will be a good experience producing problems like this and solving them.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1495531158234443784)
+
+
+### Day 36: February 21th, 2022
+Continued with my Tic-tac-toe game where I expanded functionalities a bit, added more user info, rounds and basic stats tracking. Basicly, producing problems as I go. Big fun, tomorrow I plan to finish it.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1495882494553567240)
