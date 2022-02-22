@@ -515,6 +515,6 @@ Completed my Tic-tac-toe game and had a blast. Added rounds and moves counter, f
 
 While doing it, learned a lot, expecially about scope in Python. Looking forward to the Object oriented approach.
 
-[My TicTacToe code:](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/tic-tac-toe.py)
+[My TicTacToe code](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/tic-tac-toe.py)
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1496240588970246158)

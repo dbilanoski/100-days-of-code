@@ -122,11 +122,11 @@ def configure_player(str):
     # Pick player symbol
     if player_1["symbol"] == "X":
       player_2["symbol"] = "O"
-      print("Your player is O.")
+      print("Your symbol is O.")
     
     elif player_1["symbol"] == "O":
       player_2["symbol"] = "X"
-      print("Your player is X.")
+      print("Your symbol is X.")
     
     else:
       print("Something went wrong, check player config sequence as player 1 is not configured.")
