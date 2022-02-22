@@ -508,3 +508,13 @@ Ok, more than 3 hours of coding today, pretty good. Started my Tic-tac-toe proje
 Continued with my Tic-tac-toe game where I expanded functionalities a bit, added more user info, rounds and basic stats tracking. Basicly, producing problems as I go. Big fun, tomorrow I plan to finish it.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1495882494553567240)
+
+
+### Day 37: February 22th, 2022
+Completed my Tic-tac-toe game and had a blast. Added rounds and moves counter, fixed tie logic, handled game over and print stats functions Refactored a bit and decided it is time to move on else I might keep adding things to this for who knows how long :D 
+
+While doing it, learned a lot, expecially about scope in Python. Looking forward to the Object oriented approach.
+
+[My TicTacToe code:](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/tic-tac-toe.py)
+
+[Twitter post]()
