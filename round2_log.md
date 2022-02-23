@@ -58,7 +58,10 @@
 [Day 34](#day-34-february-19th-2022)
 [Day 35](#day-35-february-20th-2022)
 [Day 36](#day-36-february-21th-2022)
+[Day 37](#day-37-february-22th-2022)
+[Day 38](#day-38-february-23th-2022)
 ---
+
 ### Day 1: January 10th, 2022
 Dusted off my GitHub account, sorted this repo a bit and started with round 2 files. Made a plan and I am ready to start - it's you and me, unfinished business from 2020 :) 
 
@@ -518,3 +521,11 @@ While doing it, learned a lot, expecially about scope in Python. Looking forward
 [My TicTacToe code](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/tic-tac-toe.py)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1496240588970246158)
+
+
+### Day 38: February 23th, 2022
+Today I took it easy and started by exploring few other Tic-tac-toe solutions just to see how other were approaching it which was useful and interesting to se how same problems can be solved with similar/same logic but differently written.
+
+After that I started with the new course module which will explore object oriented programming and learned about basic class creation, constructor function and creating methods.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1496612299246907397)
