@@ -60,6 +60,7 @@
 [Day 36](#day-36-february-21th-2022)
 [Day 37](#day-37-february-22th-2022)
 [Day 38](#day-38-february-23th-2022)
+[Day 39](#day-39-february-24th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -529,3 +530,9 @@ Today I took it easy and started by exploring few other Tic-tac-toe solutions ju
 After that I started with the new course module which will explore object oriented programming and learned about basic class creation, constructor function and creating methods.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1496612299246907397)
+
+
+### Day 39: February 24th, 2022
+Continued with object oriented programming in Python where I worked with basics: creating classes, defining constructors, attributes, object attributes and methods.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1496962657177460740)
