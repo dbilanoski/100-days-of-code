@@ -61,6 +61,7 @@
 [Day 37](#day-37-february-22th-2022)
 [Day 38](#day-38-february-23th-2022)
 [Day 39](#day-39-february-24th-2022)
+[Day 40](#day-40-february-26th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -536,3 +537,9 @@ After that I started with the new course module which will explore object orient
 Continued with object oriented programming in Python where I worked with basics: creating classes, defining constructors, attributes, object attributes and methods.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1496962657177460740)
+
+
+### Day 40: February 26th, 2022
+Yesterday I skiped a day as there was literally no time for this and today had to do a little detour to solve a thing on the job - SQL crashcourse. Learn basics of database queries and solved a problem.  
+
+[Twitter post](https://twitter.com/DBilanoski/status/1497680581978730503)
