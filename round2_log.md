@@ -62,6 +62,7 @@
 [Day 38](#day-38-february-23th-2022)
 [Day 39](#day-39-february-24th-2022)
 [Day 40](#day-40-february-26th-2022)
+[Day 41](#day-41-february-27th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -543,3 +544,25 @@ Continued with object oriented programming in Python where I worked with basics:
 Yesterday I skiped a day as there was literally no time for this and today had to do a little detour to solve a thing on the job - SQL crashcourse. Learn basics of database queries and solved a problem.  
 
 [Twitter post](https://twitter.com/DBilanoski/status/1497680581978730503)
+
+
+### Day 41: February 27th, 2022
+Continued with OOP in Python where I learned about inheritance, polymorphism and some of the useful magic methods for giving logic to class instances when print or len are being called on them. After that I did few excercises, mostly geometry based, which was a strange but satisfying experience. I was implementing logic for calculating cylinder surface area and distance and slope based on given coordinates. It's been a looong time :) 
+
+```
+import math
+
+class Line:
+    
+    def __init__(self,coor1,coor2):
+        self.x1, self.y1 = coor1
+        self.x2, self.y2 = coor2
+    
+    def distance(self):
+        return math.sqrt(((self.x2 - self.x1) ** 2) + ((self.y2 - self.y1) ** 2))
+    
+    def slope(self):
+        return (self.y2 - self.y1) / (self.x2 - self.x1)
+```
+
+[Twitter post](https://twitter.com/DBilanoski/status/1498049317961179149)
