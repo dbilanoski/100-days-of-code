@@ -63,6 +63,7 @@
 [Day 39](#day-39-february-24th-2022)
 [Day 40](#day-40-february-26th-2022)
 [Day 41](#day-41-february-27th-2022)
+[Day 42](#day-42-february-28th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -566,3 +567,9 @@ class Line:
 ```
 
 [Twitter post](https://twitter.com/DBilanoski/status/1498049317961179149)
+
+
+### Day 42: February 28th, 2022
+Did another challenge exercise today where I created a bank account class having some basic user info, transaction counters and methods for withdrawing and depositing money. It was fun. After that, started reading about PyPI repository and using pip command line tool for administering packages.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1498423826971045890)
