@@ -64,6 +64,7 @@
 [Day 40](#day-40-february-26th-2022)
 [Day 41](#day-41-february-27th-2022)
 [Day 42](#day-42-february-28th-2022)
+[Day 43](#day-43-march-2nd-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -573,3 +574,27 @@ class Line:
 Did another challenge exercise today where I created a bank account class having some basic user info, transaction counters and methods for withdrawing and depositing money. It was fun. After that, started reading about PyPI repository and using pip command line tool for administering packages.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1498423826971045890)
+
+
+### Day 43: March 2nd, 2022
+Skipped another day as yesterday I did the modules and packaging in Pythong but did not had time to test it properly. Today I wrote a small package containg sub package to see how the import will go. Then went through error handling where I learned the basics of the try - except - else - finally chain.
+
+```
+def ask_for_int():
+  while True:
+    try:
+      result = int(input("Please provide a number: "))
+    except:
+      # In case of error:
+      print("Whoops, not a number!")
+      continue # Loop continues (keyword continue is not explicitly needed)
+    else:
+      # In case there is not error:
+      print("Thank you, that is a number.")
+      break # Loop breaks as the number is provided
+    finally:
+      # This runs anyways
+      print("End of the try/except/else/finally block")
+```
+
+[Twitter post](https://twitter.com/DBilanoski/status/1499142424752541699)
