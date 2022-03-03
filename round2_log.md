@@ -65,6 +65,7 @@
 [Day 41](#day-41-february-27th-2022)
 [Day 42](#day-42-february-28th-2022)
 [Day 43](#day-43-march-2nd-2022)
+[Day 44](#day-44-march-3rd-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -598,3 +599,9 @@ def ask_for_int():
 ```
 
 [Twitter post](https://twitter.com/DBilanoski/status/1499142424752541699)
+
+
+### Day 44: March 3rd, 2022
+Today I was learning about unit testing and linting in Pythong where I learned basics of Pyling and unittest libraries. After that, started with few challenges to practice oop in Python. Will do a card game called War for starters.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1499494632077602821)
