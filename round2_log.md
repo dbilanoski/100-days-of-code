@@ -605,3 +605,9 @@ def ask_for_int():
 Today I was learning about unit testing and linting in Pythong where I learned basics of Pyling and unittest libraries. After that, started with few challenges to practice oop in Python. Will do a card game called War for starters.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1499494632077602821)
+
+
+### Day 45: March 5rd, 2022
+Another day skipped, I was so tired I felt almost sick so decided to rather rest. Today was better so continued with my War card game project in Python where I wrote needed classes. Up next is the main game logic, will try to complete it all tomorrow.
+
+[Twitter post]()
