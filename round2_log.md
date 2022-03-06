@@ -66,6 +66,8 @@
 [Day 42](#day-42-february-28th-2022)
 [Day 43](#day-43-march-2nd-2022)
 [Day 44](#day-44-march-3rd-2022)
+[Day 45](#day-45-march-5th-2022)
+[Day 46](#day-46-march-6th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -607,7 +609,12 @@ Today I was learning about unit testing and linting in Pythong where I learned b
 [Twitter post](https://twitter.com/DBilanoski/status/1499494632077602821)
 
 
-### Day 45: March 5rd, 2022
+### Day 45: March 5th, 2022
 Another day skipped, I was so tired I felt almost sick so decided to rather rest. Today was better so continued with my War card game project in Python where I wrote needed classes. Up next is the main game logic, will try to complete it all tomorrow.
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1500250068372307968)
+
+### Day 46: March 6th, 2022
+Almost done with the War card game project - coded main logic and the war situation - only thing left to do is cover the case where user has less cards than needed to participate in war.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1500596266484617221)
