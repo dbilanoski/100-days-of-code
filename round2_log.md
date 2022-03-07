@@ -68,6 +68,7 @@
 [Day 44](#day-44-march-3rd-2022)
 [Day 45](#day-45-march-5th-2022)
 [Day 46](#day-46-march-6th-2022)
+[Day 47](#day-47-march-7th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -618,3 +619,13 @@ Another day skipped, I was so tired I felt almost sick so decided to rather rest
 Almost done with the War card game project - coded main logic and the war situation - only thing left to do is cover the case where user has less cards than needed to participate in war.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1500596266484617221)
+
+
+### Day 47: March 7th, 2022
+Completed the War card game project in Python. Added new class for game status and refractored the code to implement it. Fixed "war situation" issues and concluded that most of the bugs were actualy either because of typos, or because of pasting blocks of code an not changing the variables in it. Valuable lesson.
+
+Started heavy with the next project - Blackjack game. Needed to learn how to play it first.
+
+[My WarCardGame code](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/war-card-game.py)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1500947493391147009)
