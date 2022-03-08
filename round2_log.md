@@ -69,6 +69,7 @@
 [Day 45](#day-45-march-5th-2022)
 [Day 46](#day-46-march-6th-2022)
 [Day 47](#day-47-march-7th-2022)
+[Day 48](#day-48-march-8th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -615,6 +616,7 @@ Another day skipped, I was so tired I felt almost sick so decided to rather rest
 
 [Twitter post](https://twitter.com/DBilanoski/status/1500250068372307968)
 
+
 ### Day 46: March 6th, 2022
 Almost done with the War card game project - coded main logic and the war situation - only thing left to do is cover the case where user has less cards than needed to participate in war.
 
@@ -629,3 +631,11 @@ Started heavy with the next project - Blackjack game. Needed to learn how to pla
 [My WarCardGame code](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/war-card-game.py)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1500947493391147009)
+
+
+### Day 48: March 8th, 2022
+Continued with my Blackjack card game project in Python. Wrote all classes an started with the main logic while adjusting methods along the way. Two loops for now - one for turn and one for repeating the prompt. Plan to add outer loop for round to provide "Play again" functionality, will se if I can pull it of by adjusting two current loops to just one and integrade prompts into turn.
+
+Probaly overcomplicated it again but will finish it on my own, then check other solutions to see what I can improve logic wise.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1501318629752717321)
