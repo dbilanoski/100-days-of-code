@@ -70,6 +70,7 @@
 [Day 46](#day-46-march-6th-2022)
 [Day 47](#day-47-march-7th-2022)
 [Day 48](#day-48-march-8th-2022)
+[Day 49](#day-49-march-9th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -639,3 +640,9 @@ Continued with my Blackjack card game project in Python. Wrote all classes an st
 Probaly overcomplicated it again but will finish it on my own, then check other solutions to see what I can improve logic wise.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1501318629752717321)
+
+
+### Day 49: March 9th, 2022
+Completed the Blackjack card game project in Python but I do see some repeating of same lines throught the main logic so I am leaving space for some refactoring tomorrow before I call it finished. Worked mostly on the main logic, added outer loop for the round count and fixed turn loop to accomodate exchange of both human and machine players. Good session.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1501684386366103555)
