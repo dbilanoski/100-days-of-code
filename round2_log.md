@@ -71,6 +71,7 @@
 [Day 47](#day-47-march-7th-2022)
 [Day 48](#day-48-march-8th-2022)
 [Day 49](#day-49-march-9th-2022)
+[Day 50](#day-50-march-10th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -646,3 +647,11 @@ Probaly overcomplicated it again but will finish it on my own, then check other 
 Completed the Blackjack card game project in Python but I do see some repeating of same lines throught the main logic so I am leaving space for some refactoring tomorrow before I call it finished. Worked mostly on the main logic, added outer loop for the round count and fixed turn loop to accomodate exchange of both human and machine players. Good session.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1501684386366103555)
+
+
+### Day 50: March 10th, 2022
+A bit shorter session today. Refactored the Blackjack project a bit by making few methods out of repeating code and recostructing some dictionaries to have lists as values which reduced number of globals in general so good practice I would say. Then checked the course solution and some other on the web and got a bit discouraged as it seems my solution was bit longer and maybe less "smarter" but on the other hand it is completely mine so that must be a good thing. It's always interesting to see other approaches. Conclusion is that I am definetely prone to complicating things :D 
+
+[My Blackjack code](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/blackjack.py)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1502042195011981315)
