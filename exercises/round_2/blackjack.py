@@ -12,7 +12,7 @@
   # If player gets an ace and a face card (21), it's called blackjack
   # Bet is placed before the round
     # Winer gets the invested bet of opponent
-    # Blackjack win gets 1.5 * invested bet of opponent
+    # Blackjack win gets 1.5 * invested bet
 
 ### Globals
 import random
@@ -100,29 +100,36 @@ class Deck():
 
   def shuffle_deck(self):
     '''
-    Shuffle the deck.
+    Shuffles the deck in place.
     '''
     random.shuffle(self.deck_cards)
   
-  def deal_card(self, hit=False):
+  def deal_card(self, hit=False, current_player=None):
     '''
     Returns one card from the deck. 
     In case "hit" is used, ask user for the Jack value.
-    In case "hit" is used and user is the dealer, assign value based on the difference between sum of current cards in the dealer posession and 21. 
+    In case "hit" is used and user is the dealer, assign value based on whether dealer cards sum is greater or less than 17 (soft 17).
     '''
     if hit == False:
       return self.deck_cards.pop()
 
     else:
       current_card = self.deck_cards.pop()
+
       if current_card.rank == "Ace":
-        while True:
-          try:
-            current_card.value = int(input("Do you want your Ace to be valued as 1 or 11 (1, 11): "))
-          except:
-            print("We need 1 or 11 here.")
+        if current_player.role == "human":
+          while True:
+            try:
+              current_card.value = int(input("Do you want your Ace to be valued as 1 or 11 (1, 11): "))
+            except:
+              print("We need 1 or 11 here.")
+            else:
+              break
+        else:
+          if current_player.print_current_sum("blind") < 17:
+            current_card.value = 11
           else:
-            break
+            current_card.value = 1 
 
       return current_card
 
@@ -136,7 +143,6 @@ class Player():
   role = "human"
 
   def __init__(self, name=" "):
-    
     self.name = name
     self.wallet = 0
     self.current_cards = []
@@ -238,7 +244,6 @@ class Game():
 ### Main logic
 
 # Initiate needed components
-new_deck = Deck()
 human = Player()
 dealer = Player("Dealer")
 new_game = Game()
@@ -248,6 +253,7 @@ human.configure_player()
 
 ## Start of the round
 while new_game.game_on == True:
+  new_deck = Deck()
   new_game.current_round += 1
   
   # Reset stats
@@ -283,10 +289,10 @@ while new_game.game_on == True:
 
   while True:
      # Player / Dealer turns
-
     current_player = globals()[new_game.current_player]
     print(f"Your turn {current_player.name}")
 
+    # In case player's cards are already over 21
     if current_player.print_current_sum("blind") > 21:
       print("You lose!")
 
@@ -301,7 +307,8 @@ while new_game.game_on == True:
         human.wallet += new_game.players_bet
         new_game.play_again()
         break
-
+    
+    # Current player is human
     if new_game.current_player == "human":
       # Collect answer
       answer = 0
@@ -324,12 +331,12 @@ while new_game.game_on == True:
           break
 
         else:
-          # Dealers turn
+          # Set dealer's turn
           new_game.current_player = "dealer"
 
       else:
         # This is Hit, player pulls another card, loop repeats
-        current_player.current_cards.append(new_deck.deal_card("hit"))
+        current_player.current_cards.append(new_deck.deal_card("hit",current_player))
         current_player.current_cards[-1].print_card(current_player.current_cards)
         current_player.print_current_sum()
 
@@ -366,10 +373,10 @@ while new_game.game_on == True:
         break
 
       else:
-        current_player.current_cards.append(new_deck.deal_card("hit"))
+        current_player.current_cards.append(new_deck.deal_card("hit",current_player))
         current_player.current_cards[-1].print_card(current_player.current_cards)
         current_player.print_current_sum()
   
 print("Game over.")
-print(human)
 print(f"Rounds played: {new_game.current_round}")
+print(human)

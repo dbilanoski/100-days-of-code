@@ -2,20 +2,20 @@
 > but actually planning to do the whole year. And it's a leap year ;)
 
 ## Introduction
-This repository will serve as a public journal of my challenge progress with main commitment - to code for at least an our every day for next <s>366 days</s> 100 days.
+This repository will serve as a public journal of my progress with the main commitment - to code/learn for at least an hour every day for the next 100 days.
 
-In this run, my goal is to revisit what I knew before and learn what I need to know to become job ready for the frontend developer position by the end of the year.
+This challenge I initially started as a whole-year challenge but later changed it to a regular round based 100 days of code challenge as this way it seems to be more manageable, practical, concrete and repeatable. Rounds are described below under ["Rounds"](#rounds) with links to separate rounds journals where the daily progress of a particular round is saved.
 
 ## Rules
-1. Code a minimum of half hour every day for the next 366 days
-2. Tweet the progress daily with hashtags:
+1. Code or learn technology related topics for a minimum of hour every day for the next 100 days
+2. Tweet the progress daily with appropriate hashtags, such as:
     - #100DaysOfCode
     - #301DaysOfCode
     - #365DaysOfCode
     - #366DaysOfCode
-3. Push the code to GitHub every day so that anyone can see the progress
-    - If pushing to GitHub is not applicable, provide a description of that day's work with link to a tweet or relevant screenshot
-4. Update the "Log" file with the day's progress and include link or screenshot of that day's work
+3. Log daily progress in this journal and push it to GitHub every day
+    - Daily log entry should have a link to the posted tweet
+    - In case there was a coding project, challenge or snippet finished during the session, write it under exercises directory in this journal and push it to GitHub also 
 
 ## Rounds 
 **Round One (January 1st 2020 - April 29th 2020)** - log available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/round1_log.md)
