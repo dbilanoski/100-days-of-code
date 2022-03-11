@@ -3,11 +3,11 @@
 ## Challenge Goals & Planning
 
 ### Primary Commitment
-> I will learn and code for at least half hour every day for the next 100 days.
+> I will learn and code for at least an hour every day for the next 100 days.
 
 ### Broad Goals
 - [x] Finish unfinished business (JS Certification from 2020.)
-- [ ] Learn basic Python scripting
+- [x] Learn basic Python scripting
 - [ ] Learn databases in more detail
 - [ ] Revisit and learn Bash scripting in more detail
 - [ ] Get beter at Linux sys administration

@@ -54,7 +54,7 @@ class Card():
   
   def print_card(self, card="Blank"):
     '''
-    Card printing method. When called empty or with "Blank", it will show card faced down.
+    Card printing method. When called with "Blank", it will show card "faced down".
     '''
     if type(card) == type([]):
       for c in card:
