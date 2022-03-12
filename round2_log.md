@@ -72,6 +72,7 @@
 [Day 48](#day-48-march-8th-2022)
 [Day 49](#day-49-march-9th-2022)
 [Day 50](#day-50-march-10th-2022)
+[Day 51](#day-51-march-12th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -655,3 +656,15 @@ A bit shorter session today. Refactored the Blackjack project a bit by making fe
 [My Blackjack code](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/blackjack.py)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1502042195011981315)
+
+
+### Day 51: March 12th, 2022
+Took a day off yesterday and used the time today to reflect on my challenge progress so far, since I just went over half of the challenge I thought it is a good spot to see how I'm doing in relation to the initial plan. So, in 50 days I've completed the FreeCodeCamp's JS certification (unfinished business from 2020.) and learned basics of Python programming with some smaller things also completed such as getting confortable with regexes. 
+
+Now, my plan was highly optimistic from the getgo and generaly packed with many different topics where I actually wanted to revise already known topics and explore them in more detail with the goal of preparing myself for learning devops tools and routines in round 3 of the challenge. But as Python was very interesting I decided to give it at least 10 to 15 more days to explore it better before I move on, after which I will probably do the databases in more detail which will be the bridge towards Linux and Windows system administration and scripting available in native languages there. 
+
+Although I am satisfied with what I was able to learn in 50 days I do notice a lack of discipline and motivation sometimes which is why I have more skipped days. So, need to adress those things also in the second half of the challenge.
+
+Now, as for the day 51, revised scope in Python a bit and started reading about decorators.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1502767863723175939)
