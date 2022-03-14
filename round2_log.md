@@ -73,6 +73,7 @@
 [Day 49](#day-49-march-9th-2022)
 [Day 50](#day-50-march-10th-2022)
 [Day 51](#day-51-march-12th-2022)
+[Day 52](#day-52-march-14th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -668,3 +669,12 @@ Although I am satisfied with what I was able to learn in 50 days I do notice a l
 Now, as for the day 51, revised scope in Python a bit and started reading about decorators.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1502767863723175939)
+
+
+### Day 52: March 14th, 2022
+Hit it hard today as yesterday I felt it was not enough to count it as a day. Funny how sometimes you dont want to spend your challenge day if it was not lucritive enough. So, decorators and generators today, with more focus on generators as those seems far likely I will use. Checked Flask a bit to see how decorators are used in "real life" as that framework seems to use them heavily. 
+
+Since I really had time today (which is so rare these days), also started the FreeCodeCamp's [Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course and went over 15% of it. It makes sense to take another certificate while learning Python and solidify the basics which are actually explained very well there.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1503349771435708422)
+
