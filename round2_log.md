@@ -74,6 +74,7 @@
 [Day 50](#day-50-march-10th-2022)
 [Day 51](#day-51-march-12th-2022)
 [Day 52](#day-52-march-14th-2022)
+[Day 55](#day-53-march-15th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -672,9 +673,17 @@ Now, as for the day 51, revised scope in Python a bit and started reading about 
 
 
 ### Day 52: March 14th, 2022
-Hit it hard today as yesterday I felt it was not enough to count it as a day. Funny how sometimes you dont want to spend your challenge day if it was not lucritive enough. So, decorators and generators today, with more focus on generators as those seems far likely I will use. Checked Flask a bit to see how decorators are used in "real life" as that framework seems to use them heavily. 
+Hit it hard today as yesterday I felt it was not enough to count it as a day. Funny how sometimes you dont want to spend your challenge day if it was not conrete or productive enough. So, decorators and generators today, with more focus on generators as those seems far likely I will use. Checked Flask a bit to see how decorators are used in "real life" as that framework seems to use them heavily. 
 
 Since I really had time today (which is so rare these days), also started the FreeCodeCamp's [Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course and went over 15% of it. It makes sense to take another certificate while learning Python and solidify the basics which are actually explained very well there.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1503349771435708422)
+
+
+### Day 53: March 15th, 2022
+Today was hard af as my concentration, motivation and overall mood was so low I had to really push myself. But I did started new module of the course where topic is exploring different Python modules so many shorter lessons which was good for the day. Managed to go through collections, os and shutil.
+
+Also did few more topics from the FreeCodeCamp's [Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course and brought myself to 20 % of the course. Not bad for such a lousy day.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1503844455882932225)
 
