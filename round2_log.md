@@ -74,7 +74,8 @@
 [Day 50](#day-50-march-10th-2022)
 [Day 51](#day-51-march-12th-2022)
 [Day 52](#day-52-march-14th-2022)
-[Day 55](#day-53-march-15th-2022)
+[Day 53](#day-53-march-15th-2022)
+[Day 54](#day-54-march-17th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -687,3 +688,10 @@ Also did few more topics from the FreeCodeCamp's [Scientific Computing With Pyth
 
 [Twitter post](https://twitter.com/DBilanoski/status/1503844455882932225)
 
+
+### Day 54: March 17th, 2022
+Another skipped day as yesterday there was simply no time for proper session and later at night I was just too tired. Today continued exploring Python modules, worked with datetime module where I learned how to work with date and time.
+
+Also did few more topics from the FreeCodeCamp's [Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course and brought myself to almost 30 % of the course. Had to really push it today as besides being tired I was extremely poorely motivated.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1504574896273125405)
