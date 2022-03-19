@@ -77,6 +77,7 @@
 [Day 53](#day-53-march-15th-2022)
 [Day 54](#day-54-march-17th-2022)
 [Day 55](#day-55-march-18th-2022)
+[Day 56](#day-56-march-19th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -704,4 +705,45 @@ Continued explorin Python modules - today I went over math module and random mod
 Went over few topics form FCC's course. Bit of a shorter session, will try to compensate tomorrow.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1504926352935469064)
+
+
+### Day 56: March 19th, 2022
+More of Python modules - today explored pdb Python debuger which seems useful. It's cool how it's set_trace() method pauses the script and gives you sort of CLI option to check the code.
+
+Then worked with re library and regular expressions in Python.
+
+```
+## Character Identifiers
+  # \d - a digit
+  # \w - both letter and digit
+  # \s - white space
+  # \D - non digit
+  # \W - other than numbers and letters
+  # \S - other than whitespace
+
+## Quantifiers
+  # These are placed after character identifiers to indicate what occurs how many times
+  # +     - Occurs one or more times
+  # {3}   - Occurs exactlx 3 times
+  # {2,4} - Occurs 2 to 4 times
+  # {3,}  - Occurs 3 times or more
+  # *     - Occurs zero or more times
+  # ?     - Occurs once or none
+
+## Other useful syntax
+  # | - or operator (r"cat|dog" will match cat or dog in a sentence)
+  # . - wildcard operator (r".at" will match cat, hat or anything in front of "at")
+  # ... - three wildcard operators (means one dot only catches one character, for more we need more)
+  # ^ - caret symbol, means "starts with" (r"^\d" catches "1" in "1 is a number")
+  # $ - means "ends with" (r"$\d" catches "1" in "There is a number 1")
+  # [^something] - exclusion or inclusion groups 
+    # r"[^\d]+" catches "abc" in "a1 b2 c2" and returns it as list
+      # Usefull for removing things, such as removing punctuation from a sentence for example.
+  # () - grouping
+      # r"cat(fish|nap|claw)" will catch catfish, catnap and catclow but will not catch caterpillar.
+      # if used with re.compile() it can return separate groups by index nums starting with 1
+
+```
+
+[Twitter post](https://twitter.com/DBilanoski/status/1505313578907230212)
 
