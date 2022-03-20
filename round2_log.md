@@ -78,6 +78,7 @@
 [Day 54](#day-54-march-17th-2022)
 [Day 55](#day-55-march-18th-2022)
 [Day 56](#day-56-march-19th-2022)
+[Day 57](#day-57-march-20th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -747,3 +748,10 @@ Then worked with re library and regular expressions in Python.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1505313578907230212)
 
+
+### Day 57: March 20th, 2022
+Another day for exploring Python modules - today I worked with time and timeit modules where I was mesuring how much time it took for a function to execute so I could benchmark few different approaches and see which one performes better. Very usefull in timeit where you actually repeat same block many times so you get a finer bechmark.
+
+Also worked with zipfile module and adding to/extracting from zip archives in Python and after went through one lesson from the FreeCodeCamp's [Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) where I'm now on 30%.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1505663797960364034)
