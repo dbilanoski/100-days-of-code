@@ -79,6 +79,7 @@
 [Day 55](#day-55-march-18th-2022)
 [Day 56](#day-56-march-19th-2022)
 [Day 57](#day-57-march-20th-2022)
+[Day 58](#day-58-march-21th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -755,3 +756,13 @@ Another day for exploring Python modules - today I worked with time and timeit m
 Also worked with zipfile module and adding to/extracting from zip archives in Python and after went through one lesson from the FreeCodeCamp's [Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) where I'm now on 30%.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1505663797960364034)
+
+
+### Day 58: March 21th, 2022
+Today had a fun kind of a data digging challenge to test skills I got from exploring the modules where I had to download a zip file from the github repo, extract it to get instructions of the challenge and it was a whole bunch of folders with text files where I needed to search each one for a unknown phone number and return it. 
+
+It was a blast + I learned how to dowload files from urls with Python. After that solved few topics from the Scientific Computing With Python course on the FreeCodeCamp.
+
+[My data crunching challenge code](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/data_digging.py)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1506034714234212352)
