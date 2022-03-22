@@ -80,6 +80,7 @@
 [Day 56](#day-56-march-19th-2022)
 [Day 57](#day-57-march-20th-2022)
 [Day 58](#day-58-march-21th-2022)
+[Day 59](#day-59-march-22th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -766,3 +767,12 @@ It was a blast + I learned how to dowload files from urls with Python. After tha
 [My data crunching challenge code](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/data_digging.py)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1506034714234212352)
+
+
+
+### Day 59: March 22th, 2022
+Today I had very little time and since I'll be traveling tomorrow and the day after, there will be no that much time in those days either. So plan is to use the lack of time to do the FreeCodeCamp's [Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/).
+
+So today's work was all about the data structures in that course where I got to around 45%. Plan is to have tomorrow and the day after tomorrow counted as a one day where I'll go over 50% of the course.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1506383169154605057)
