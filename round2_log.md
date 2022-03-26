@@ -82,6 +82,7 @@
 [Day 58](#day-58-march-21th-2022)
 [Day 59](#day-59-march-22th-2022)
 [Day 60](#day-60-march-25th-2022)
+[Day 61](#day-61-march-26th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -784,3 +785,9 @@ While it sounds like a plausable thing to do, learning while on business trip wi
 So today pushed [Scientific Computing With Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) to achieve what I was planning and got to around 55% of the course. Next stop internet protocols and web scraping.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1507461465170620419)
+
+
+### Day 61: March 26th, 2022
+Started learning about web scraping with Python where I went throught basics of request and beatutifulSoup libraries and how to get pages and target specific elements using CSS selectors. It was a nice refresher on the CSS too.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1507844472108900363)
