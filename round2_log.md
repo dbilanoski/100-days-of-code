@@ -827,4 +827,4 @@ for num in range(1,51):
   titles_with_2_star_rating.extend(result)
 ```
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1508203192714252289)
