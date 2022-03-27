@@ -83,6 +83,7 @@
 [Day 59](#day-59-march-22th-2022)
 [Day 60](#day-60-march-25th-2022)
 [Day 61](#day-61-march-26th-2022)
+[Day 62](#day-62-march-27th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -791,3 +792,39 @@ So today pushed [Scientific Computing With Python](https://www.freecodecamp.org/
 Started learning about web scraping with Python where I went throught basics of request and beatutifulSoup libraries and how to get pages and target specific elements using CSS selectors. It was a nice refresher on the CSS too.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1507844472108900363)
+
+
+### Day 62: March 27th, 2022
+Continued with web page scraping in Python where I was practicing on the [tosrape](https://toscrape.com/) page with fake books library. Challenge I completed was to scrape the title of all books rated with two stars, code below. Will do one more day on this topic as it is highly interesting.
+
+
+```
+import requests
+import bs4
+
+def get_stuff(url):
+  # Get the page
+  if requests.get(url).reason != "OK":
+    return f"Error, on url: {url} the server returns: {requests.get(url).reason}"
+  else:
+    # Format the page with BeautifulSoup
+    formated_page = bs4.BeautifulSoup(page.text,"lxml")
+
+    # Here we are looking for a title of the book ranked with two stars
+      # So all a tags under h3 tags which are immidiately after the p with "star-rating and Two" classes which are in the element with "product_pod" class
+    titles = formated_page.select(".product_pod > p.star-rating.Two + h3 > a")
+    # Function returns list of matched titles from the page
+    return [ title["title"] for title in titles]
+
+titles_with_2_star_rating = []
+
+# We do need to scrape whole catalog (50 pages)
+  # Logic in link building is https://books.toscrape.com/catalogue/page-[1 - 50].html
+  # So we are looping the link with page-1 to 50
+
+for num in range(1,51):
+  result = get_stuff(f"https://books.toscrape.com/catalogue/page-{num}.html")
+  titles_with_2_star_rating.extend(result)
+```
+
+[Twitter post]()
