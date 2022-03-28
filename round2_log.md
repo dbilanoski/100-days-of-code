@@ -16,7 +16,7 @@
 - [x] Get comfortable with regular expressions
 - [ ] Prepare for third round to tackle current DevOps tools
 - [ ] Create LinkedIn account and connect with people
-- [ ] Bring back discipline & order
+- [x] Bring back discipline & order
 
 **Start date: January 10th, 2022.**
 
@@ -84,6 +84,7 @@
 [Day 60](#day-60-march-25th-2022)
 [Day 61](#day-61-march-26th-2022)
 [Day 62](#day-62-march-27th-2022)
+[Day 63](#day-63-march-28th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -828,3 +829,11 @@ for num in range(1,51):
 ```
 
 [Twitter post](https://twitter.com/DBilanoski/status/1508203192714252289)
+
+
+### Day 63: March 28th, 2022
+Another day on the web page scraping topic in Python where I was practicing on the [tosrape](https://toscrape.com/) page again this time on the qoutes sandbox. Had a challange list from the course I was following where ultimately I had to scape qoute authors from all available pages. 
+
+Similar as yesterday but this time I've made it more robust by having a validation for pages without content where the loop would break. Very interesting topic - next I will spend some time on basics of networking with Python.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1508543866659553281)
