@@ -85,6 +85,7 @@
 [Day 61](#day-61-march-26th-2022)
 [Day 62](#day-62-march-27th-2022)
 [Day 63](#day-63-march-28th-2022)
+[Day 64](#day-64-march-30th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -837,3 +838,9 @@ Another day on the web page scraping topic in Python where I was practicing on t
 Similar as yesterday but this time I've made it more robust by having a validation for pages without content where the loop would break. Very interesting topic - next I will spend some time on basics of networking with Python.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1508543866659553281)
+
+
+### Day 64: March 30th, 2022
+Half a day yesterday, day and a half today, let's call it a day :) So, networking and web services in Python - socket, urllib and bit of a XML. Played a bit with fetching data from web servers and parsing xml. Blown away on the sheer fact how Python makes it easy.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1509270975644377091)
