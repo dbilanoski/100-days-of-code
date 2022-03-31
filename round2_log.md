@@ -86,6 +86,7 @@
 [Day 62](#day-62-march-27th-2022)
 [Day 63](#day-63-march-28th-2022)
 [Day 64](#day-64-march-30th-2022)
+[Day 65](#day-65-march-31st-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -844,3 +845,9 @@ Similar as yesterday but this time I've made it more robust by having a validati
 Half a day yesterday, day and a half today, let's call it a day :) So, networking and web services in Python - socket, urllib and bit of a XML. Played a bit with fetching data from web servers and parsing xml. Blown away on the sheer fact how Python makes it easy.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1509270975644377091)
+
+
+### Day 65: March 31st, 2022
+Today I worked with JSON and read about using Google Map and Twitter APIs. Then started pushing FreeCodeCamp's Python course and solved around 10% more of topics which brings me to 70%. A bit more of a theoretical session but gotta have those too. Very tired so keeping this one shorter than usual.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1509633919636938762)
