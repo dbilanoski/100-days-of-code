@@ -87,6 +87,7 @@
 [Day 63](#day-63-march-28th-2022)
 [Day 64](#day-64-march-30th-2022)
 [Day 65](#day-65-march-31st-2022)
+[Day 66](#day-66-april-2nd-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -851,3 +852,9 @@ Half a day yesterday, day and a half today, let's call it a day :) So, networkin
 Today I worked with JSON and read about using Google Map and Twitter APIs. Then started pushing FreeCodeCamp's Python course and solved around 10% more of topics which brings me to 70%. A bit more of a theoretical session but gotta have those too. Very tired so keeping this one shorter than usual.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1509633919636938762)
+
+
+### Day 66: April 2nd, 2022
+Skipped a day yesterday, continued today. Solved few more topics from the FreeCodeCamp's Python course and completed OOP part of the course, reached 80% of completion. Then worked with images using pillow library and learned how to manipulate them. Also around 80% from the Udemy's course so I'm on a good track. Next topic - pfd and spreadsheets in Python.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1510271328355561472)
