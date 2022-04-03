@@ -88,6 +88,7 @@
 [Day 64](#day-64-march-30th-2022)
 [Day 65](#day-65-march-31st-2022)
 [Day 66](#day-66-april-2nd-2022)
+[Day 67](#day-67-april-3rd-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -858,3 +859,10 @@ Today I worked with JSON and read about using Google Map and Twitter APIs. Then 
 Skipped a day yesterday, continued today. Solved few more topics from the FreeCodeCamp's Python course and completed OOP part of the course, reached 80% of completion. Then worked with images using pillow library and learned how to manipulate them. Also around 80% from the Udemy's course so I'm on a good track. Next topic - pfd and spreadsheets in Python.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1510271328355561472)
+
+
+### Day 67: April 3rd, 2022
+Today I worked with CSV and PDF files in Python and learned basics of csv and pyPDF2 libraries.
+Had a great challenge from the Udemy course, solution [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/data_digging2.py).
+
+[Twitter post](https://twitter.com/DBilanoski/status/1510724401100201998)
