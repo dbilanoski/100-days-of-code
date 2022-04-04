@@ -89,6 +89,7 @@
 [Day 65](#day-65-march-31st-2022)
 [Day 66](#day-66-april-2nd-2022)
 [Day 67](#day-67-april-3rd-2022)
+[Day 68](#day-68-april-4rh-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -866,3 +867,9 @@ Today I worked with CSV and PDF files in Python and learned basics of csv and py
 Had a great challenge from the Udemy course, solution [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/data_digging2.py).
 
 [Twitter post](https://twitter.com/DBilanoski/status/1510724401100201998)
+
+
+### Day 68: April 4rh, 2022
+Today I was working with emails in Python - how to send them and how to read them, where I learned basics of smtplib, imaplib and email libraries.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1511076407799160834)
