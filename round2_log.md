@@ -89,7 +89,8 @@
 [Day 65](#day-65-march-31st-2022)
 [Day 66](#day-66-april-2nd-2022)
 [Day 67](#day-67-april-3rd-2022)
-[Day 68](#day-68-april-4rh-2022)
+[Day 68](#day-68-april-4th-2022)
+[Day 69](#day-69-april-6th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -869,7 +870,13 @@ Had a great challenge from the Udemy course, solution [here](https://github.com/
 [Twitter post](https://twitter.com/DBilanoski/status/1510724401100201998)
 
 
-### Day 68: April 4rh, 2022
+### Day 68: April 4th, 2022
 Today I was working with emails in Python - how to send them and how to read them, where I learned basics of smtplib, imaplib and email libraries.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1511076407799160834)
+
+
+### Day 69: April 6th, 2022
+Skipped a day yesterday - today contiuend with the FCC Python course where I worked a bit with databases. It eneded up to be a short SQL crash course but since that will be the topic I'll explore later in more depth, kept it short and sweet.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1511802006058545155)
