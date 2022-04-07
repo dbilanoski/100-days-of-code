@@ -91,6 +91,7 @@
 [Day 67](#day-67-april-3rd-2022)
 [Day 68](#day-68-april-4th-2022)
 [Day 69](#day-69-april-6th-2022)
+[Day 70](#day-70-april-7th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -880,3 +881,9 @@ Today I was working with emails in Python - how to send them and how to read the
 Skipped a day yesterday - today contiuend with the FCC Python course where I worked a bit with databases. It eneded up to be a short SQL crash course but since that will be the topic I'll explore later in more depth, kept it short and sweet.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1511802006058545155)
+
+
+### Day 70: April 7th, 2022
+Got to the very end of both courses I've been following - Udemy's Complete Python Bootcamp and FreeCodeCamp's Scientific Computing with Python. Now to the projects - 5 of them in the FCC's course and one more of a freestyle challenge on the other one. So, next few day I'll be having fun.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1512173054423621633)
