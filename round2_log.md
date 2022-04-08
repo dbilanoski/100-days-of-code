@@ -92,6 +92,7 @@
 [Day 68](#day-68-april-4th-2022)
 [Day 69](#day-69-april-6th-2022)
 [Day 70](#day-70-april-7th-2022)
+[Day 71](#day-71-april-8th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -887,3 +888,15 @@ Skipped a day yesterday - today contiuend with the FCC Python course where I wor
 Got to the very end of both courses I've been following - Udemy's Complete Python Bootcamp and FreeCodeCamp's Scientific Computing with Python. Now to the projects - 5 of them in the FCC's course and one more of a freestyle challenge on the other one. So, next few day I'll be having fun.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1512173054423621633)
+
+
+### Day 71: April 8th, 2022
+Started with FreeCodeCamp challenges today - first one was Arithmetic Formatter where the function will take a list of lists with arithmetic statements and format it so it prints them in columns. It took more time than I thought it will but it was fun.
+
+Challenge solution on these links:
+
+* [Online solution with unit tests passed](https://replit.com/@DaniloBilanoski/boilerplate-arithmetic-formatter#arithmetic_arranger.py)
+
+* [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/arithmetic_formatter.py)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1512550244550160384)
