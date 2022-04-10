@@ -93,6 +93,7 @@
 [Day 69](#day-69-april-6th-2022)
 [Day 70](#day-70-april-7th-2022)
 [Day 71](#day-71-april-8th-2022)
+[Day 72](#day-72-april-10th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -900,3 +901,15 @@ Challenge solution on these links:
 * [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/arithmetic_formatter.py)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1512550244550160384)
+
+
+### Day 72: April 10th, 2022
+Worked a bit yesterday but completed today, so let's say day 72 is today and second challenge project "Time calculator" completed.
+
+Challenge solution on these links:
+
+* [Online solution with unit tests passed](https://replit.com/@DaniloBilanoski/boilerplate-time-calculator#time_calculator.py)
+
+* [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/time_calculator.py)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1513239527032242182)
