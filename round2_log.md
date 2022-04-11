@@ -94,6 +94,7 @@
 [Day 70](#day-70-april-7th-2022)
 [Day 71](#day-71-april-8th-2022)
 [Day 72](#day-72-april-10th-2022)
+[Day 73](#day-73-april-11th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -913,3 +914,11 @@ Challenge solution on these links:
 * [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/time_calculator.py)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1513239527032242182)
+
+
+### Day 73: April 11th, 2022
+Started working on the third challenge from the FreeCodeCamp's Python course called "Budget app" where the aim is to create class for budget category with associated methods and a chart function outside of the template to create a sorted bar graph of all expanses.
+
+Completed the class and arithmeic part of the graph function, tomorrow will tackle the visual output.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1513628474858168320)
