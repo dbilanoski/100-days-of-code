@@ -917,7 +917,7 @@ Challenge solution on these links:
 
 
 ### Day 73: April 11th, 2022
-Started working on the third challenge from the FreeCodeCamp's Python course called "Budget app" where the aim is to create class for budget category with associated methods and a chart function outside of the template to create a sorted bar graph of all expanses.
+Started working on the third challenge from the FreeCodeCamp's Python course called "Budget App" where the aim is to create class for budget category with associated methods and a chart function outside of the template to create a sorted bar graph of all expanses.
 
 Completed the class and arithmeic part of the graph function, tomorrow will tackle the visual output.
 
