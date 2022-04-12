@@ -95,6 +95,7 @@
 [Day 71](#day-71-april-8th-2022)
 [Day 72](#day-72-april-10th-2022)
 [Day 73](#day-73-april-11th-2022)
+[Day 74](#day-74-april-12th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -922,3 +923,15 @@ Started working on the third challenge from the FreeCodeCamp's Python course cal
 Completed the class and arithmeic part of the graph function, tomorrow will tackle the visual output.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1513628474858168320)
+
+
+### Day 74: April 12th, 2022
+Ok - almost two hours spent finding missing spaces in my code so I could pass the unit tests. Learned a lot. Budget app completed, next one will be geometry.
+
+Challenge solution on these links:
+
+* [Online solution with unit tests passed](https://replit.com/@DaniloBilanoski/boilerplate-budget-app#budget.py)
+
+* [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/budget_app.py)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1514021013985669125)
