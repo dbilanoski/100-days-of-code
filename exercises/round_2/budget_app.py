@@ -208,10 +208,10 @@ def create_spend_chart(categories):
   chart_graph = str()
 
   # In range from 100 to 10 with step 10, check if each tenth should have a dot on chart by comparing a current tenth value to a current expense value
-  for tenth in reversed(range(0,101,10)):
-    chart_graph += f"{str(tenth).rjust(3)}|"
+  for tenth in range(0,11):
+    chart_graph += f"{str(100-tenth*10).rjust(3)}|"
     for value in sorted_expenses.values():
-      if tenth > value:
+      if (100-tenth*10) > value:
         chart_graph += 3*" "
       else:
         chart_graph += " o "

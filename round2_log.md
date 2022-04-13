@@ -935,3 +935,15 @@ Challenge solution on these links:
 * [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/budget_app.py)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1514021013985669125)
+
+
+### Day 75: April 12th, 2022
+Easy-peasy, challenge 4 from the FreeCodeCamp's Python course I passed from the first try and right around and hour spent, with tending the journal and social media obligations of the session. Next and final one will be "Probability calculator".
+
+Challenge solution on these links:
+
+* [Online solution with unit tests passed](https://replit.com/@DaniloBilanoski/boilerplate-polygon-area-calculator#shape_calculator.py)
+
+* [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/polygon_area_calculator.py)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1514335269712969731)
