@@ -926,7 +926,7 @@ Completed the class and arithmeic part of the graph function, tomorrow will tack
 
 
 ### Day 74: April 12th, 2022
-Ok - almost two hours spent finding missing spaces in my code so I could pass the unit tests. Learned a lot. Budget app completed, next one will be geometry.
+Ok - almost two hours spent finding missing spaces in my code so I could pass the unit tests. Learned a lot. Budget app completed, next one will be with geometry.
 
 Challenge solution on these links:
 
