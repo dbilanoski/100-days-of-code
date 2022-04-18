@@ -962,4 +962,4 @@ Challenge solution on these links:
 
 * [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/probability_calculator.py)
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1516176160182480902)
