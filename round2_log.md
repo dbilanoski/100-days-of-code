@@ -96,6 +96,8 @@
 [Day 72](#day-72-april-10th-2022)
 [Day 73](#day-73-april-11th-2022)
 [Day 74](#day-74-april-12th-2022)
+[Day 75](#day-75-april-13th-2022)
+[Day 76](#day-76-april-18th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -937,7 +939,7 @@ Challenge solution on these links:
 [Twitter post](https://twitter.com/DBilanoski/status/1514021013985669125)
 
 
-### Day 75: April 12th, 2022
+### Day 75: April 13th, 2022
 Easy-peasy, challenge 4 from the FreeCodeCamp's Python course I passed from the first try and right around and hour spent, with tending the journal and social media obligations of the session. Next and final one will be "Probability calculator".
 
 Challenge solution on these links:
@@ -947,3 +949,17 @@ Challenge solution on these links:
 * [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/polygon_area_calculator.py)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1514335269712969731)
+
+
+### Day 76: April 18th, 2022
+Few days off around Easter, it's getting harder and harder to find time and discipline during holidays so I took few days off and started working yesterday on my 5th and final froject from the FCC's Python course. Since I was not able to finish it yesterday, figured I'll complete it today and count everything as one day. So it was, and I spent two hours fixing my logic trying different things to compare two lists and nothing worked until I found that I am measuring lenght of a wrong list in my result. So.. yeah, gotta start working on my focusing.
+
+Python course completed, another check box ticked in my broad goals - next thing, Liknedin profile. Then databases.
+
+Challenge solution on these links:
+
+* [Online solution with unit tests passed](https://replit.com/@DaniloBilanoski/boilerplate-probability-calculator-1#prob_calculator.py)
+
+* [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/probability_calculator.py)
+
+[Twitter post]()
