@@ -15,7 +15,7 @@
 - [ ] Revisit Git in more detail
 - [x] Get comfortable with regular expressions
 - [ ] Prepare for third round to tackle current DevOps tools
-- [ ] Create LinkedIn account and connect with people
+- [x] Create LinkedIn account and connect with people
 - [x] Bring back discipline & order
 
 **Start date: January 10th, 2022.**
@@ -963,3 +963,11 @@ Challenge solution on these links:
 * [Solution here on Github](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/probability_calculator.py)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1516176160182480902)
+
+
+### Day 77: April 21th, 2022
+It took me two days to write a decent LinkedIn profile but I finally managed to do it. So, counting this as one day as I really want to push as much of databases possible in this challenge round.
+
+* [My LinkedIn profile](https://www.linkedin.com/in/danilo-bilanoski/)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1517240061464653825)
