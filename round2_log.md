@@ -98,6 +98,7 @@
 [Day 74](#day-74-april-12th-2022)
 [Day 75](#day-75-april-13th-2022)
 [Day 76](#day-76-april-18th-2022)
+[Day 77](#day-77-april-21st-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -965,7 +966,7 @@ Challenge solution on these links:
 [Twitter post](https://twitter.com/DBilanoski/status/1516176160182480902)
 
 
-### Day 77: April 21th, 2022
+### Day 77: April 21st, 2022
 It took me two days to write a decent LinkedIn profile but I finally managed to do it. So, counting this as one day as I really want to push as much of databases possible in this challenge round.
 
 * [My LinkedIn profile](https://www.linkedin.com/in/danilo-bilanoski/)
