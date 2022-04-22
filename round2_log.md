@@ -99,6 +99,7 @@
 [Day 75](#day-75-april-13th-2022)
 [Day 76](#day-76-april-18th-2022)
 [Day 77](#day-77-april-21st-2022)
+[Day 78](#day-78-april-22st-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -972,3 +973,14 @@ It took me two days to write a decent LinkedIn profile but I finally managed to 
 * [My LinkedIn profile](https://www.linkedin.com/in/danilo-bilanoski/)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1517240061464653825)
+
+
+### Day 78: April 22st, 2022
+Today I used the time to research database and SQL materials which I'll be learning from in the next days and decided to do these two in paralel:
+
+* [Udemy's Complete SQL and Databases Bootcamp: Zero to Mastery](https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/)
+* [FreeCodeCamp's Relational Databases](https://www.freecodecamp.org/learn/relational-database/)
+
+Eventhough I will not be able to complete either of them during the course of this round, they will cover few of the important topics I planned to do so I will try to complete History of Data and SQL Fundamentals from the Udemy's course and Basic Bash scripting from the FCC's course during this round and leave rest for the summer when I'm planning to start the third round of the challenge.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1517613680187346945)
