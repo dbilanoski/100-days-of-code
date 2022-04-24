@@ -101,6 +101,7 @@
 [Day 77](#day-77-april-21st-2022)
 [Day 78](#day-78-april-22nd-2022)
 [Day 79](#day-79-april-23rd-2022)
+[Day 80](#day-80-april-24th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -993,3 +994,10 @@ Started with [Udemy's Complete SQL and Databases Bootcamp: Zero to Mastery](http
 Then started third module dealing with SQL and wrote few simple queries. Still not sure if this will be the right course for me but let's see in the following days. Plan is to complete the third section which is basics of SQL, then start with the FCC's course.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1517983116035506177)
+
+
+### Day 80: April 24th, 2022
+Continued with the Udemy's course and the third module, more history lessons, bare basics of SQL and somo explodation of the database models where I learned about hierarchical, network and relational modes and how they were fixing the previous one's problems. Still not 100% about the course, will complete this section and then decide if I'll go for something less chatty and more practical.
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1518325124000268290)
