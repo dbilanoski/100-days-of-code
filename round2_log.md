@@ -102,6 +102,7 @@
 [Day 78](#day-78-april-22nd-2022)
 [Day 79](#day-79-april-23rd-2022)
 [Day 80](#day-80-april-24th-2022)
+[Day 81](#day-81-april-25th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -999,5 +1000,10 @@ Then started third module dealing with SQL and wrote few simple queries. Still n
 ### Day 80: April 24th, 2022
 Continued with the Udemy's course and the third module, more history lessons, bare basics of SQL and somo explodation of the database models where I learned about hierarchical, network and relational modes and how they were fixing the previous one's problems. Still not 100% about the course, will complete this section and then decide if I'll go for something less chatty and more practical.
 
-
 [Twitter post](https://twitter.com/DBilanoski/status/1518325124000268290)
+
+
+### Day 81: April 25th, 2022
+Continued with the Udemy's course and completed the third module which was dealing with some basic theory around databases, relational model and the database management systems and the SQL itself. Then started with the fourth module which is concerning the setup. Course proposes PostGresSQL database with the ValentinaDB Studio management system - will use PgAdmin rather as that one seems to be more commonly used and I already saw it in my company on few ocasions. I've decided to do this course on Windows platform as I'll do Linux extensivly on the FreecOdeCAmp's one.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1518691387591512066)
