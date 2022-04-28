@@ -103,6 +103,7 @@
 [Day 79](#day-79-april-23rd-2022)
 [Day 80](#day-80-april-24th-2022)
 [Day 81](#day-81-april-25th-2022)
+[Day 82](#day-82-april-28th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1007,3 +1008,11 @@ Continued with the Udemy's course and the third module, more history lessons, ba
 Continued with the Udemy's course and completed the third module which was dealing with some basic theory around databases, relational model and the database management systems and the SQL itself. Then started with the fourth module which is concerning the setup. Course proposes PostGresSQL database with the ValentinaDB Studio management system - will use PgAdmin rather as that one seems to be more commonly used and I already saw it in my company on few ocasions. I've decided to do this course on Windows platform as I'll do Linux extensivly on the FreecOdeCAmp's one.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1518691387591512066)
+
+
+### Day 82: April 28th, 2022
+Had a 2 day break, actually one skipped day and some read about the SQL yesterday which I'm not counting as a day. So today I changed the course to [The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/) as this one is more practical, less chatty and without overusing the analogies so I finally moved on - will revise previous course on the topic of database design once I'm done with the basics and the SQL. 
+
+So, configured my enviroment - will do PostgreSQL as a dbms and pgAdmin as a gui client to manage it. Started with basics of SQL - `SELECT`, `SELECT DISTINCT` and `SELECT WHERE`.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1519795805783306244)
