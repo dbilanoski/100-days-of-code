@@ -104,6 +104,7 @@
 [Day 80](#day-80-april-24th-2022)
 [Day 81](#day-81-april-25th-2022)
 [Day 82](#day-82-april-28th-2022)
+[Day 83](#day-83-april-30th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1016,3 +1017,9 @@ Had a 2 day break, actually one skipped day and some read about the SQL yesterda
 So, configured my enviroment - will do PostgreSQL as a dbms and pgAdmin as a gui client to manage it. Started with basics of SQL - `SELECT`, `SELECT DISTINCT` and `SELECT WHERE`.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1519795805783306244)
+
+
+### Day 83: April 30th, 2022
+Continued with SQL basics where I covered WHERE conditioning operators, COUNT, LIMIT, ORDER BY and BETWEEN.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1520493959088386051)
