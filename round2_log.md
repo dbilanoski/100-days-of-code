@@ -105,6 +105,7 @@
 [Day 81](#day-81-april-25th-2022)
 [Day 82](#day-82-april-28th-2022)
 [Day 83](#day-83-april-30th-2022)
+[Day 84](#day-84-may-1st-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1023,3 +1024,10 @@ So, configured my enviroment - will do PostgreSQL as a dbms and pgAdmin as a gui
 Continued with SQL basics where I covered WHERE conditioning operators, COUNT, LIMIT, ORDER BY and BETWEEN.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1520493959088386051)
+
+
+### Day 84: May 1st, 2022
+Continued with SQL basics where I covered IN and LIKE, then took some challanges to work the basics out. Spent most time on nested SELECT statements and found good challenge resource [here](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial).
+
+[Twitter post](https://twitter.com/DBilanoski/status/1520880502055612416)
+
