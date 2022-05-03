@@ -106,6 +106,7 @@
 [Day 82](#day-82-april-28th-2022)
 [Day 83](#day-83-april-30th-2022)
 [Day 84](#day-84-may-1st-2022)
+[Day 85](#day-85-may-3rd-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1030,4 +1031,10 @@ Continued with SQL basics where I covered WHERE conditioning operators, COUNT, L
 Continued with SQL basics where I covered IN and LIKE, then took some challanges to work the basics out. Spent most time on nested SELECT statements and found good challenge resource [here](https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial).
 
 [Twitter post](https://twitter.com/DBilanoski/status/1520880502055612416)
+
+
+### Day 85: May 3rd, 2022
+Continued with SQL basics where I explored aggregate functions and GROUP BY function.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1521579723188486147)
 
