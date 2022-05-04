@@ -107,6 +107,7 @@
 [Day 83](#day-83-april-30th-2022)
 [Day 84](#day-84-may-1st-2022)
 [Day 85](#day-85-may-3rd-2022)
+[Day 86](#day-86-may-4th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1037,4 +1038,11 @@ Continued with SQL basics where I covered IN and LIKE, then took some challanges
 Continued with SQL basics where I explored aggregate functions and GROUP BY function.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1521579723188486147)
+
+
+### Day 86: May 4th, 2022
+Continued learning SQL, today was HAVING and bunch of challanges with basics learned till now. Next I'll start with JOINs.
+Solutions to milestone challenges from the Udemy's course are [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/SQL_bootcamp_challanges.sql)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1521956086437326848)
 
