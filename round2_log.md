@@ -109,6 +109,7 @@
 [Day 85](#day-85-may-3rd-2022)
 [Day 86](#day-86-may-4th-2022)
 [Day 87](#day-87-may-5th-2022)
+[Day 88](#day-88-may-7th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1052,4 +1053,11 @@ Solutions to milestone challenges from the Udemy's course are [here](https://git
 Onward with SQL, today I've learned about JOINS, different types and AS statement. Practiced Inner joins. Tomorrow will do Outer joins then it's challenges time.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1522331055130353664)
+
+
+
+### Day 88: May 7th, 2022
+Continued with SQL and Joins, today practiced outer joins and learned about UNION. Solved few practice challenges on sqlzoo.net.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1523050812372840451)
 
