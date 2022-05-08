@@ -110,6 +110,7 @@
 [Day 86](#day-86-may-4th-2022)
 [Day 87](#day-87-may-5th-2022)
 [Day 88](#day-88-may-7th-2022)
+[Day 89](#day-89-may-8th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1060,4 +1061,10 @@ Onward with SQL, today I've learned about JOINS, different types and AS statemen
 Continued with SQL and Joins, today practiced outer joins and learned about UNION. Solved few practice challenges on sqlzoo.net.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1523050812372840451)
+
+
+### Day 89: May 8th, 2022
+Continued with SQL, learned about and worked with mathematical operators and fuctions, string function, sub queries and self joins. Need to practice more.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1523406710211194880)
 
