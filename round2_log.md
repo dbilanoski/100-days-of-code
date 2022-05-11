@@ -112,6 +112,7 @@
 [Day 88](#day-88-may-7th-2022)
 [Day 89](#day-89-may-8th-2022)
 [Day 90](#day-90-may-9th-2022)
+[Day 91](#day-91-may-11th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1074,3 +1075,9 @@ Continued with SQL, learned about and worked with mathematical operators and fuc
 Took the second milestone challenges from the Udemy's course and completed them, solutions available are [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/SQL_bootcamp_challanges.sql). This concludes the querying part of the course - next is database creation syntax.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1523777128189202432)
+
+
+### Day 91: May 11th, 2022
+Started learning about creating and manipulationg databases. Today the basics - data types, primary and foreign keys, tables.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1524489482325610496)
