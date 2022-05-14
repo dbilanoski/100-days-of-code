@@ -113,6 +113,7 @@
 [Day 89](#day-89-may-8th-2022)
 [Day 90](#day-90-may-9th-2022)
 [Day 91](#day-91-may-11th-2022)
+[Day 92](#day-92-may-14th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1081,3 +1082,9 @@ Took the second milestone challenges from the Udemy's course and completed them,
 Started learning about creating and manipulationg databases. Today the basics - data types, primary and foreign keys, tables.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1524489482325610496)
+
+
+### Day 92: May 14th, 2022
+Had a short break due to overworking and some construction works at home where I needed nights to learn how to do drywall and pluming :) Back to it today - SQL, creating tables and basics constraints.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1525574303835729921)
