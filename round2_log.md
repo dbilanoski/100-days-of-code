@@ -114,6 +114,7 @@
 [Day 90](#day-90-may-9th-2022)
 [Day 91](#day-91-may-11th-2022)
 [Day 92](#day-92-may-14th-2022)
+[Day 93](#day-93-may-15th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1088,3 +1089,10 @@ Started learning about creating and manipulationg databases. Today the basics - 
 Had a short break due to overworking and some construction works at home where I needed nights to learn how to do drywall and pluming :) Back to it today - SQL, creating tables and basics constraints.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1525574303835729921)
+
+
+### Day 93: May 15th, 2022
+Onward with SQL - inserting, updating and deleting data from tables.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1525954615686008833)
+
