@@ -115,6 +115,8 @@
 [Day 91](#day-91-may-11th-2022)
 [Day 92](#day-92-may-14th-2022)
 [Day 93](#day-93-may-15th-2022)
+[Day 94](#day-94-may-16th-2022)
+[Day 95](#day-95-may-17th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1095,4 +1097,17 @@ Had a short break due to overworking and some construction works at home where I
 Onward with SQL - inserting, updating and deleting data from tables.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1525954615686008833)
+
+
+### Day 94: May 16th, 2022
+Worked more with CRUD in SQL, learned about ALTER TABLE actions and DROP TABLE function.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1526672450058080258)
+
+
+
+### Day 95: May 17th, 2022
+Learned about basics constraints, such as CHECK, NOT NULL and UNIQUE, played some more with modifying tables. Same Twitter post for yeterday and today as yesterday I was too tired to do journaling and social media, barely managed to pull full hour.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1526672450058080258)
 
