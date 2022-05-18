@@ -117,6 +117,7 @@
 [Day 93](#day-93-may-15th-2022)
 [Day 94](#day-94-may-16th-2022)
 [Day 95](#day-95-may-17th-2022)
+[Day 96](#day-96-may-18th-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1111,3 +1112,8 @@ Learned about basics constraints, such as CHECK, NOT NULL and UNIQUE, played som
 
 [Twitter post](https://twitter.com/DBilanoski/status/1526672450058080258)
 
+
+### Day 96: May 18th, 2022
+Did some more reading on constraints in SQL and completed third milestone challenge from the Udemy's course, code [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_2/SQL_bootcamp_challanges.sql).
+
+[Twitter post](https://twitter.com/DBilanoski/status/1527028437868810240)
