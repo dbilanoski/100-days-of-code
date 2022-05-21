@@ -119,6 +119,7 @@
 [Day 95](#day-95-may-17th-2022)
 [Day 96](#day-96-may-18th-2022)
 [Day 97](#day-97-may-19th-2022)
+[Day 98](#day-98-may-21st-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1124,3 +1125,9 @@ Did some more reading on constraints in SQL and completed third milestone challe
 Practiced queries again on previously created tables, did few challenges from the internet, learned about creating views which is super useful.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1527392560666271752)
+
+
+### Day 98: May 21st, 2022
+Worked with PostgreSQL in Pyhton with psycopg2 library. Will check the database creation syntax next and that will conlude databases for this round.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1528106523238486021)
