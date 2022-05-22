@@ -120,6 +120,7 @@
 [Day 96](#day-96-may-18th-2022)
 [Day 97](#day-97-may-19th-2022)
 [Day 98](#day-98-may-21st-2022)
+[Day 99](#day-99-may-22nd-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1131,3 +1132,9 @@ Practiced queries again on previously created tables, did few challenges from th
 Worked with PostgreSQL in Pyhton with psycopg2 library. Will check the database creation syntax next and that will conlude databases for this round.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1528106523238486021)
+
+
+### Day 99: May 22nd, 2022
+Learned how to restore databases, schemas, just tables without data etc. in PgAdmin. Did few examples and with that, brought the SQL/Databases topic to an end, at least for this round.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1528487957606318081)
