@@ -6,20 +6,30 @@
 > I will learn and code for at least an hour every day for the next 100 days.
 
 ### Broad Goals
-- [x] Finish unfinished business (JS Certification from 2020.)
-- [x] Learn basic Python scripting
-- [ ] Learn databases in more detail
+- [x] Finish unfinished business (JS Certification from 2020.) --> Take that, 2020.!
+- [x] Learn basic Python scripting --> Went deeper, learned more but took more time
+- [x] Learn databases in more detail --> Got them basics solid, will focus more in the next round
 - [ ] Revisit and learn Bash scripting in more detail
 - [ ] Get beter at Linux sys administration
 - [ ] Revisit and learn Powershell in more detail 
 - [ ] Revisit Git in more detail
-- [x] Get comfortable with regular expressions
+- [x] Get comfortable with regular expressions --> You can never really get cofortable with regex
 - [ ] Prepare for third round to tackle current DevOps tools
-- [x] Create LinkedIn account and connect with people
-- [x] Bring back discipline & order
+- [x] Create LinkedIn account and connect with people --> Check
+- [x] Bring back discipline & order --> Need to work on selfcare next
 
 **Start date: January 10th, 2022.**
 
+**End date: May 23rd, 2022.**
+
+### Conclusion
+- Completed JavaScript Algorithms and Data Structures course (unfinished business from 2020.)
+- Completed Udemy's Python Bootcamp From Zero To Hero
+- Completed FreeCodeCamp's Scientific Computing with Python
+- Completed Udemy's The Complete SQL Bootcamp 2020: Go from Zero to Hero 
+- Built 5 Javascript projects, dozen Python projects and few databases from scratch
+- Used learned knowledge to improve some procedures at work
+- Created LinkedIn account and started networking with people
 
 ## Days - table of content
 [Day 1](#day-1-january-10th-2022)
@@ -121,6 +131,7 @@
 [Day 97](#day-97-may-19th-2022)
 [Day 98](#day-98-may-21st-2022)
 [Day 99](#day-99-may-22nd-2022)
+[Day 100](#day-100-may-23rd-2022)
 ---
 
 ### Day 1: January 10th, 2022
@@ -1138,3 +1149,22 @@ Worked with PostgreSQL in Pyhton with psycopg2 library. Will check the database 
 Learned how to restore databases, schemas, just tables without data etc. in PgAdmin. Did few examples and with that, brought the SQL/Databases topic to an end, at least for this round.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1528487957606318081)
+
+
+### Day 100: May 23rd, 2022
+Used the last day to reflect and conclude the round - happy how it turned out. Did not make all the tics but ones I did, I did well. Gonna take the summer off and focus on the self care, family and mental health. Round three I plan for Autumn, where I'll tackle databases in more detail, bash and powershell programming, revisit git and system administration in both Linux and Windows envinroment.
+
+What I've achieved:
+- Completed JavaScript Algorithms and Data Structures course (unfinished business from 2020.)
+- Completed Udemy's Python Bootcamp From Zero To Hero
+- Completed FreeCodeCamp's Scientific Computing with Python
+- Completed Udemy's The Complete SQL Bootcamp 2020: Go from Zero to Hero 
+- Built 5 Javascript projects, dozen Python projects and few databases from scratch
+- Used learned knowledge to improve some procedures at work
+- Created LinkedIn account and started networking with people
+
+Pending:
+- Upload Javascript projects to the round 2 exercises
+- Revisit README.md and structure it better
+
+[Twitter post](https://twitter.com/DBilanoski/status/1528835062090940418)
