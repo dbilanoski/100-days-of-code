@@ -6,9 +6,13 @@
 > I will learn and code for at least an hour every day for the next 100 days.
 
 ### Broad Goals
-- [ ] [Udemy Google Cloud Course](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-certification-course/learn/lecture/30471014?start=0#overview)
+- [ ] [Harvard CS50 Youtube Course](https://www.youtube.com/watch?v=8mAITcNt710)
 - [ ] [FreeCodeCamp Relational Databases & Linux Course](https://www.freecodecamp.org/learn/relational-database/)
-- [ ] Try out Obsidian, see if it's practical for documenting techinal stuff
+- [ ] [Udemy Google Cloud Course](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-certification-course/learn/lecture/30471014?start=0#overview)
+- [ ] Try out Obsidian, see about tech snippets repo on github
+- [ ] Review Linkedin skills, earn five badges by doing Linkedin skills tests around Linux, databases and AD
+- [ ] Learn about SSH in more detail
+
 
 #### Leftover Goals From Round 2
 - [ ] Revisit and learn Bash scripting in more detail
@@ -18,4 +22,14 @@
 - [ ] Prepare for third round to tackle current DevOps tools
 
 
-**Start date: November 1st, 2022.**
+**Start date: January 11th, 2023.**
+
+## Days - table of content
+[Day 1](#day-1-january-10th-2023)
+
+### Day 1: January 11th, 2023
+Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
+
+I'll start with [Harvard CS50 Youtube Course](https://www.youtube.com/watch?v=8mAITcNt710) and then it will be all about the Linux and relational databases. But first things first - learn and test the Obsidian markdown editor.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1613283170513833985)
