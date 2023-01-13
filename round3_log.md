@@ -42,3 +42,9 @@ Checked the Obsidian today and gotta say it's a fantastic markdown editor so wil
 Created cheat-sheets GitHub repo for tech notes and shortcuts. Tomorrow, I start with Harward CS50 Youtube course.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1613650326522929157)
+
+
+### Day 3: January 13th, 2023
+Started with [Harvard CS50 Youtube Course](https://www.youtube.com/watch?v=8mAITcNt710) and the first lecture which covered basics of computing such as numerical systems, mapping standards, algorithms and pseudo code. This will be fun as it's pure theory for 24 hours.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1614000797616078848)
