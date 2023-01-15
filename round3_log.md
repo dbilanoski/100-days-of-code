@@ -63,3 +63,8 @@ Useful links:
 [Twitter post](https://twitter.com/DBilanoski/status/1614385973290221569)
 
 
+### Day 5: January 14th, 2023
+Today I started with first project in Scatch. I decided to do a simpler version of Space Invaders and I spent 2 hours making small aliens and spaceship sprites and choosing sound effects. This will take longer then I planned :D 
+
+
+[Twitter post]()
