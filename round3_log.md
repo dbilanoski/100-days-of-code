@@ -27,8 +27,10 @@
 ## Days - table of content
 [Day 1](#day-1-january-11th-2023)
 [Day 2](#day-2-january-12th-2023)
-[Day 3](#day-2-january-13th-2023)
-[Day 4](#day-2-january-14th-2023)
+[Day 3](#day-3-january-13th-2023)
+[Day 4](#day-4-january-14th-2023)
+[Day 5](#day-5-january-15th-2023)
+[Day 6](#day-6-january-16th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -63,8 +65,16 @@ Useful links:
 [Twitter post](https://twitter.com/DBilanoski/status/1614385973290221569)
 
 
-### Day 5: January 14th, 2023
+### Day 5: January 15th, 2023
 Today I started with first project in Scatch. I decided to do a simpler version of Space Invaders and I spent 2 hours making small aliens and spaceship sprites and choosing sound effects. This will take longer then I planned :D 
 
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1614759462425731074)
+
+### Day 6: January 16th, 2023
+Completed my [Space Intruders](https://scratch.mit.edu/projects/789060336) game on Scratch. Next topic - C.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1615124573397073924)
+
+
+
