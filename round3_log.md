@@ -31,6 +31,7 @@
 [Day 4](#day-4-january-14th-2023)
 [Day 5](#day-5-january-15th-2023)
 [Day 6](#day-6-january-16th-2023)
+[Day 7](#day-7-january-17th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -77,4 +78,9 @@ Completed my [Space Intruders](https://scratch.mit.edu/projects/789060336) game 
 [Twitter post](https://twitter.com/DBilanoski/status/1615124573397073924)
 
 
+### Day 7: January 17th, 2023
+Started Week1 lecture of CS50x where the topic will be C. Today was basics of it, compilers, variables, data types, etc.
+Configured VS Code and local environment. Wrote fist hello, world.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1615462860725051393)
 
