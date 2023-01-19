@@ -33,6 +33,7 @@
 [Day 6](#day-6-january-16th-2023)
 [Day 7](#day-7-january-17th-2023)
 [Day 8](#day-8-january-18th-2023)
+[Day 9](#day-9-january-19th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -90,3 +91,9 @@ Configured VS Code and local environment. Wrote fist hello, world.
 Moving on with basics of C in CS50x - if statements, conditionals, nesting. Unfortunately, only an hour and a half today for this.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1615833258448625689)
+
+
+### Day 9: January 19th, 2023
+Today was more on data types, formatting, restrictions with numbers and defining functions. Lecture is over, next will be problem sets and challeges.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1616195467720921088)
