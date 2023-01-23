@@ -35,6 +35,7 @@
 [Day 8](#day-8-january-18th-2023)
 [Day 9](#day-9-january-19th-2023)
 [Day 10](#day-10-january-22nd-2023)
+[Day 11](#day-11-january-23rd-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -104,3 +105,10 @@ Today was more on data types, formatting, restrictions with numbers and defining
 Took the weekend off to celebrate my birthday, now back to it. Lab and half of the first problem set is done, will try to finish it completely tomorrow.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1617264128258703366)
+
+
+### Day 11: January 23rd, 2023
+Ok, today was good, managed to clear three out of four problem sets in CS50x week one lecture - Super Mario pyramid print, double pyramid print and the change counter greedy algorithm. 
+Tomorrow I'll do the credid card algorithm and then off to week 2.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1617652242768883714)
