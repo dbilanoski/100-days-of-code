@@ -36,6 +36,7 @@
 [Day 9](#day-9-january-19th-2023)
 [Day 10](#day-10-january-22nd-2023)
 [Day 11](#day-11-january-23rd-2023)
+[Day 12](#day-12-january-25th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -112,3 +113,10 @@ Ok, today was good, managed to clear three out of four problem sets in CS50x wee
 Tomorrow I'll do the credid card algorithm and then off to week 2.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1617652242768883714)
+
+
+### Day 12: January 25th, 2023
+So, half a session yesterday but almost 2 hours today, so will count all of that as a day. 
+Took me more than expected to do the credit card validation with Luhn algorithm in C working for all cases in CS50x but it was very interesting.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1618390227021856774)
