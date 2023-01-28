@@ -38,6 +38,7 @@
 [Day 11](#day-11-january-23rd-2023)
 [Day 12](#day-12-january-25th-2023)
 [Day 13](#day-13-january-26th-2023)
+[Day 14](#day-14-january-28th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -128,3 +129,9 @@ Refactored last challenge where I moved some functionalities to functions to pra
 Submitted CS50x week one challenges, ready for week 2.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1618710584706625538)
+
+
+### Day 14: January 28th, 2023
+Again, half of a session yesterday, fine session today - counting it as one day. Started week 2 lecture in CS50x with topics of compiling, debugging and arrays in C.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1619457305082466306)
