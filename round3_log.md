@@ -40,6 +40,7 @@
 [Day 13](#day-13-january-26th-2023)
 [Day 14](#day-14-january-28th-2023)
 [Day 15](#day-15-january-31st-2023)
+[Day 16](#day-16-february-2nd-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -142,3 +143,9 @@ Again, half of a session yesterday, fine session today - counting it as one day.
 Skipped few days due to work, back to it. Finished CS50x Week 2 lesson with strings and string libraries in C.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1620526370458841089)
+
+
+### Day 16: February 2nd, 2023
+Had to skip another day due to home budgeting and finance revision, today back to it. Completed CS50x Week 2 lab where the task was to build a simple Scrabble game in C.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1621265954045939714)
