@@ -42,6 +42,7 @@
 [Day 15](#day-15-january-31st-2023)
 [Day 16](#day-16-february-2nd-2023)
 [Day 17](#day-17-february-4th-2023)
+[Day 18](#day-18-february-7th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -157,3 +158,7 @@ Today I was solving a "readability" problem in CS50x where I had to implement a 
 [Twitter post](https://twitter.com/DBilanoski/status/1622002174128439297)
 
 
+### Day 18: February 7th, 2023
+It took me 2 days to solve the "bulbs" problem in CS50x where the main point was decimal to binary conversion. Two things I learned - working with multidimension arrays and that I forgot basic math :D
+
+[Twitter post](https://twitter.com/DBilanoski/status/1623091736560934913)
