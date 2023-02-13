@@ -45,6 +45,7 @@
 [Day 18](#day-18-february-7th-2023)
 [Day 19](#day-19-february-8th-2023)
 [Day 20](#day-20-february-11th-2023)
+[Day 21](#day-21-february-13th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -176,3 +177,9 @@ Solved the "Substitution" problem set in CS50x Week 2 section where the task was
 Spend 2 sessions on troubleshooting why CS50x is not accepting my solution to the "Caesar" problem. Turns out they were counting on printing letters directly from the loop while I was appending those to a string first and then printing the whole string at once. Since the string was [null terminated](https://www.eecis.udel.edu/~davis/cpeg222/AssemblyTutorial/Chapter-20/ass20_2.html), it was a no go.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1624503424883490816)
+
+
+### Day 21: February 13th, 2023
+Completed last problem set in CS50x, Wordle50. Next chapter - algorithms.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1625254037003071504)
