@@ -46,6 +46,7 @@
 [Day 19](#day-19-february-8th-2023)
 [Day 20](#day-20-february-11th-2023)
 [Day 21](#day-21-february-13th-2023)
+[Day 22](#day-22-february-15th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -183,3 +184,8 @@ Spend 2 sessions on troubleshooting why CS50x is not accepting my solution to th
 Completed last problem set in CS50x, Wordle50. Next chapter - algorithms.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1625254037003071504)
+
+### Day 22: February 15th, 2023
+Started Week 3 lecture in CS50x about algorithms where the topics were performace, big O\Ω\Θ notations and basic search algorithms. Also learnt how to define strucs in C.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1625972609178370176)
