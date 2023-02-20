@@ -49,6 +49,7 @@
 [Day 22](#day-22-february-15th-2023)
 [Day 23](#day-23-february-16th-2023)
 [Day 24](#day-24-february-19th-2023)
+[Day 25](#day-25-february-20th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -204,3 +205,8 @@ Finished the Week 3 lecture in CS50x about algorithms where the topics were sort
 Seems this round will be full of skipped days but it is what it is. Did a solid read/youtube watch on the recursion to understand it betted. It will probably click once I start doing some code with it. Completed Lab3 of CS50x Week 3 where I was benchmarking some sorting algorithms to see which is which.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1627424883880693760)
+
+### Day 25: February 20th, 2023
+Continued today with CS50x Week 3 problem sets and solved "Plurality". Took me way more time than needed as I started complicating with auxilery arrays to store results to while solution was rather simple - track the maksimum vote value and then, in another loop, print just those with that same value as a vote value.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1627795522323898368)
