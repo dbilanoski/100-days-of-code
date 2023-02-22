@@ -50,6 +50,7 @@
 [Day 23](#day-23-february-16th-2023)
 [Day 24](#day-24-february-19th-2023)
 [Day 25](#day-25-february-20th-2023)
+[Day 26](#day-26-february-22nd-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -210,3 +211,8 @@ Seems this round will be full of skipped days but it is what it is. Did a solid 
 Continued today with CS50x Week 3 problem sets and solved "Plurality". Took me way more time than needed as I started complicating with auxilery arrays to store results to while solution was rather simple - track the maksimum vote value and then, in another loop, print just those with that same value as a vote value.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1627795522323898368)
+
+### Day 26: February 22nd, 2023
+Yesterday and today I worked on a CS50x Week3 problem set called "runoff". Lesson to be learned here is that if you did not understand given data structure completely, you won't be able to write functions which handle/depend on it.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1628511571633741824)
