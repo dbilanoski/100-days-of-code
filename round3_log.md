@@ -51,6 +51,7 @@
 [Day 24](#day-24-february-19th-2023)
 [Day 25](#day-25-february-20th-2023)
 [Day 26](#day-26-february-22nd-2023)
+[Day 27](#day-27-february-24th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -216,3 +217,8 @@ Continued today with CS50x Week 3 problem sets and solved "Plurality". Took me w
 Yesterday and today I worked on a CS50x Week3 problem set called "runoff". Lesson to be learned here is that if you did not understand given data structure completely, you won't be able to write functions which handle/depend on it.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1628511571633741824)
+
+### Day 27: February 24th, 2023
+Yesterday I worked a bit on the other CS50x Week 3 problem with a [Tideman method of ranked pairs](https://en.wikipedia.org/wiki/Ranked_pairs), then today started Week 4 lecture which will be about memory. So half a work there, half a work here, let's call it a one day.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1629247688645521409)
