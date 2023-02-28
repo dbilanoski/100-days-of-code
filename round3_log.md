@@ -53,6 +53,7 @@
 [Day 26](#day-26-february-22nd-2023)
 [Day 27](#day-27-february-24th-2023)
 [Day 28](#day-28-february-27th-2023)
+[Day 29](#day-29-february-28th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -229,3 +230,9 @@ Yesterday I worked a bit on the other CS50x Week 3 problem with a [Tideman metho
 Took the weekend off. Back to it today - continued with CS50x Week 4 lecture where I was learning about pointers, strings and poking around memory in C.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1630320805216124930)
+
+
+### Day 29: February 28th, 2023
+Continued with CS50x Week 4 lecture and more about the memory - malloc, free, garbage values and how string are working in C. There is just 20 minutes of lecture left but calling it a day as concentration is low.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1630687404788006913)
