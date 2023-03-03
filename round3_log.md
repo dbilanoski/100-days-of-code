@@ -54,6 +54,7 @@
 [Day 27](#day-27-february-24th-2023)
 [Day 28](#day-28-february-27th-2023)
 [Day 29](#day-29-february-28th-2023)
+[Day 30](#day-30-march-3rd-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -236,3 +237,9 @@ Took the weekend off. Back to it today - continued with CS50x Week 4 lecture whe
 Continued with CS50x Week 4 lecture and more about the memory - malloc, free, garbage values and how string are working in C. There is just 20 minutes of lecture left but calling it a day as concentration is low.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1630687404788006913)
+
+
+### Day 30: March 3rd, 2023
+Yesterday and today I finished the Week 4 lecture and completed both lab assigments. Got sick and the focus was low and hazy but managed to complete the assigments. Next - problem sets.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1631769813243576322)
