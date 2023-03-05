@@ -55,6 +55,7 @@
 [Day 28](#day-28-february-27th-2023)
 [Day 29](#day-29-february-28th-2023)
 [Day 30](#day-30-march-3rd-2023)
+[Day 31](#day-31-march-5th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -243,3 +244,9 @@ Continued with CS50x Week 4 lecture and more about the memory - malloc, free, ga
 Yesterday and today I finished the Week 4 lecture and completed both lab assigments. Got sick and the focus was low and hazy but managed to complete the assigments. Next - problem sets.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1631769813243576322)
+
+
+### Day 31: March 5th, 2023
+Skiped a day. Worked on the first problem set called filter where the task was to implement few types of image filtering types (blur, sephia etc.). Spent more time than needed figuring out why my reflection is returing same identical image - turns out if you go row by row, you need to stop swapping first-to-last pixel at the middle, otherwise you get same image :D Tomorrow I do blur, submit, then next one.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1632505797564411910)
