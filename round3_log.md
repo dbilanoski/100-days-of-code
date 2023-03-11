@@ -56,6 +56,8 @@
 [Day 29](#day-29-february-28th-2023)
 [Day 30](#day-30-march-3rd-2023)
 [Day 31](#day-31-march-5th-2023)
+[Day 31](#day-32-march-8th-2023)
+[Day 31](#day-33-march-11th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -250,3 +252,13 @@ Yesterday and today I finished the Week 4 lecture and completed both lab assigme
 Skiped a day. Worked on the first problem set called filter where the task was to implement few types of image filtering types (blur, sephia etc.). Spent more time than needed figuring out why my reflection is returing same identical image - turns out if you go row by row, you need to stop swapping first-to-last pixel at the middle, otherwise you get same image :D Tomorrow I do blur, submit, then next one.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1632505797564411910)
+
+
+### Day 32: March 8th, 2023
+Ok so I was doing blur yesterday and today, and still struggling to visualize current pixel position. So will not post to Twitter and will give this a few more sessions.
+
+
+### Day 33: March 11th, 2023
+Finally got a pass on this one. Gotta admit, I spent almost a week and still had to tweak indexes on edge cases by almost guessing them to get the pass score as numbers were not spot on in the end. Really good challenge. I probably tried too hard visualizing pixels rather than writing the grid in a more mathematical way.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1634655845425217540)
