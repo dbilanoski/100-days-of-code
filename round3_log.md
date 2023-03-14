@@ -276,4 +276,4 @@ Got the main logic drafted, need to see smart way of delimiting images.
 ### Day 35 March 14th, 2023
 Yesterday I spent almost two hours troubleshooting a memory leak on "Recover" problem set from Week 4 CS50x lesson where te task was to implement a jpeg recovery program in C. Turned out I had an opened file reference inside a specific condition which I did not close. I was too tired to post, so today just a code cleanup and problem set submission. Next topic - Week 5 and the data structures.
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1635752240009838592)
