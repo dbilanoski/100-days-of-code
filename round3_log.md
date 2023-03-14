@@ -59,6 +59,7 @@
 [Day 32](#day-32-march-8th-2023)
 [Day 33](#day-33-march-11th-2023)
 [Day 34](#day-34-march-12th-2023)
+[Day 35](#day-35-march-14th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -270,3 +271,9 @@ Started working on "Recover" pset from Week 4 where the task is to recover delet
 Got the main logic drafted, need to see smart way of delimiting images.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1635044939137716230)
+
+
+### Day 35 March 14th, 2023
+Yesterday I spent almost two hours troubleshooting a memory leak on "Recover" problem set from Week 4 CS50x lesson where te task was to implement a jpeg recovery program in C. Turned out I had an opened file reference inside a specific condition which I did not close. I was too tired to post, so today just a code cleanup and problem set submission. Next topic - Week 5 and the data structures.
+
+[Twitter post]()
