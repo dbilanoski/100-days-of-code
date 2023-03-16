@@ -60,6 +60,7 @@
 [Day 33](#day-33-march-11th-2023)
 [Day 34](#day-34-march-12th-2023)
 [Day 35](#day-35-march-14th-2023)
+[Day 36](#day-36-march-16th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -266,14 +267,20 @@ Finally got a pass on this one. Gotta admit, I spent almost a week and still had
 [Twitter post](https://twitter.com/DBilanoski/status/1634655845425217540)
 
 
-### Day 34 March 12th, 2023
+### Day 34: March 12th, 2023
 Started working on "Recover" pset from Week 4 where the task is to recover deleted jpegs from memory.
 Got the main logic drafted, need to see smart way of delimiting images.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1635044939137716230)
 
 
-### Day 35 March 14th, 2023
+### Day 35: March 14th, 2023
 Yesterday I spent almost two hours troubleshooting a memory leak on "Recover" problem set from Week 4 CS50x lesson where te task was to implement a jpeg recovery program in C. Turned out I had an opened file reference inside a specific condition which I did not close. I was too tired to post, so today just a code cleanup and problem set submission. Next topic - Week 5 and the data structures.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1635752240009838592)
+
+
+### Day 36: March 16th, 2023
+Yesterday I took the day off as I had some other computer related task to finish so there was just no time. Today back to it - started Week 5 lecture about data structures in CS50x where the topics were stacks, queues and memory allocation and reallocation when expanding arrays. Next topic - linked lists.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1636484927762907137)
