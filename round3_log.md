@@ -61,6 +61,7 @@
 [Day 34](#day-34-march-12th-2023)
 [Day 35](#day-35-march-14th-2023)
 [Day 36](#day-36-march-16th-2023)
+[Day 37](#day-37-march-20th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -284,3 +285,9 @@ Yesterday I spent almost two hours troubleshooting a memory leak on "Recover" pr
 Yesterday I took the day off as I had some other computer related task to finish so there was just no time. Today back to it - started Week 5 lecture about data structures in CS50x where the topics were stacks, queues and memory allocation and reallocation when expanding arrays. Next topic - linked lists.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1636484927762907137)
+
+
+### Day 37: March 20th, 2023
+Took the weekend of to play Diablo 4 as it was open beta weekend. Today back to it - continued with CS50x week 5 lecture where the topic was about liked lists.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1637941639577497600)
