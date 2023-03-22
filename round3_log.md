@@ -62,6 +62,7 @@
 [Day 35](#day-35-march-14th-2023)
 [Day 36](#day-36-march-16th-2023)
 [Day 37](#day-37-march-20th-2023)
+[Day 39](#day-38-march-22nd-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -291,3 +292,9 @@ Yesterday I took the day off as I had some other computer related task to finish
 Took the weekend of to play Diablo 4 as it was open beta weekend. Today back to it - continued with CS50x week 5 lecture where the topic was about liked lists.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1637941639577497600)
+
+
+### Day 38: March 22nd, 2023
+Skipped another day, I was just tired and not motivated so it had no sense counting that misery as a day. Pushed on today and completed Week 5 lesson where I learned about hash tables, dictionaries and tries. Next few sessions will be problem sets and labs.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1638661485336338432)
