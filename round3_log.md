@@ -64,6 +64,7 @@
 [Day 37](#day-37-march-20th-2023)
 [Day 38](#day-38-march-22nd-2023)
 [Day 39](#day-39-march-27th-2023)
+[Day 40](#day-40-march-30th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -305,3 +306,9 @@ Skipped another day, I was just tired and not motivated so it had no sense count
 Another weekend skipped due to Diablo4 open beta and general lack of concentration and motivation. Picked things up where I left them and completed Week 5 lap where the task was to write a blood type distribution logic between three generations practicing custom data types and recursion in C. Gotta say, recursion I am not confortable with still but getting grasp of it. Also, I noticed that if I leave C for few day, I forget the pointers and the star notation which probably means those things I did not understand completely. Will revisit those in the documentation and then procees with the problem set assignment.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1640449163249987585)
+
+
+### Day 40: March 30th, 2023
+Started working on the CS50x Week 5's problem set called spellchecker. One of those premade programs where I'm kinda jumping in to write the main functionality so I always need some time to understand what's the current logic and what's expected. In this one I'll have a chance to write my own hash function. Should be interesting.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1641532911215058952)
