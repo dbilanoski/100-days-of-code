@@ -66,6 +66,7 @@
 [Day 39](#day-39-march-27th-2023)
 [Day 40](#day-40-march-30th-2023)
 [Day 41](#day-41-april-1st-2023)
+[Day 42](#day-42-april-3rd-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -319,3 +320,13 @@ Started working on the CS50x Week 5's problem set called spellchecker. One of th
 Continued with the CS50x Week 5's problem set called spellchecker where I worked on the file reading and other supporting functions and left the hashing for the end. I noticed that I do need to check the examples and the documentation more often then with other stuff which tells me two things: 1. I probably did not understand referencing/pointer sintax in C that good and 2. I do keep skipping days so things are not sticking as usual.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1642287985449107456)
+
+
+### Day 42: April 3rd, 2023
+Completed the CS50x Week 5 problem set Spellchecker after 4 or 5 sessions. For the hashing function I went with the one I could actually write myself - sum of the letters ASCII values. Had to check the documentation and consult the lecture for the linked lists and string functions more than I wanted to so as I recognized in the last journal entry, these things require more disciplined approach, but nevertheless I leared alot and expanded my understanding. 
+
+Final results of the function measuerements are significantly lower than the one provided by the Staff but I did write my hashing function by myself so feeling good about it. C was actually quite a journey and I firmly believe everybody should learn basics of it just to understand how data structures and memory management works.
+
+Next topic - Python. Fun fun fun.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1643005090456907776)
