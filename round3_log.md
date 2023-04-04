@@ -67,6 +67,8 @@
 [Day 40](#day-40-march-30th-2023)
 [Day 41](#day-41-april-1st-2023)
 [Day 42](#day-42-april-3rd-2023)
+[Day 42](#day-42-april-3rd-2023)
+[Day 43](#day-43-april-4th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -330,3 +332,9 @@ Final results of the function measuerements are significantly lower than the one
 Next topic - Python. Fun fun fun.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1643005090456907776)
+
+
+### Day 43: April 4th, 2023
+Started Week 6 lecture in CS50x where the topic is Python. Today was basics and few examples of C code written in Python. Took it easy, looking forward to projects.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1643363016715522048)
