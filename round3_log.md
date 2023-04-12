@@ -72,6 +72,7 @@
 [Day 44](#day-44-april-6th-2023)
 [Day 45](#day-45-april-7th-2023)
 [Day 46](#day-46-april-11th-2023)
+[Day 47](#day-47-april-12th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -358,3 +359,9 @@ Continued with the Python lecture in CS50x where there was talk about data types
 Completed the Python lecture with more random examples. Next, labs and problem sets.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1645878731779579904)
+
+
+### Day 47: April 12th, 2023
+Completed the CS50x Week 6 Lab assignment where the task was to implement some world cup simulation function with endgoal of calculation probability of winning based on the provided FIFA ratings.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1646256270842658826)
