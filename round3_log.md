@@ -78,6 +78,7 @@
 [Day 50](#day-50-april-19th-2023)
 [Day 51](#day-51-april-20th-2023)
 [Day 52](#day-52-april-23th-2023)
+[Day 53](#day-53-april-24th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -397,3 +398,9 @@ Continued with CS50x Week 6 problem sets, today I wrote the Readability assignme
 Continued with CS50x Week 6 problem sets, today I did most of the last one called "DNA". Just at the end I've noticed that there are two possible data sets so will need to tweak some of the functionality.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1650251800384094209)
+
+
+### Day 53: April 24th, 2023
+Submitted last one of the CS50x Week 6 problem set assignments and with that, Python week is completed. Next - SQL and databases.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1650608590388903937)
