@@ -80,6 +80,7 @@
 [Day 52](#day-52-april-23th-2023)
 [Day 53](#day-53-april-24th-2023)
 [Day 54](#day-54-april-27th-2023)
+[Day 55](#day-55-may-2nd-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -411,3 +412,8 @@ Submitted last one of the CS50x Week 6 problem set assignments and with that, Py
 Started CS50x Week 7 where the topic will be SQL and databases. Today worked with flat-file type and how to handle it with Python.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1651696093510369288)
+
+### Day 55: May 2nd, 2023
+Skipped a few days during weekend, back to it now. Continued with CS50x Week 7 with the basics of SQL CRUD commands.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1653502999417835540)
