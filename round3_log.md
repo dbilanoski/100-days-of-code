@@ -81,6 +81,8 @@
 [Day 53](#day-53-april-24th-2023)
 [Day 54](#day-54-april-27th-2023)
 [Day 55](#day-55-may-2nd-2023)
+[Day 56](#day-56-may-3rd-2023)
+[Day 57](#day-57-may-4th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -417,3 +419,15 @@ Started CS50x Week 7 where the topic will be SQL and databases. Today worked wit
 Skipped a few days during weekend, back to it now. Continued with CS50x Week 7 with the basics of SQL CRUD commands.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1653502999417835540)
+
+
+### Day 56: May 3rd, 2023
+Continued with CS50x Week 7 with the basics of SQL, schemas, keys and relations between tables.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1654229357223657476)
+
+
+### Day 57: May 4th, 2023
+Completed CS50x Week 7 lesson about SQL and the databases, today with joins, nested queries, indexes and some talk about security. Next - labs and problem sets.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1654229357223657476)
