@@ -83,6 +83,7 @@
 [Day 55](#day-55-may-2nd-2023)
 [Day 56](#day-56-may-3rd-2023)
 [Day 57](#day-57-may-4th-2023)
+[Day 58](#day-58-may-7th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -431,3 +432,8 @@ Continued with CS50x Week 7 with the basics of SQL, schemas, keys and relations 
 Completed CS50x Week 7 lesson about SQL and the databases, today with joins, nested queries, indexes and some talk about security. Next - labs and problem sets.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1654229357223657476)
+
+### Day 58: May 7th, 2023
+Completed CS50x Week 7 lab assignment where the task was to write some simple queries on a songs database and hypothesize about Spotify's aura calculations. Kept it short and simple.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1655324936678907906)
