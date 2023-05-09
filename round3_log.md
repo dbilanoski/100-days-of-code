@@ -84,6 +84,7 @@
 [Day 56](#day-56-may-3rd-2023)
 [Day 57](#day-57-may-4th-2023)
 [Day 58](#day-58-may-7th-2023)
+[Day 59](#day-59-may-9th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -437,3 +438,8 @@ Completed CS50x Week 7 lesson about SQL and the databases, today with joins, nes
 Completed CS50x Week 7 lab assignment where the task was to write some simple queries on a songs database and hypothesize about Spotify's aura calculations. Kept it short and simple.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1655324936678907906)
+
+### Day 59: May 9th, 2023
+Started first problem set in CS50x Week 7 lecture and completed most of it. SQL queries against imdb database.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1656044442510344223)
