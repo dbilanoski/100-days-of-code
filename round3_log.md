@@ -87,6 +87,7 @@
 [Day 59](#day-59-may-9th-2023)
 [Day 60](#day-60-may-10th-2023)
 [Day 61](#day-61-may-11th-2023)
+[Day 62](#day-62-may-14th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -459,3 +460,9 @@ Completed problem set called "movies" form CS50x Week 7 lecture. Next one will b
 Completed a problem set called "fiftyville" form CS50x Week 7 lecture where I had to investigate a fu*king rubber duck robbery by querying a database. With that nonsense out of the way, SQL lecture is now finished.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1656787288318259202)
+
+
+### Day 62: May 14th, 2023
+Took the weekend off to rest and spend some time with friends and family, today back to it. Started CS50x Week 8 lecture where the topic will be HTML, CSS and JS. First hour was a bit of a history and the underlying technologies.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1657840812502253573)
