@@ -1,4 +1,4 @@
-# Hi there. I've  joined the #100DaysOfCode Challenge
+# Hi there. I've joined the #100DaysOfCode Challenge
 
 ## Introduction
 This repository will serve as a public journal of my progress with the main commitment - to code/learn for at least an hour every day for the next 100 days.
