@@ -90,6 +90,7 @@
 [Day 62](#day-62-may-14th-2023)
 [Day 63](#day-63-may-16th-2023)
 [Day 64](#day-64-may-17th-2023)
+[Day 65](#day-65-may-19th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -480,3 +481,9 @@ Continued with CS50x Week 8 lecture which in this hour covered HTML.
 Completed CS50x Week 8 lecture which overed CSS and JavaScript in less than an hour. Let that sink in a bit.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1658929451596382208)
+
+
+### Day 65: May 19th, 2023
+Completed CS50x Week 8 lab where I wrote a solid block of Javascript to provide basic functionality to a quiz like simple web page interface. Forgot how I actually enjoyed this language and never got a real chance to develop the skills in it. 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1659321223623372800)
