@@ -92,6 +92,7 @@
 [Day 64](#day-64-may-17th-2023)
 [Day 65](#day-65-may-19th-2023)
 [Day 66](#day-66-may-23rd-2023)
+[Day 67](#day-67-may-25th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -494,3 +495,11 @@ Completed CS50x Week 8 lab where I wrote a solid block of Javascript to provide 
 Took the weekend off. Yesterday started working on final "homepage" project from CS50x Week 8 lecture. Should have been straightforward but then I saw using Bootstrap is a requirement so needed to look into that one too.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1661119166043115520)
+
+
+### Day 67: May 25th, 2023
+Finally done with the bootstrap homepage project. Gotta say, hated it a bit as I had to use premade CSS code which required me to waste time on understanding how to use somebody elses solution instead of learning basic technologies themselves but fine, had to try it sometime.
+
+Next topic - Flask.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1661854433901260800)
