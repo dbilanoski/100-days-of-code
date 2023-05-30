@@ -93,6 +93,8 @@
 [Day 65](#day-65-may-19th-2023)
 [Day 66](#day-66-may-23rd-2023)
 [Day 67](#day-67-may-25th-2023)
+[Day 68](#day-68-may-30th-2023)
+
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -503,3 +505,9 @@ Finally done with the bootstrap homepage project. Gotta say, hated it a bit as I
 Next topic - Flask.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1661854433901260800)
+
+
+### Day 68: May 30th, 2023
+Took the weekend off and started learning Flask yesterday and today in CS50x Week 9 lecture.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1663636067046633473)
