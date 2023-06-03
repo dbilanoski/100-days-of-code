@@ -94,6 +94,8 @@
 [Day 66](#day-66-may-23rd-2023)
 [Day 67](#day-67-may-25th-2023)
 [Day 68](#day-68-may-30th-2023)
+[Day 69](#day-69-june-3rd-2023)
+
 
 
 ### Day 1: January 11th, 2023
@@ -511,3 +513,9 @@ Next topic - Flask.
 Took the weekend off and started learning Flask yesterday and today in CS50x Week 9 lecture.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1663636067046633473)
+
+
+### Day 69: June 3rd, 2023
+Skipped few days again, then continued with the Flask lecture. Today was more about routes, templating and Jinja syntax.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1665102050764500992)
