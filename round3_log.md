@@ -95,7 +95,7 @@
 [Day 67](#day-67-may-25th-2023)
 [Day 68](#day-68-may-30th-2023)
 [Day 69](#day-69-june-3rd-2023)
-
+[Day 70](#day-70-june-12th-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -519,3 +519,10 @@ Took the weekend off and started learning Flask yesterday and today in CS50x Wee
 Skipped few days again, then continued with the Flask lecture. Today was more about routes, templating and Jinja syntax.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1665102050764500992)
+
+
+### Day 70: June 12th, 2023
+Had a whole week skippage this time due to travel, then weekend comming. Long story short - once you start being comfortable with skipping learning days, it all goes south fast.
+Finally back to it, will do my best to skip as little as possible till the end. Completed Flask lecture in CS50x Week 9, next are labs and problem sets.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1668359303667777540)
