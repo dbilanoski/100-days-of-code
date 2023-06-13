@@ -96,6 +96,7 @@
 [Day 68](#day-68-may-30th-2023)
 [Day 69](#day-69-june-3rd-2023)
 [Day 70](#day-70-june-12th-2023)
+[Day 71](#day-71-june-13th-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -526,3 +527,9 @@ Had a whole week skippage this time due to travel, then weekend comming. Long st
 Finally back to it, will do my best to skip as little as possible till the end. Completed Flask lecture in CS50x Week 9, next are labs and problem sets.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1668359303667777540)
+
+
+### Day 71: June 13th, 2023
+Completed CS50x Week 9 lab where the task was to render data pulled from the database with Flask and implement basic data manipulation from the web front end.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1668706723798958087)
