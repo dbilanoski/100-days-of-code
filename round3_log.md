@@ -97,6 +97,7 @@
 [Day 69](#day-69-june-3rd-2023)
 [Day 70](#day-70-june-12th-2023)
 [Day 71](#day-71-june-13th-2023)
+[Day 72](#day-72-june-14th-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -533,3 +534,9 @@ Finally back to it, will do my best to skip as little as possible till the end. 
 Completed CS50x Week 9 lab where the task was to render data pulled from the database with Flask and implement basic data manipulation from the web front end.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1668706723798958087)
+
+
+### Day 72: June 14th, 2023
+Started CS50x Week 9 problem set where the task is to complete a web application for trading stocks with Flask. Today I completed the functionality of registering new users.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1669087160220237825)
