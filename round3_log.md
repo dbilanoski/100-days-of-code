@@ -99,6 +99,7 @@
 [Day 71](#day-71-june-13th-2023)
 [Day 72](#day-72-june-14th-2023)
 [Day 73](#day-73-june-15th-2023)
+[Day 74](#day-74-june-17th-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -547,3 +548,9 @@ Started CS50x Week 9 problem set where the task is to complete a web application
 Continued with CS50x Week 9 problem set's stock trading app where today I implemented quote fetching functionality with Flask.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1669307134075363329)
+
+
+### Day 74: June 17th, 2023
+Took two days off due to scheduled traveling. Today I'm  back to it - continued working on the CS50x Week 9 Flask finance thingy where I implemented a buying functionality and handled the database.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1670179953697079297)
