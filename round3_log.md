@@ -101,6 +101,7 @@
 [Day 73](#day-73-june-15th-2023)
 [Day 74](#day-74-june-17th-2023)
 [Day 75](#day-75-june-19th-2023)
+[Day 76](#day-76-june-21st-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -560,3 +561,9 @@ Took two days off due to scheduled traveling. Today I'm  back to it - continued 
 Continued with CS50x Week 9 problem set's stock trading app and did a solid 3 hours of playing with Flask, Jinja, HTML tables and Javascript. Portfolio summary page done. Almost there.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1670917764272324608)
+
+
+### Day 76: June 21st, 2023
+Another session on CS50x Week 9 problem set's stock trading app, today I implemented selling functionality. Tomorrow history page, some cosmetics and I should be done.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1671641050417446912)
