@@ -102,7 +102,7 @@
 [Day 74](#day-74-june-17th-2023)
 [Day 75](#day-75-june-19th-2023)
 [Day 76](#day-76-june-21st-2023)
-
+[Day 77](#day-77-june-22nd-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -567,3 +567,9 @@ Continued with CS50x Week 9 problem set's stock trading app and did a solid 3 ho
 Another session on CS50x Week 9 problem set's stock trading app, today I implemented selling functionality. Tomorrow history page, some cosmetics and I should be done.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1671641050417446912)
+
+
+### Day 77: June 22nd, 2023
+OK done with the CS50x Week 9 problem set's stock trading app, now to iron out irregularities detected by the automated testing on the course platform. I was hoping to submit this today but it looks like it will be another one.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1671995859800653825)
