@@ -105,6 +105,7 @@
 [Day 77](#day-77-june-22nd-2023)
 [Day 78](#day-78-june-23rd-2023)
 [Day 79](#day-79-june-26th-2023)
+[Day 80](#day-80-june-30th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -587,3 +588,9 @@ Completed CS50x Week 9 problem set's stock trading app now fully and submitted i
 Finished the CS50x Week 10 lecture which was, minus the cringey emoji skit, basically a recap and an outro. So will take a day or two to plan out the final project, then use the rest of the days in this round to complete it.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1673458772986003456)
+
+
+### Day 80: June 30th, 2023
+Last few days I was learning about OpenAI API as I plan to use it for my CS50x final project. Idea is to, while at it, learn additional and relevant technology. Will take few more days to test it before starting with the project. Not decided if I'll do some useful tooling with it or do a chat bot.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1674887359530246144)
