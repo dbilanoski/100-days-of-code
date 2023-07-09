@@ -107,6 +107,7 @@
 [Day 79](#day-79-june-26th-2023)
 [Day 80](#day-80-june-30th-2023)
 [Day 81](#day-81-july-2nd-2023)
+[Day 82](#day-82-july-9th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -601,3 +602,9 @@ Last few days I was learning about OpenAI API as I plan to use it for my CS50x f
 Did a bit more with OpenAI API and Javascript and did a small project playing with a text and image creation. I'm mostly ready for CS50x final project but not quite sure wheter to build a usefull Chrome extension or a cool chat-like project nobody will need. Probably gonna do both.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1675627055738675201)
+
+
+### Day 82: July 9th, 2023
+Took a break, then continued with the chat app where I'm exploring openai. Plan was to quickly throw a gui then work on the logic but of course last two days was all about the looks. Got that retro cyberpunk in-wall panel terminal vibe I was looking for.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1678141812446318592)
