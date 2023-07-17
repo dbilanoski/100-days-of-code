@@ -108,6 +108,7 @@
 [Day 80](#day-80-june-30th-2023)
 [Day 81](#day-81-july-2nd-2023)
 [Day 82](#day-82-july-9th-2023)
+[Day 83](#day-83-july-17th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -608,3 +609,10 @@ Did a bit more with OpenAI API and Javascript and did a small project playing wi
 Took a break, then continued with the chat app where I'm exploring openai. Plan was to quickly throw a gui then work on the logic but of course last two days was all about the looks. Got that retro cyberpunk in-wall panel terminal vibe I was looking for.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1678141812446318592)
+
+
+
+### Day 83: July 17th, 2023
+ Had another break due to traveling and vacationing and continued working on my chatbot once I setteled. Worked last few day on the main app login around rendering messages and fetching anwers and today completed the functionality. Counting all of that as one day since I was working here and there whenever I had time and did not really count nor documented it. Next will be persisting the data, will see about implementing database or possibly a Chrome storage.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1680889164194103297)
