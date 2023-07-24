@@ -110,6 +110,7 @@
 [Day 82](#day-82-july-9th-2023)
 [Day 83](#day-83-july-17th-2023)
 [Day 84](#day-84-july-19th-2023)
+[Day 85](#day-85-july-24th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -619,8 +620,13 @@ Took a break, then continued with the chat app where I'm exploring openai. Plan 
 [Twitter post](https://twitter.com/DBilanoski/status/1680889164194103297)
 
 
-
 ### Day 84: July 19th, 2023
 Tried working on a deck outside on my vacation during a sunny 36c afternoon and barely managed to hold an hour, both me and my laptop. Created firebase database and prepared dependecies on the project side for it, will try it out as a storage so I can persist the chat data.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1681640023777595393)
+
+
+### Day 85: July 24th, 2023
+Ok, last two days was all about integrating Firebase database to my chatbot project. Somehow, I always lose most time on troubleshooting issues with pulled node modules. Completed the integration, will do a Netlify deployment to learn the serverless functions, then see to rewrite the app so it uses browser's local storage.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1683596884273770498)
