@@ -114,6 +114,8 @@
 [Day 86](#day-86-july-27th-2023)
 [Day 87](#day-87-july-30th-2023)
 [Day 88](#day-88-august-3rd-2023)
+[Day 89](#day-89-august-7th-2023)
+[Day 90](#day-90-august-8th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -651,3 +653,15 @@ Ok so I rewrote my openai chatbot to use local storage instead of Firebase to pe
 Finally! After few days of messing with Netlify serverless functions and geting them to work, I've managed to tie everything and complete the project.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1687213103933743104)
+
+
+### Day 89: August 7th, 2023
+Decided to do one more project with openAI then decide which one to submit as a final project. This time I'll be building a Chrome extension which will integrate openai functionality in the Gmail composition form. So spent a whole evening trying to make the content script work as expected.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1689026669158277120)
+
+
+### Day 90: August 8th, 2023
+After messing with Chrome local storage api and configuring the content script to persist the api key which the user will need to input for himself, started doing the content script related to the gmail funcitonality. Let's say that it's tricky to select the new mail composition form in the Gmail app.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1689026669158277120)
