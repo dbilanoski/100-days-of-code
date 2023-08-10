@@ -116,6 +116,8 @@
 [Day 88](#day-88-august-3rd-2023)
 [Day 89](#day-89-august-7th-2023)
 [Day 90](#day-90-august-8th-2023)
+[Day 91](#day-91-august-11th-2023)
+
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -665,3 +667,9 @@ Decided to do one more project with openAI then decide which one to submit as a 
 After messing with Chrome local storage api and configuring the content script to persist the api key which the user will need to input for himself, started doing the content script related to the gmail funcitonality. Let's say that it's tricky to select the new mail composition form in the Gmail app.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1689026669158277120)
+
+
+### Day 91: August 11th, 2023
+Turns out it's not that obvious and needs a digging on how to select the element of the Gmail compose email form. Got the basics of the extension working - at some point, it will change the content of your email using openAI.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1689764582867312640)
