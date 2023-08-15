@@ -117,6 +117,7 @@
 [Day 89](#day-89-august-7th-2023)
 [Day 90](#day-90-august-8th-2023)
 [Day 91](#day-91-august-11th-2023)
+[Day 92](#day-92-august-15th-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -673,3 +674,9 @@ After messing with Chrome local storage api and configuring the content script t
 Turns out it's not that obvious and needs a digging on how to select the element of the Gmail compose email form. Got the basics of the extension working - at some point, it will change the content of your email using openAI.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1689764582867312640)
+
+
+### Day 92: August 15th, 2023
+Spent 2 days poking the Gmail compose and reply elements to see what would be best approach to isolate content of the current email without the signature but keep the signature for later recreation. Concluded  I'll enforce highlghiting the text which need OpenAI processing as it's more direct and less prone to errors or cases uncaught by the script logic. Worked out the signature isolation also so will be good to work on the email recreation after the OpenAI processing next.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1691562905110536628)
