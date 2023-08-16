@@ -118,6 +118,7 @@
 [Day 90](#day-90-august-8th-2023)
 [Day 91](#day-91-august-11th-2023)
 [Day 92](#day-92-august-15th-2023)
+[Day 93](#day-93-august-16th-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -680,3 +681,9 @@ Turns out it's not that obvious and needs a digging on how to select the element
 Spent 2 days poking the Gmail compose and reply elements to see what would be best approach to isolate content of the current email without the signature but keep the signature for later recreation. Concluded  I'll enforce highlghiting the text which need OpenAI processing as it's more direct and less prone to errors or cases uncaught by the script logic. Worked out the signature isolation also so will be good to work on the email recreation after the OpenAI processing next.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1691562905110536628)
+
+
+### Day 93: August 16th, 2023
+After almost three hours I finally figured out why my clicked button does not pick up the correct highlighted text - it's the click event which is changing the pointer element thus screwing the selection. Mousedown works. Now I have all components and can proceed tying everything together.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1691944800407150593)
