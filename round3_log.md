@@ -119,6 +119,7 @@
 [Day 91](#day-91-august-11th-2023)
 [Day 92](#day-92-august-15th-2023)
 [Day 93](#day-93-august-16th-2023)
+[Day 94](#day-94-august-17th-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -687,3 +688,9 @@ Spent 2 days poking the Gmail compose and reply elements to see what would be be
 After almost three hours I finally figured out why my clicked button does not pick up the correct highlighted text - it's the click event which is changing the pointer element thus screwing the selection. Mousedown works. Now I have all components and can proceed tying everything together.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1691944800407150593)
+
+
+### Day 94: August 17th, 2023
+Still left to polish the styles, see where to cement the button, finetune the prompt and write some error handling but generally, my Chrome extension which takes your email and formalizes it using openAI is done.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1692280551086895121)
