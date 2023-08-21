@@ -120,6 +120,7 @@
 [Day 92](#day-92-august-15th-2023)
 [Day 93](#day-93-august-16th-2023)
 [Day 94](#day-94-august-17th-2023)
+[Day 95](#day-95-august-21st-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -694,3 +695,9 @@ After almost three hours I finally figured out why my clicked button does not pi
 Still left to polish the styles, see where to cement the button, finetune the prompt and write some error handling but generally, my Chrome extension which takes your email and formalizes it using openAI is done.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1692280551086895121)
+
+
+### Day 95: August 21st, 2023
+Took the weekend off, today back to it. Added error handling logic and some styles, polished the popup config window to look nice, still struggling with positioning of the button in my to-be Chrome extension. By the looks of it, I'll probably go by fixing it to the upper right corner as there it has least chance to overlap with user text.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1693730563650130391)
