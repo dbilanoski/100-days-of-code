@@ -121,6 +121,7 @@
 [Day 93](#day-93-august-16th-2023)
 [Day 94](#day-94-august-17th-2023)
 [Day 95](#day-95-august-21st-2023)
+[Day 96](#day-96-august-22nd-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -701,3 +702,9 @@ Still left to polish the styles, see where to cement the button, finetune the pr
 Took the weekend off, today back to it. Added error handling logic and some styles, polished the popup config window to look nice, still struggling with positioning of the button in my to-be Chrome extension. By the looks of it, I'll probably go by fixing it to the upper right corner as there it has least chance to overlap with user text.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1693730563650130391)
+
+
+### Day 96: August 22nd, 2023
+Fixed some styles and added the view button for the current api key so it's not just showed in the popup window and tweaked the openai prompt a bit and now I'm pretty much done with the project for my to-be Chrome extension which I plan to submit as a final project for the CS50x. There are things to be imporved both visualy, logically and functions wise but for what it is, I'll just leave it as is. Will submit it to the Chrome store just to see how the review procedure will treat gmail injection and storing api keys in local storage.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1694103682013401161)
