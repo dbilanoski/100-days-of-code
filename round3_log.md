@@ -122,6 +122,7 @@
 [Day 94](#day-94-august-17th-2023)
 [Day 95](#day-95-august-21st-2023)
 [Day 96](#day-96-august-22nd-2023)
+[Day 97](#day-97-august-26th-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -708,3 +709,9 @@ Took the weekend off, today back to it. Added error handling logic and some styl
 Fixed some styles and added the view button for the current api key so it's not just showed in the popup window and tweaked the openai prompt a bit and now I'm pretty much done with the project for my to-be Chrome extension which I plan to submit as a final project for the CS50x. There are things to be imporved both visualy, logically and functions wise but for what it is, I'll just leave it as is. Will submit it to the Chrome store just to see how the review procedure will treat gmail injection and storing api keys in local storage.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1694103682013401161)
+
+
+### Day 97: August 26th, 2023
+Had a few skips but in general, last few days I was tidying up the app and preparing it for publishing to Chrome store which happened yesterday. Did the documentation for the github repo, tomorrow will write those needed for the CS50x submission and see to record a quick showcase session after which I'll be ready to submit my final project.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1695541535549317275)
