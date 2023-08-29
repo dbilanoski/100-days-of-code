@@ -6,7 +6,7 @@
 > I will learn and code for at least an hour every day for the next 100 days.
 
 ### Broad Goals
-- [ ] [Harvard CS50 Youtube Course](https://www.youtube.com/watch?v=8mAITcNt710) -> Went with official [CS50x](https://cs50.harvard.edu/x/2023/)
+- [X] [Harvard CS50 Youtube Course](https://www.youtube.com/watch?v=8mAITcNt710) -> Went with official [CS50x](https://cs50.harvard.edu/x/2023/)
 - [ ] [FreeCodeCamp Relational Databases & Linux Course](https://www.freecodecamp.org/learn/relational-database/)
 - [ ] [Udemy Google Cloud Course](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-certification-course/learn/lecture/30471014?start=0#overview)
 - [X] Try out Obsidian, see about tech snippets repo on github
@@ -17,7 +17,7 @@
 #### Leftover Goals From Round 2
 - [ ] Revisit and learn Bash scripting in more detail
 - [ ] Get beter at Linux sys administration
-- [ ] Revisit and learn Powershell in more detail 
+- [X] Revisit and learn Powershell in more detail 
 - [ ] Revisit Git in more detail
 - [ ] Prepare for third round to tackle current DevOps tools
 
@@ -123,6 +123,7 @@
 [Day 95](#day-95-august-21st-2023)
 [Day 96](#day-96-august-22nd-2023)
 [Day 97](#day-97-august-26th-2023)
+[Day 98](#day-98-august-29th-2023)
 
 
 ### Day 1: January 11th, 2023
@@ -715,3 +716,9 @@ Fixed some styles and added the view button for the current api key so it's not 
 Had a few skips but in general, last few days I was tidying up the app and preparing it for publishing to Chrome store which happened yesterday. Did the documentation for the github repo, tomorrow will write those needed for the CS50x submission and see to record a quick showcase session after which I'll be ready to submit my final project.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1695541535549317275)
+
+
+### Day 98: August 29th, 2023
+So this was CS50x! I'm delighted to share that I've finished the Chrome extension, sorted the documentation, recorded the short demo and submited the CS50x final project which brought me to the completion of the course. Superb experience, highly recommended.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1696644931375309304)
