@@ -124,7 +124,7 @@
 [Day 96](#day-96-august-22nd-2023)
 [Day 97](#day-97-august-26th-2023)
 [Day 98](#day-98-august-29th-2023)
-
+[Day 99](#day-99-september-4th-2023)
 
 ### Day 1: January 11th, 2023
 Starting the third round of the challenge and as usual, took the first day to plot my goals, sort the literature and make a learning plan.
@@ -722,3 +722,9 @@ Had a few skips but in general, last few days I was tidying up the app and prepa
 So this was CS50x! I'm delighted to share that I've finished the Chrome extension, sorted the documentation, recorded the short demo and submited the CS50x final project which brought me to the completion of the course. Superb experience, highly recommended.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1696644931375309304)
+
+
+### Day 99: September 4th, 2023
+Took few days off, then today did a bit of cleaning of my CS50x Git repo, wrote some documentation and pushed it to the Github. Tomorrow will be my last day for this round where I'll conclude it with a bit of an review, as I usually do.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1698802772827627773)
