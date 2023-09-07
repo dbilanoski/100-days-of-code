@@ -16,13 +16,23 @@
 
 #### Leftover Goals From Round 2
 - [ ] Revisit and learn Bash scripting in more detail
-- [ ] Get beter at Linux sys administration
+- [X] Get beter at Linux sys administration
 - [X] Revisit and learn Powershell in more detail 
-- [ ] Revisit Git in more detail
+- [X] Revisit Git in more detail
 - [ ] Prepare for third round to tackle current DevOps tools
 
 
 **Start date: January 11th, 2023.**
+**End date: September 7th, 2023.**
+
+### Conclusion
+- Completed CS50x (C, Python, Flask, SQL, JavaScript)
+- Learned about OpenAI and built few applications with it (chatbot, gmail integration)
+- Built another Chrome Extension and atleast 10 smaller applications
+- Integrated Obsidian to private and work note-taking routine
+- Forced Linux completely textually at work and at home so got better at administering it
+- Used Powershell more extensively at work and got better at it
+- Started using Git with Github more at work and privately and got better at it
 
 ## Days - table of content
 [Day 1](#day-1-january-11th-2023)
@@ -728,3 +738,33 @@ So this was CS50x! I'm delighted to share that I've finished the Chrome extensio
 Took few days off, then today did a bit of cleaning of my CS50x Git repo, wrote some documentation and pushed it to the Github. Tomorrow will be my last day for this round where I'll conclude it with a bit of an review, as I usually do.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1698802772827627773)
+
+
+### Day 100: September 7th, 2023
+As usual, 100th day of the round I'll use to reflect a bit and see how I did in relation to the original plan. 
+
+If anything, this round was the worst in sense of keeping a daily continuity - I probably had same number of skipped days as the ones I actually did learn. On the other hand, this round was also where I worked for a few days on something but counted it as one day in the round. Probably due to being more relaxed about the challenge itself and due to CS50x course which was heavy on exploring.
+
+So how I actually did - not bad; not exaclty by the plan but I did learn alot and build many things.
+
+So from the broad goals, most of them I diched in favour of the CS50 and think that was a good decision. Google Cloud and Linux/databases will do next.
+
+- [X] [Harvard CS50 Youtube Course](https://www.youtube.com/watch?v=8mAITcNt710) -> Went with official [CS50x](https://cs50.harvard.edu/x/2023/)
+- [ ] [FreeCodeCamp Relational Databases & Linux Course](https://www.freecodecamp.org/learn/relational-database/)
+- [ ] [Udemy Google Cloud Course](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-certification-course/learn/lecture/30471014?start=0#overview)
+- [X] Try out Obsidian, see about tech snippets repo on github
+- [ ] Review Linkedin skills, earn five badges by doing Linkedin skills tests around Linux, databases and AD
+- [ ] Learn about SSH in more detail
+
+
+From the leftovers from previous round, I did most of them along the way, some during CS50x, some on the work.
+
+- [ ] Revisit and learn Bash scripting in more detail
+- [X] Get beter at Linux sys administration
+- [X] Revisit and learn Powershell in more detail 
+- [X] Revisit Git in more detail
+- [ ] Prepare for third round to tackle current DevOps tools
+
+To conclude, time well spent and looking forward to the next one which I'll probably start early in January.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1699884978354729365)
