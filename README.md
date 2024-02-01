@@ -19,7 +19,7 @@ This challenge I initially started as a whole-year challenge but later changed i
 
 **Round Three (January 11th 2023 - September 7th 2023)** - log available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/round3_log.md)
 
-**Round Three ()** - log available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/round4_log.md)
+**Round Three (February 1st, 2024 - )** - log available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/round4_log.md)
 
 ## Note
 This repo is heavily inspired by Alexander Kallaway's 100-days-of-code project which I strongly recommend checking out.

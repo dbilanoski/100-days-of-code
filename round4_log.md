@@ -6,7 +6,7 @@
 > I will learn and code for at least an hour every day for the next 100 days.
 
 ### Broad Goals
-1. Social and public presence
+1. Social aspect, public presence and old code
 - Do the Github profile personal page
 - Fix whatodoo tabs on Chrome store to be available
 - Fix formalize it to use current model and gives more precise error
@@ -16,19 +16,29 @@
 - Register on Medium and write an article
 
 2. Actual learning
-- [ ] [FreeCodeCamp Relational Databases & Linux Course](https://www.freecodecamp.org/learn/relational-database/)
-- Docker and virtualization
-- Google Cloud Associate cert
+- Leftovers from the least round (Linux and databases, Google cert course)
 - Python Playright (automatization and scraping of web apps)
 
 
 #### Leftover Goals From Previous Rounds
-- [X] [Harvard CS50 Youtube Course](https://www.youtube.com/watch?v=8mAITcNt710) -> Went with official [CS50x](https://cs50.harvard.edu/x/2023/)
 - [ ] [FreeCodeCamp Relational Databases & Linux Course](https://www.freecodecamp.org/learn/relational-database/)
 - [ ] [Udemy Google Cloud Course](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-certification-course/learn/lecture/30471014?start=0#overview)
-- [X] Try out Obsidian, see about tech snippets repo on github
 - [ ] Review Linkedin skills, earn five badges by doing Linkedin skills tests around Linux, databases and AD
 - [ ] Learn about SSH in more detail
 - [ ] Revisit and learn Bash scripting in more detail
 
-**Start date: **
+**Start date: February 1st, 2024.**
+
+
+## Days - table of content
+[Day 1](#day-1-february-1st-2024)
+
+
+### Day 1: February 1st, 2024
+Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
+
+I'll start with [FreeCodeCamp Relational Databases & Linux Course](https://www.freecodecamp.org/learn/relational-database/), then do some clean up on my Github and Linkedin, and if I have time, will try to squiuze a Google Cloud Associate course I've been wanting to take. Might be too much for one round so in case there is little time left - I'll do some Python automation and leave cloud certification for the winter.
+
+Today I started and completed first chapter of the fcc course - "Learn Bash by Building a Boilerplate".
+
+[Twitter post](https://twitter.com/DBilanoski/status/1753179642268151889)
