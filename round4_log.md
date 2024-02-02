@@ -32,6 +32,7 @@
 
 ## Days - table of content
 [Day 1](#day-1-february-1st-2024)
+[Day 2](#day-2-february-2nd-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -42,3 +43,11 @@ I'll start with [FreeCodeCamp Relational Databases & Linux Course](https://www.f
 Today I started and completed first chapter of the fcc course - "Learn Bash by Building a Boilerplate".
 
 [Twitter post](https://twitter.com/DBilanoski/status/1753179642268151889)
+
+
+### Day 2: February 2nd, 2024
+Started "Learn Relational Databases by Building a Mario Database" section of the freeCodeCamp's Relational Databases course and got to exactly 50%.
+
+Course interface is a bit janky, let's hope it won't cause issues like not saving progress after few hours 🤨
+
+[Twitter post](https://twitter.com/DBilanoski/status/1753537461454586277)
