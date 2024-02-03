@@ -33,6 +33,7 @@
 ## Days - table of content
 [Day 1](#day-1-february-1st-2024)
 [Day 2](#day-2-february-2nd-2024)
+[Day 3](#day-3-february-3rd-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -51,3 +52,11 @@ Started "Learn Relational Databases by Building a Mario Database" section of the
 Course interface is a bit janky, let's hope it won't cause issues like not saving progress after few hours 🤨
 
 [Twitter post](https://twitter.com/DBilanoski/status/1753537461454586277)
+
+
+### Day 3: February 3rd, 2024
+Completed the other half of the Mario database section of the freeCodeCamp's Relational Databases course. 
+
+As I was fearing yesterday, progress saving issue came to be. Upon completing and exiting the virtual environment, section was not flag as completed.Luckly, reinitiating it showed the copletion button which then marked the section correctly.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1753908965207920653)
