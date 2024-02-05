@@ -35,6 +35,7 @@
 [Day 2](#day-2-february-2nd-2024)
 [Day 3](#day-3-february-3rd-2024)
 [Day 4](#day-4-february-4th-2024)
+[Day 5](#day-5-february-5th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -66,3 +67,11 @@ As I was fearing yesterday, progress saving issue came to be. Upon completing an
 Started working on the first assignment project in the fCC's db course where task is to build database of celestial bodies. Plotted things, wrote out commands for table/column creation, sorted out relations and started inserting data.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1754259843311960298)
+
+
+### Day 5: February 5th, 2024
+Completed the Celestial Bodies database assignment and started next section which will be covering topic of bash scripting.
+
+Celestial Bodies project steps can be glanced [Here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database/universe-prep.sql)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1754628427653509335)
