@@ -36,6 +36,7 @@
 [Day 3](#day-3-february-3rd-2024)
 [Day 4](#day-4-february-4th-2024)
 [Day 5](#day-5-february-5th-2024)
+[Day 6](#day-6-february-7th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -75,3 +76,11 @@ Completed the Celestial Bodies database assignment and started next section whic
 Celestial Bodies project steps can be glanced [Here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database/universe-prep.sql)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1754628427653509335)
+
+
+### Day 6: February 7th, 2024
+Second day where fCC's rdb course moduls are hanging with issues in staring virtual envoroments. 
+
+Yesterday I was fooling around with some unrelated Python project, today decided to run the course locally while waiting. Spent a solid hour troubleshooting docker containers. Got it to work, will count those two as a day.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1755355269633122755)

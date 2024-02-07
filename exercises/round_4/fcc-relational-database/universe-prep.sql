@@ -110,13 +110,13 @@ insert into solar_system(solar_system_id,galaxy_id,name,age,size_in_km) values
   (5,5,'Solar System 005',11020002,5855455.25),
   (6,6,'Solar System 006',3040012,52323585.36);
 
-insert into star(star_id,solar_system_id,name,age,diameter_in_km,type) values
-  (1,1,'Star 001',5056000,6866585.29,'Spiral'),
-  (2,2,'Star 002',6500200,5766585.12,'Elliptical'),
-  (3,3,'Star 003',10005501,4566585.80,'Spiral'),
-  (4,4,'Star 004',205600,5566585.99,'Irregular'),
-  (5,5,'Star 005',99022006,3566585.25,'Barred'),
-  (6,6,'Star 006',5040068,4565585.36,'Spiral');
+insert into star(star_id,solar_system_id,galaxy_id,name,age,diameter_in_km,type) values
+  (1,1,1,'Star 001',5056000,6866585.29,'Spiral'),
+  (2,2,2,'Star 002',6500200,5766585.12,'Elliptical'),
+  (3,3,3,'Star 003',10005501,4566585.80,'Spiral'),
+  (4,4,4,'Star 004',205600,5566585.99,'Irregular'),
+  (5,5,5,'Star 005',99022006,3566585.25,'Barred'),
+  (6,6,6,'Star 006',5040068,4565585.36,'Spiral');
 
 -- Those with requirement of 12 rows and 20 rows
 insert into planet(planet_id,star_id,name,age,diameter_in_km,has_water,has_life) values
