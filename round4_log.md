@@ -7,17 +7,17 @@
 
 ### Broad Goals
 1. Social aspect, public presence and old code
-- Do the Github profile personal page
-- Fix whatodoo tabs on Chrome store to be available
-- Fix formalize it to use current model and gives more precise error
-- Fix linkedin description and job description
-- Cram small js projects in one of those old repo
-- Rewrite boolab site description to be more pro and learning opportunity
-- Register on Medium and write an article
+- [ ] Do the Github profile personal page
+- [ ] Fix whatodoo tabs on Chrome store to be available
+- [ ] Fix formalize it to use current model and gives more precise error
+- [ ] Fix linkedin description and job description
+- [ ] Cram small js projects in one of those old repo
+- [ ] Rewrite boolab site description to be more pro and learning opportunity
+- [ ] Register on Medium and write an article
 
 2. Actual learning
-- Leftovers from the least round (Linux and databases, Google cert course)
-- Python Playright (automatization and scraping of web apps)
+- [ ] Leftovers from the least round (Linux and databases, Google cert course)
+- [ ] Python Playright (automatization and scraping of web apps)
 
 
 #### Leftover Goals From Previous Rounds
@@ -38,6 +38,7 @@
 [Day 5](#day-5-february-5th-2024)
 [Day 6](#day-6-february-7th-2024)
 [Day 7](#day-7-february-8th-2024)
+[Day 8](#day-8-february-12th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
