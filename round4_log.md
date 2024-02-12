@@ -93,3 +93,9 @@ Finally course content became available over at CodeAlly virtualization platform
 Hopefully, it will still be accessible tomorrow.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1755729111912194175)
+
+
+### Day 8: February 12th, 2024
+Now that was a busy weekend. Worked the challenge a bit on Friday and Saturday, took the Sunday off and completed the Bash scripting module of the freeCodeCamp's Relational Databases course today. So.. counting all of that as a one day 😎 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1757157825233433081)
