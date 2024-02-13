@@ -39,6 +39,7 @@
 [Day 6](#day-6-february-7th-2024)
 [Day 7](#day-7-february-8th-2024)
 [Day 8](#day-8-february-12th-2024)
+[Day 9](#day-9-february-13th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -100,3 +101,9 @@ Hopefully, it will still be accessible tomorrow.
 Now that was a busy weekend. Worked the challenge a bit on Friday and Saturday, took the Sunday off and completed the Bash scripting module of the freeCodeCamp's Relational Databases course today. So.. counting all of that as a one day 😎 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1757157825233433081)
+
+
+### Day 9: February 13th, 2024
+Started the next module in the freeCodeCamp's Relational Databases course called "Build a Student Database: Part 1" and got to around 80% of it. Worked for a solid 2 hours and gotta say, bash has some weird syntax but kinda digging it.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1757524352382194093)
