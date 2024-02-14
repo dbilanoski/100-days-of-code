@@ -40,6 +40,7 @@
 [Day 7](#day-7-february-8th-2024)
 [Day 8](#day-8-february-12th-2024)
 [Day 9](#day-9-february-13th-2024)
+[Day 10](#day-10-february-14th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -107,3 +108,13 @@ Now that was a busy weekend. Worked the challenge a bit on Friday and Saturday, 
 Started the next module in the freeCodeCamp's Relational Databases course called "Build a Student Database: Part 1" and got to around 80% of it. Worked for a solid 2 hours and gotta say, bash has some weird syntax but kinda digging it.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1757524352382194093)
+
+
+### Day 10: February 14th, 2024
+Today kept in short and Completed "Build a Student Database: Part 1" module. Learned a lot and first time I was working with Gitpod platform.
+
+Tomorrow second part of Studet Database module, then the next certification required project.
+
+Shell script which writes to a database from csv files I was working on during module available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database/insert_data.sh).
+
+[Twitter post](https://twitter.com/DBilanoski/status/1757874845134581780)
