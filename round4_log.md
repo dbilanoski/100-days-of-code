@@ -118,3 +118,9 @@ Tomorrow second part of Studet Database module, then the next certification requ
 Shell script which writes to a database from csv files I was working on during module available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database/insert_data.sh).
 
 [Twitter post](https://twitter.com/DBilanoski/status/1757874845134581780)
+
+
+### Day 11: February 15th, 2024
+Started freeCodeCamp's Relational Databases module called "Build a Student Database: Part 2" and got to 50%. So far it was all about querying data from the database built in the previous lesson.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1758243767012696395)
