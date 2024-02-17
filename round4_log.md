@@ -41,6 +41,9 @@
 [Day 8](#day-8-february-12th-2024)
 [Day 9](#day-9-february-13th-2024)
 [Day 10](#day-10-february-14th-2024)
+[Day 11](#day-11-february-15th-2024)
+[Day 12](#day-12-february-17th-2024)
+
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -124,3 +127,11 @@ Shell script which writes to a database from csv files I was working on during m
 Started freeCodeCamp's Relational Databases module called "Build a Student Database: Part 2" and got to 50%. So far it was all about querying data from the database built in the previous lesson.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1758243767012696395)
+
+
+### Day 12: February 17th, 2024
+Skipped a day yesterday, today back to it. Worked on the Student's database part 2 module for around an hour and gotten to 75% of it.
+
+Wanted to complete it today but I was just too tired.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1758981838507278454)
