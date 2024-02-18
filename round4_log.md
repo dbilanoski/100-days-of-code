@@ -43,6 +43,7 @@
 [Day 10](#day-10-february-14th-2024)
 [Day 11](#day-11-february-15th-2024)
 [Day 12](#day-12-february-17th-2024)
+[Day 13](#day-13-february-18th-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -135,3 +136,12 @@ Skipped a day yesterday, today back to it. Worked on the Student's database part
 Wanted to complete it today but I was just too tired.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1758981838507278454)
+
+
+### Day 13: February 18th, 2024
+Completed the part 2 of the Students's db project and it was a bit tedious as I was just rushing through all the questions to finish it.
+
+It's just the worst when you force something tired just to complete it. Will remember that and next time just take a day off.
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1759348529523273913)
