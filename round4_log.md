@@ -44,7 +44,7 @@
 [Day 11](#day-11-february-15th-2024)
 [Day 12](#day-12-february-17th-2024)
 [Day 13](#day-13-february-18th-2024)
-
+[Day 14](#day-14-february-19th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -145,3 +145,13 @@ It's just the worst when you force something tired just to complete it. Will rem
 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1759348529523273913)
+
+
+### Day 14: February 19th, 2024
+Took a short detour from the RDB course and worked on my first Medium article today. While at it, I needed a platform for tracking ideas and working on those so I crafted s simple Notion platform to get me started.
+
+This aligns with my goals and today I had an interesting case on the work so I thought I use the situation fully and make an effort do write it.
+
+It's not completed yet fully but structure, intro and summary is there so we'll see if I can make it tomorrow.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1759709749296161267)
