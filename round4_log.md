@@ -155,3 +155,11 @@ This aligns with my goals and today I had an interesting case on the work so I t
 It's not completed yet fully but structure, intro and summary is there so we'll see if I can make it tomorrow.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1759709749296161267)
+
+
+### Day 15: February 20th, 2024
+Worked a bit more on my first article and completed a final draft and assets around it. Will leave it for a final review before publishing it next Tuesday.
+
+In the meantime, moving on with the RDB course. Started second certification required project called World Cup. Sorted out the database, leaving the bash scripting for tomorrow. 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1760054181531148621)
