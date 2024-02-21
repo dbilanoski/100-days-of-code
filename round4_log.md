@@ -45,6 +45,8 @@
 [Day 12](#day-12-february-17th-2024)
 [Day 13](#day-13-february-18th-2024)
 [Day 14](#day-14-february-19th-2024)
+[Day 15](#day-15-february-20th-2024)
+[Day 16](#day-16-february-21st-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -163,3 +165,13 @@ Worked a bit more on my first article and completed a final draft and assets aro
 In the meantime, moving on with the RDB course. Started second certification required project called World Cup. Sorted out the database, leaving the bash scripting for tomorrow. 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1760054181531148621)
+
+
+### Day 16: February 21st, 2024
+Continued wokring on the fCC's RDB course where I completed bash script for inserting csv data to a database. 
+
+As always I drifted away from the main course, this time by tinkering with arrays in bash. Did not need it for the assigment but wanted to see how to work with them. That will cost me another day on this assigment as I did not have time to complete all queries tonight.
+
+It's all good.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1760432914980864371)
