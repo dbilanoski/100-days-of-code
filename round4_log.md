@@ -47,6 +47,7 @@
 [Day 14](#day-14-february-19th-2024)
 [Day 15](#day-15-february-20th-2024)
 [Day 16](#day-16-february-21st-2024)
+[Day 17](#day-17-february-24th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -175,3 +176,13 @@ As always I drifted away from the main course, this time by tinkering with array
 It's all good.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1760432914980864371)
+
+
+### Day 17: February 24th, 2024
+Skipped a day or two, now finally back to it. Completed World Cup database project from FreeCodeCamp's RDB course.
+
+Project database dump available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database/worldcup/worldcup.sql).
+Project database insertion script available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database/worldcup/insert_data.sh).
+Project queries available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database/worldcup/queries.sh).
+
+[Twitter post](https://twitter.com/DBilanoski/status/1761413074240631149)
