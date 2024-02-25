@@ -48,6 +48,7 @@
 [Day 15](#day-15-february-20th-2024)
 [Day 16](#day-16-february-21st-2024)
 [Day 17](#day-17-february-24th-2024)
+[Day 18](#day-18-february-25th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -186,3 +187,9 @@ Project database insertion script available [here](https://github.com/dbilanoski
 Project queries available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database/worldcup/queries.sh).
 
 [Twitter post](https://twitter.com/DBilanoski/status/1761413074240631149)
+
+
+### Day 18: February 25th, 2024
+Today I worked on my Medium article, drafted it on the platfrom. Need slight adjustment on the images and another set of eyes to read it.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1761880716478943255)
