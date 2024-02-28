@@ -13,7 +13,7 @@
 - [ ] Fix linkedin description and job description
 - [ ] Cram small js projects in one of those old repo
 - [ ] Rewrite boolab site description to be more pro and learning opportunity
-- [ ] Register on Medium and write an article
+- [X] Register on Medium and write an article
 
 2. Actual learning
 - [ ] Leftovers from the least round (Linux and databases, Google cert course)
@@ -49,6 +49,7 @@
 [Day 16](#day-16-february-21st-2024)
 [Day 17](#day-17-february-24th-2024)
 [Day 18](#day-18-february-25th-2024)
+[Day 19](#day-19-february-28th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -193,3 +194,9 @@ Project queries available [here](https://github.com/dbilanoski/whole-year-of-cod
 Today I worked on my Medium article, drafted it on the platfrom. Need slight adjustment on the images and another set of eyes to read it.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1761880716478943255)
+
+
+### Day 19: February 28th, 2024
+Skipped a day, then worked a bit yesterday and a bit today on the "Build a Kitty Ipsum Translator" project from the fCC's RDB course where I got to 50% of completion. 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1762939278152069509)
