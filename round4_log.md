@@ -213,4 +213,4 @@ Completed the Kitty Ipsum Translator project from the fCC's RDB course. Gotta sa
 ### Day 21: March 4th, 2024
 Used a weekend to work on my next article, today was preparing assets and a final draft. Will count all of that as a one day, tomorrow back to the RDB course.
 
-[Twitter post](https://twitter.com/DBilanoski/status/1764796568585068572)
+[Twitter post](https://twitter.com/DBilanoski/status/1764797040683368558)
