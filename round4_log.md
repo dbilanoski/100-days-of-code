@@ -51,6 +51,7 @@
 [Day 18](#day-18-february-25th-2024)
 [Day 19](#day-19-february-28th-2024)
 [Day 20](#day-20-february-29th-2024)
+[Day 21](#day-21-March-4th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -207,3 +208,9 @@ Skipped a day, then worked a bit yesterday and a bit today on the "Build a Kitty
 Completed the Kitty Ipsum Translator project from the fCC's RDB course. Gotta say, I did use `sed` command to replace simple things but had no idea how practical and powerfull it is when you plug in regex patterns and start piping it with grep.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1763323302398021826)
+
+
+### Day 21: March 4th, 2024
+Used a weekend to work on my next article, today was preparing assets and a final draft. Will count all of that as a one day, tomorrow back to the RDB course.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1764796568585068572)
