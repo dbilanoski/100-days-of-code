@@ -52,6 +52,7 @@
 [Day 19](#day-19-february-28th-2024)
 [Day 20](#day-20-february-29th-2024)
 [Day 21](#day-21-March-4th-2024)
+[Day 22](#day-22-March-6th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -214,3 +215,11 @@ Completed the Kitty Ipsum Translator project from the fCC's RDB course. Gotta sa
 Used a weekend to work on my next article, today was preparing assets and a final draft. Will count all of that as a one day, tomorrow back to the RDB course.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1764797040683368558)
+
+
+### Day 22: March 6th, 2024
+Start working on a next assignment from the fCC's Relational Databases course where I'm building a bike rental shop using Bash and SQL.
+
+I gotten to around 40%, calling it a day.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1765501976035377266)
