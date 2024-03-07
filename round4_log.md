@@ -53,6 +53,7 @@
 [Day 20](#day-20-february-29th-2024)
 [Day 21](#day-21-March-4th-2024)
 [Day 22](#day-22-March-6th-2024)
+[Day 23](#day-23-March-7th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -223,3 +224,11 @@ Start working on a next assignment from the fCC's Relational Databases course wh
 I gotten to around 40%, calling it a day.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1765501976035377266)
+
+
+### Day 23: March 7th, 2024
+Continued working on the fCC's Relational Databases course where I'm building a bike rental shop using Bash and SQL and worked over another third of it.
+
+It's just great writing terminal base applications. Reminds be of childhood games and qbasic on old pentium computers.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1765855706371039688)
