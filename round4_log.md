@@ -54,6 +54,7 @@
 [Day 21](#day-21-March-4th-2024)
 [Day 22](#day-22-March-6th-2024)
 [Day 23](#day-23-March-7th-2024)
+[Day 24](#day-24-March-11th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -232,3 +233,11 @@ Continued working on the fCC's Relational Databases course where I'm building a 
 It's just great writing terminal base applications. Reminds be of childhood games and qbasic on old pentium computers.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1765855706371039688)
+
+
+### Day 24: March 11th, 2024
+Took the weekend off, today back to it. Completed the Bike Rental Shop assignement from freeCodeCamp's RDB course and enjoyed the textual/terminal nature of it as it reminded me of childhod.
+
+Next one will be one of the assignements required for the certification.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1767304587659100323)
