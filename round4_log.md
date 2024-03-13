@@ -55,6 +55,7 @@
 [Day 22](#day-22-March-6th-2024)
 [Day 23](#day-23-March-7th-2024)
 [Day 24](#day-24-March-11th-2024)
+[Day 25](#day-25-March-13th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -241,3 +242,9 @@ Took the weekend off, today back to it. Completed the Bike Rental Shop assigneme
 Next one will be one of the assignements required for the certification.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1767304587659100323)
+
+
+### Day 25: March 13th, 2024
+Did some finishing work on my new article, then started the "Salon Appointment Scheduler" assignment from the freeCodeCamp database course where I'm building terminal based app with bash and sql.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1768026474236227995)
