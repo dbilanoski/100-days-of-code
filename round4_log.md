@@ -56,6 +56,7 @@
 [Day 23](#day-23-March-7th-2024)
 [Day 24](#day-24-March-11th-2024)
 [Day 25](#day-25-March-13th-2024)
+[Day 25](#day-26-March-17th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -248,3 +249,9 @@ Next one will be one of the assignements required for the certification.
 Did some finishing work on my new article, then started the "Salon Appointment Scheduler" assignment from the freeCodeCamp database course where I'm building terminal based app with bash and sql.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1768026474236227995)
+
+
+### Day 26: March 17th, 2024
+Ok, this week I was super busy and just did too little here to count it. So yesterday I continued with the fCC's rdb course project where I sorted the database. Today started working on a bash script for my appointment scheduler.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1769488046594896259)
