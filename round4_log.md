@@ -56,7 +56,8 @@
 [Day 23](#day-23-March-7th-2024)
 [Day 24](#day-24-March-11th-2024)
 [Day 25](#day-25-March-13th-2024)
-[Day 25](#day-26-March-17th-2024)
+[Day 26](#day-26-March-17th-2024)
+[Day 27](#day-27-March-18th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -255,3 +256,15 @@ Did some finishing work on my new article, then started the "Salon Appointment S
 Ok, this week I was super busy and just did too little here to count it. So yesterday I continued with the fCC's rdb course project where I sorted the database. Today started working on a bash script for my appointment scheduler.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1769488046594896259)
+
+
+### Day 27: March 18th, 2024
+Completed freeCodeCamp Relational Database's "Build a Salon Appointment Scheduler" project needed for the certification.
+
+As always, time spent on troubleshooting why I'm not passing automated tests was due to me implementing things which are not required :D 
+
+Project database dump available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/salon-appointment-scheduler/salon.sql).
+
+Project database script available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/salon-appointment-scheduler/salon.sh).
+
+[Twitter post](https://twitter.com/DBilanoski/status/1769840085170549015)
