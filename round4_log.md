@@ -7,7 +7,7 @@
 
 ### Broad Goals
 1. Social aspect, public presence and old code
-- [ ] Do the Github profile personal page
+- [X] Do the Github profile personal page
 - [ ] Fix whatodoo tabs on Chrome store to be available
 - [ ] Fix formalize it to use current model and gives more precise error
 - [ ] Fix linkedin description and job description
@@ -58,6 +58,7 @@
 [Day 25](#day-25-March-13th-2024)
 [Day 26](#day-26-March-17th-2024)
 [Day 27](#day-27-March-18th-2024)
+[Day 28](#day-28-March-19th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -268,3 +269,9 @@ Project database dump available [here](https://github.com/dbilanoski/whole-year-
 Project database script available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/salon-appointment-scheduler/salon.sh).
 
 [Twitter post](https://twitter.com/DBilanoski/status/1769840085170549015)
+
+
+### Day 28: March 19th, 2024
+Completed next chapter of the freeCodeCamp Relational database course where I draw a castle using Nano. Short, sweet and nothing new. So I took the rest of the session to work on the aesthetics of my Github profile.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1770222850177110059)
