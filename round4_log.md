@@ -59,6 +59,7 @@
 [Day 26](#day-26-March-17th-2024)
 [Day 27](#day-27-March-18th-2024)
 [Day 28](#day-28-March-19th-2024)
+[Day 29](#day-29-March-21st-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -275,3 +276,11 @@ Project database script available [here](https://github.com/dbilanoski/whole-yea
 Completed next chapter of the freeCodeCamp Relational database course where I draw a castle using Nano. Short, sweet and nothing new. So I took the rest of the session to work on the aesthetics of my Github profile.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1770222850177110059)
+
+
+### Day 29: March 21st, 2024
+By the time I could actually sit and study yesterday, I was completely depleted and took a day off. Today back to it.
+
+Started next chapter of the freeCodeCamp's RDB course "Learn Git by Building an SQL Reference Object" and got to around 50% of it. Learning git things I've never used.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1770932719825866757)
