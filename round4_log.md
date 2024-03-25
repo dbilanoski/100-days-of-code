@@ -61,6 +61,7 @@
 [Day 28](#day-28-March-19th-2024)
 [Day 29](#day-29-March-21st-2024)
 [Day 30](#day-30-March-24th-2024)
+[Day 31](#day-31-March-25th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -288,7 +289,12 @@ Started next chapter of the freeCodeCamp's RDB course "Learn Git by Building an 
 
 
 ### Day 30: March 24th, 2024
-
 Completed freeCodeCamp's RDB course "Learn Git by Building an SQL Reference Object" chapter. Worked on it a bit yesterday, some today, counting it as a day. 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1772000495256641748)
+
+
+### Day 31: March 25th, 2024
+Started working on the 4th assignment needed for certification in freeCodeCamp's RDB course called "Periodic Table Database". Solved the database part, tomorrow the shell scripting and git.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1772384141734019276)
