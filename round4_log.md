@@ -63,6 +63,7 @@
 [Day 30](#day-30-March-24th-2024)
 [Day 31](#day-31-March-25th-2024)
 [Day 32](#day-32-March-27th-2024)
+[Day 33](#day-33-March-28th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -305,3 +306,13 @@ Started working on the 4th assignment needed for certification in freeCodeCamp's
 Worked a bit on the shell script from the fCC's rdb course "Periodic Table Database" assignment but had to cut it short. Implemented main logic for checking cli arguments, next will be database querying and output.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1773090154229498143)
+
+
+### Day 33: March 28th, 2024
+
+
+Project database dump available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/periodic_table/periodic_table.sql).
+
+Project database script available [here](ttps://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/periodic_table/element.sh).
+
+[Twitter post]()
