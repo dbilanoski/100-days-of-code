@@ -64,6 +64,7 @@
 [Day 31](#day-31-March-25th-2024)
 [Day 32](#day-32-March-27th-2024)
 [Day 33](#day-33-March-28th-2024)
+[Day 34](#day-34-April-1st-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -309,10 +310,18 @@ Worked a bit on the shell script from the fCC's rdb course "Periodic Table Datab
 
 
 ### Day 33: March 28th, 2024
-
+Completed fourth certification project in the freeCodeCamp's Relational Databases course called "Periodic Table Database". One more to go and I'm done 💪
 
 Project database dump available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/periodic_table/periodic_table.sql).
 
-Project database script available [here](ttps://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/periodic_table/element.sh).
+Project database script available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/periodic_table/element.sh).
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1773462420771438604)
+
+
+### Day 34: April 1st, 2024
+Took a weekend off, today back to it. 
+
+Started final project from the freeCodeCamp's Relational Database course called "Number Guessing Game". Created the database and wrote the user checking logic.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1774922822164283637)
