@@ -65,6 +65,7 @@
 [Day 32](#day-32-March-27th-2024)
 [Day 33](#day-33-March-28th-2024)
 [Day 34](#day-34-April-1st-2024)
+[Day 35](#day-35-April-2nd-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -325,3 +326,16 @@ Took a weekend off, today back to it.
 Started final project from the freeCodeCamp's Relational Database course called "Number Guessing Game". Created the database and wrote the user checking logic.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1774922822164283637)
+
+
+### Day 35: April 2nd, 2024
+After more than hour of chasing test results and why they were failing in the Gitpod instance of the fCC's RDB course I finally made if out. All of those were formatting issues eventhough I'm pretty sure I was fine on several ocassions but hey, nothing beats the troubleshotting session before bed.
+
+Completed fifth certification project in the freeCodeCamp's Relational Databases course and with that, I finished the course.
+
+Project database dump available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/number_guessing_game/number_guess.sql).
+
+Project shell script available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/number_guessing_game/number_guess.sh).
+
+
+[Twitter post]()
