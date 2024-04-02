@@ -338,4 +338,4 @@ Project database dump available [here](https://github.com/dbilanoski/whole-year-
 Project shell script available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/exercises/round_4/fcc-relational-database-course/number_guessing_game/number_guess.sh).
 
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1775284258300379258)
