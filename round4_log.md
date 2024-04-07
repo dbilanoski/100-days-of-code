@@ -21,11 +21,11 @@
 
 
 #### Leftover Goals From Previous Rounds
-- [ ] [FreeCodeCamp Relational Databases & Linux Course](https://www.freecodecamp.org/learn/relational-database/)
-- [ ] [Udemy Google Cloud Course](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-certification-course/learn/lecture/30471014?start=0#overview)
+- [X] [FreeCodeCamp Relational Databases & Linux Course](https://www.freecodecamp.org/learn/relational-database/)
+- [ ] [Udemy Google Cloud Course](https://www.udemy.com/course/google-cloud-associate-cloud-engineer-certification-course/learn/lecture/30471014?start=0#overview) -> Replaced with more in-depth [Google Cloud Associate engineer Course from ExamPro's Anthony Tzavelas](https://www.youtube.com/watch?v=jpno8FSqpc8)
 - [ ] Review Linkedin skills, earn five badges by doing Linkedin skills tests around Linux, databases and AD
 - [ ] Learn about SSH in more detail
-- [ ] Revisit and learn Bash scripting in more detail
+- [X] Revisit and learn Bash scripting in more detail
 
 **Start date: February 1st, 2024.**
 
@@ -66,6 +66,7 @@
 [Day 33](#day-33-March-28th-2024)
 [Day 34](#day-34-April-1st-2024)
 [Day 35](#day-35-April-2nd-2024)
+[Day 36](#day-36-April-7th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -339,3 +340,11 @@ Project shell script available [here](https://github.com/dbilanoski/whole-year-o
 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1775284258300379258)
+
+
+### Day 36: April 7th, 2024
+After completing the freeCodeCamp's Relational Database course, I took a few days to research materials related to the GCP associate engineer cert which I'm gonna study next (for the rest of this round) so counting all of those as a one day. 
+
+Decited to go with the ExamPro's [Google Cloud Associeate Engineer Course published on freeCodeCamp's Youtube channel](https://www.youtube.com/watch?v=jpno8FSqpc8). Then will do Google's "learning path" materials and finish off with some prep examps.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1777007451545436182)
