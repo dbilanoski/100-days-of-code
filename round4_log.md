@@ -67,6 +67,7 @@
 [Day 34](#day-34-April-1st-2024)
 [Day 35](#day-35-April-2nd-2024)
 [Day 36](#day-36-April-7th-2024)
+[Day 37](#day-37-April-9th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -348,3 +349,11 @@ After completing the freeCodeCamp's Relational Database course, I took a few day
 Decited to go with the ExamPro's [Google Cloud Associeate Engineer Course published on freeCodeCamp's Youtube channel](https://www.youtube.com/watch?v=jpno8FSqpc8). Then will do Google's "learning path" materials and finish off with some prep examps.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1777007451545436182)
+
+
+### Day 37: April 9th, 2024
+Started learning for the GCP associate certification from the ExamPro's [Google Cloud Associeate Engineer Course published on freeCodeCamp's Youtube channel](https://www.youtube.com/watch?v=jpno8FSqpc8) and got through the initial prep and cloud fundamentals.
+
+Learned about cloud characteristics, deployment and service models, which was quite useful, especially understanding how the stack elements responsibility changes between different XaaS modes, from completely handled by you, to a ready made software where you handle nothing.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1777795197251776775)
