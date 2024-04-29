@@ -68,6 +68,7 @@
 [Day 35](#day-35-April-2nd-2024)
 [Day 36](#day-36-April-7th-2024)
 [Day 37](#day-37-April-9th-2024)
+[Day 38](#day-38-April-29th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -357,3 +358,11 @@ Started learning for the GCP associate certification from the ExamPro's [Google 
 Learned about cloud characteristics, deployment and service models, which was quite useful, especially understanding how the stack elements responsibility changes between different XaaS modes, from completely handled by you, to a ready made software where you handle nothing.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1777795197251776775)
+
+
+### Day 38: April 29th, 2024
+Took a two-week break due to family vacation, traveling, crazy schedule and a needed personal down-time. Last week was researching and this week will be implementation - all about rehauling my CV and public porfolio, a topic now pending for a quite some time, and in a need of immidiate attention.
+
+I did include this in my challenge plan as a goal but not counting last week at all as I want to save some days for the actual learning. So today was updating the design of my CV.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1785060668057542970)
