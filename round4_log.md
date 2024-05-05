@@ -70,6 +70,7 @@
 [Day 37](#day-37-April-9th-2024)
 [Day 38](#day-38-April-29th-2024)
 [Day 39](#day-39-April-30th-2024)
+[Day 40](#day-40-May-6th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -373,3 +374,10 @@ I did include this in my challenge plan as a goal but not counting last week at 
 Continuing with my CV\public profile overhaul, today I completed the CV data. Each time I tackle this, I get astounded how incredibly hard it is to condense your knowledge and experience into bullet points, especially keeping it on one page. After some hours of trying to keep it on one page, just went and did in on two pages. Had to rework design a bit but got it looking nice and usable.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1785429115866083457)
+
+
+### Day 40: May 6th, 2024
+Finally done with my CV\public profile overhaul. Well, not completely, still need to revise some GitHub repos and stuff here and there but will not waste any more time in this round on that. So, last few days was mostly rewriting personal data, updating LinkedIn, counting all of it as one day.
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1787246804347580539)
