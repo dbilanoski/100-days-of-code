@@ -1,9 +1,8 @@
 # Hi there. I've joined the #100DaysOfCode Challenge
-
-## Introduction
 This repository will serve as a public journal of my progress with the main commitment - to code/learn for at least an hour every day for the next 100 days.
 
-This challenge I initially started as a whole-year challenge but later changed it to a regular round based 100 days of code challenge as this way it seems to be more manageable, practical, concrete and repeatable. Rounds are described below under ["Rounds"](#rounds) with links to separate round journals where the daily progress of a particular round is documented.
+This challenge I initially started as a whole-year challenge but later changed it to a regular round based 100 days of code challenge as this way it seems to be more manageable, practical, concrete and repeatable. 
+Rounds are described below under ["Rounds"](#rounds) with links to separate round journals where the daily progress of a particular round is documented.
 
 ## Rules
 1. Code or learn technology related topics for a minimum of hour every day for the next 100 days
