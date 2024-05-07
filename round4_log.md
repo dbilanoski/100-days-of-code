@@ -71,6 +71,7 @@
 [Day 38](#day-38-April-29th-2024)
 [Day 39](#day-39-April-30th-2024)
 [Day 40](#day-40-May-6th-2024)
+[Day 41](#day-41-May-7th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -381,3 +382,10 @@ Finally done with my CV\public profile overhaul. Well, not completely, still nee
 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1787246804347580539)
+
+
+### Day 41: May 7th, 2024
+Back to Google Cloud content and the ExamPro's GCP Associate Engineer course, today was a high level overview of computing, network and database services and a bit about Google global infrastructure.
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1787953534421360684)
