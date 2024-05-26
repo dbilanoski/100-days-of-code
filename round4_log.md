@@ -72,6 +72,7 @@
 [Day 39](#day-39-April-30th-2024)
 [Day 40](#day-40-May-6th-2024)
 [Day 41](#day-41-May-7th-2024)
+[Day 42](#day-42-May-26th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -389,3 +390,13 @@ Back to Google Cloud content and the ExamPro's GCP Associate Engineer course, to
 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1787953534421360684)
+
+
+
+### Day 42: May 26th, 2024
+Had to detour from this as I was going through some job related changes which forced me to shift my focus back to databases and SQL, but research and work related to this I was not sure if I wanted to include to this round of challenge. Needed some off time, both for selfcare and to do some decision making. One thing led to another and now I'm looking at a job offer which I'm gonna accept.
+
+This means Google cloud is on hold - gonna do Microsoft SQL Server and TSQL crash course, then we'll see whether I'll be needing a Python refresher.
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1794839982114590924)
