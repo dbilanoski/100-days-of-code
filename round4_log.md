@@ -10,9 +10,9 @@
 - [X] Do the Github profile personal page
 - [ ] Fix whatodoo tabs on Chrome store to be available
 - [ ] Fix formalize it to use current model and gives more precise error
-- [ ] Fix linkedin description and job description
+- [X] Fix linkedin description and job description
 - [ ] Cram small js projects in one of those old repo
-- [ ] Rewrite boolab site description to be more pro and learning opportunity
+- [X] Rewrite boolab site description to be more pro and learning opportunity
 - [X] Register on Medium and write an article
 
 2. Actual learning
@@ -73,6 +73,7 @@
 [Day 40](#day-40-May-6th-2024)
 [Day 41](#day-41-May-7th-2024)
 [Day 42](#day-42-May-26th-2024)
+[Day 43](#day-43-May-27th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -392,7 +393,6 @@ Back to Google Cloud content and the ExamPro's GCP Associate Engineer course, to
 [Twitter post](https://twitter.com/DBilanoski/status/1787953534421360684)
 
 
-
 ### Day 42: May 26th, 2024
 Had to detour from this as I was going through some job related changes which forced me to shift my focus back to databases and SQL, but research and work related to this I was not sure if I wanted to include to this round of challenge. Needed some off time, both for selfcare and to do some decision making. One thing led to another and now I'm looking at a job offer which I'm gonna accept.
 
@@ -400,3 +400,10 @@ This means Google cloud is on hold - gonna do Microsoft SQL Server and TSQL cras
 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1794839982114590924)
+
+
+### Day 43: May 27th, 2024
+Shifting focus of this round to databases and programming. Did a bit of course research and started with Microsoft SQL Server and TSQL foundamentals course from Udemy - installed the server, management studio and ready to hit it.
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1795206444578435245)
