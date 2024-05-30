@@ -74,6 +74,7 @@
 [Day 41](#day-41-May-7th-2024)
 [Day 42](#day-42-May-26th-2024)
 [Day 43](#day-43-May-27th-2024)
+[Day 44](#day-44-May-30th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -407,3 +408,11 @@ Shifting focus of this round to databases and programming. Did a bit of course r
 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1795206444578435245)
+
+
+### Day 44: May 30th, 2024
+Continued yesterday and today further on the TSQL course but did not post here so let's count it as one day.
+Worked with basics of SELECT statement and it's clauses. Syntactical differences are between SQL variants are amusing.
+
+
+[Twitter post](https://twitter.com/DBilanoski/status/1796292542352515368)
