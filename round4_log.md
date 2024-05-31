@@ -75,6 +75,7 @@
 [Day 42](#day-42-May-26th-2024)
 [Day 43](#day-43-May-27th-2024)
 [Day 44](#day-44-May-30th-2024)
+[Day 45](#day-45-May-31st-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -390,7 +391,6 @@ Finally done with my CV\public profile overhaul. Well, not completely, still nee
 ### Day 41: May 7th, 2024
 Back to Google Cloud content and the ExamPro's GCP Associate Engineer course, today was a high level overview of computing, network and database services and a bit about Google global infrastructure.
 
-
 [Twitter post](https://twitter.com/DBilanoski/status/1787953534421360684)
 
 
@@ -398,7 +398,6 @@ Back to Google Cloud content and the ExamPro's GCP Associate Engineer course, to
 Had to detour from this as I was going through some job related changes which forced me to shift my focus back to databases and SQL, but research and work related to this I was not sure if I wanted to include to this round of challenge. Needed some off time, both for selfcare and to do some decision making. One thing led to another and now I'm looking at a job offer which I'm gonna accept.
 
 This means Google cloud is on hold - gonna do Microsoft SQL Server and TSQL crash course, then we'll see whether I'll be needing a Python refresher.
-
 
 [Twitter post](https://twitter.com/DBilanoski/status/1794839982114590924)
 
@@ -414,5 +413,10 @@ Shifting focus of this round to databases and programming. Did a bit of course r
 Continued yesterday and today further on the TSQL course but did not post here so let's count it as one day.
 Worked with basics of SELECT statement and it's clauses. Syntactical differences are between SQL variants are amusing.
 
-
 [Twitter post](https://twitter.com/DBilanoski/status/1796292542352515368)
+
+
+### Day 45: May 31st, 2024
+Continued with the TSQL course, today the topic was data types - all seven categories of them. 
+
+[Twitter post](https://twitter.com/DBilanoski/status/1796649571109466558)
