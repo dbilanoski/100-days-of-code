@@ -76,6 +76,8 @@
 [Day 43](#day-43-May-27th-2024)
 [Day 44](#day-44-May-30th-2024)
 [Day 45](#day-45-May-31st-2024)
+[Day 46](#day-46-June-1st-2024)
+
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -420,3 +422,9 @@ Worked with basics of SELECT statement and it's clauses. Syntactical differences
 Continued with the TSQL course, today the topic was data types - all seven categories of them. 
 
 [Twitter post](https://twitter.com/DBilanoski/status/1796649571109466558)
+
+
+### Day 46: June 1st, 2024
+Continued with the TSQL course, today was all about tables - creating and managing them.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1796980546444140887)
