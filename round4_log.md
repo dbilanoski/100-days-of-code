@@ -77,6 +77,7 @@
 [Day 44](#day-44-May-30th-2024)
 [Day 45](#day-45-May-31st-2024)
 [Day 46](#day-46-June-1st-2024)
+[Day 47](#day-47-June-3rd-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -428,3 +429,10 @@ Continued with the TSQL course, today the topic was data types - all seven categ
 Continued with the TSQL course, today was all about tables - creating and managing them.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1796980546444140887)
+
+
+### Day 47: June 3rd, 2024
+Continued yesterday and today further on the TSQL course but did not post yesterday so again, counting it all as a day.
+Worked more with tables, joins and learnt about database normalization.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1797720909974737021)
