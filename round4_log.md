@@ -78,6 +78,7 @@
 [Day 45](#day-45-May-31st-2024)
 [Day 46](#day-46-June-1st-2024)
 [Day 47](#day-47-June-3rd-2024)
+[Day 48](#day-48-June-5th-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -436,3 +437,9 @@ Continued yesterday and today further on the TSQL course but did not post yester
 Worked more with tables, joins and learnt about database normalization.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1797720909974737021)
+
+
+### Day 48: June 5th, 2024
+Took a day off yesterday, today back to it. Continued with the TSQL course where I was working with Primary keys, Foreign keys and other constraints learning more about the database relations.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1798447295341396053)
