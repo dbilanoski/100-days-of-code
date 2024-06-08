@@ -79,6 +79,7 @@
 [Day 46](#day-46-June-1st-2024)
 [Day 47](#day-47-June-3rd-2024)
 [Day 48](#day-48-June-5th-2024)
+[Day 49](#day-49-June-8th-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -442,4 +443,11 @@ Worked more with tables, joins and learnt about database normalization.
 ### Day 48: June 5th, 2024
 Took a day off yesterday, today back to it. Continued with the TSQL course where I was working with Primary keys, Foreign keys and other constraints learning more about the database relations.
 
-[Twitter post](https://twitter.com/DBilanoski/status/1798447295341396053)
+[Twitter post](https://twitter.com/DBilanoski/status/1798447499361018219)
+
+
+### Day 49: June 8th, 2024
+Had a busy few days where I squeezed some learning time here and there, let's say one day for all of it.
+Worked further with the TSQL course where I was learning about DML, mostly how insert and update work and how to use them.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1799461697490763984)
