@@ -80,6 +80,7 @@
 [Day 47](#day-47-June-3rd-2024)
 [Day 48](#day-48-June-5th-2024)
 [Day 49](#day-49-June-8th-2024)
+[Day 50](#day-50-June-11th-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -451,3 +452,11 @@ Had a busy few days where I squeezed some learning time here and there, let's sa
 Worked further with the TSQL course where I was learning about DML, mostly how insert and update work and how to use them.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1799461697490763984)
+
+
+### Day 50: June 11th, 2024
+It's getting harder and harder to stay disciplined at night, especially when the heatwave hits and you overburden your morning routine with excessive physical activity. So skipping days becomes a frequent thing.
+
+Continued with the TSQL course where I worked with DDL and learnt about views. Did few hours for today's session to compensate the weekend off.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1800293349150376152)
