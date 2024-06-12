@@ -82,6 +82,7 @@
 [Day 49](#day-49-June-8th-2024)
 [Day 50](#day-50-June-10th-2024)
 [Day 51](#day-51-June-11th-2024)
+[Day 52](#day-52-June-12th-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -467,3 +468,9 @@ Continued with the TSQL course where I worked with DDL and learnt about views. D
 Continued with the TSQL course from Udemy where I worked with more Data Definition Language objects, stored procedures and user defined functions. Since the course did a really poor job of showing them, did a bit of research and wrote few examples to see how they work.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1800634768016494623)
+
+
+### Day 52: June 12th, 2024
+Continued with the TSQL course from Udemy where I worked with set operators, then learnt about indexes. Another topic just briefly covered in the course so I'll have to dive deeper elsewhere.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1800993716796006764)
