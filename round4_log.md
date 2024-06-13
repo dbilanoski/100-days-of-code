@@ -83,6 +83,7 @@
 [Day 50](#day-50-June-10th-2024)
 [Day 51](#day-51-June-11th-2024)
 [Day 52](#day-52-June-12th-2024)
+[Day 53](#day-53-June-13th-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -474,3 +475,9 @@ Continued with the TSQL course from Udemy where I worked with more Data Definiti
 Continued with the TSQL course from Udemy where I worked with set operators, then learnt about indexes. Another topic just briefly covered in the course so I'll have to dive deeper elsewhere.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1800993716796006764)
+
+
+### Day 53: June 13th, 2024
+Onward with the TSQL course from Udemy, today were basics about security and access control and how backup and recovery works in the Microsoft SQL server. Nearly at the end of it.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1801357556096335927)
