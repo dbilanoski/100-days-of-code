@@ -84,7 +84,7 @@
 [Day 51](#day-51-June-11th-2024)
 [Day 52](#day-52-June-12th-2024)
 [Day 53](#day-53-June-13th-2024)
-
+[Day 54](#day-54-June-14th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -481,3 +481,9 @@ Continued with the TSQL course from Udemy where I worked with set operators, the
 Onward with the TSQL course from Udemy, today were basics about security and access control and how backup and recovery works in the Microsoft SQL server. Nearly at the end of it.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1801357556096335927)
+
+
+### Day 54: June 14th, 2024
+Took a course practice test, got 83% and passed (70% was needed for passage). Then took it again and got 97% which is better. Will need to work on data relation core concepts such as normalization and relation models and the specifics of the syntax, which will come once I start working with it on a daily basis I guess.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1801723186431623578)
