@@ -85,6 +85,7 @@
 [Day 52](#day-52-June-12th-2024)
 [Day 53](#day-53-June-13th-2024)
 [Day 54](#day-54-June-14th-2024)
+[Day 55](#day-55-June-16th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -487,3 +488,15 @@ Onward with the TSQL course from Udemy, today were basics about security and acc
 Took a course practice test, got 83% and passed (70% was needed for passage). Then took it again and got 97% which is better. Will need to work on data relation core concepts such as normalization and relation models and the specifics of the syntax, which will come once I start working with it on a daily basis I guess.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1801723186431623578)
+
+
+### Day 55: June 16th, 2024
+Took the Saturday off, today back to it. Did the bonus lectures of the TSQL course and completed it fully. It was a choppy experience with some backtracking to skipped topics, would not really recommend it. Will do another short one to solidify the knowledge and invest few sessions in relational database core concepts.
+
+[Udemy Course Cert](https://www.udemy.com/certificate/UC-8a3757bb-79bc-4540-9f8d-4a32138be323/)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1802460425390305731)
+
+
+
+ 
