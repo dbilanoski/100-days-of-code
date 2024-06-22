@@ -86,6 +86,8 @@
 [Day 53](#day-53-June-13th-2024)
 [Day 54](#day-54-June-14th-2024)
 [Day 55](#day-55-June-16th-2024)
+[Day 56](#day-56-June-21st-2024)
+[Day 57](#day-57-June-22nd-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -498,5 +500,16 @@ Took the Saturday off, today back to it. Did the bonus lectures of the TSQL cour
 [Twitter post](https://twitter.com/DBilanoski/status/1802460425390305731)
 
 
+### Day 56: June 21st, 2024
+Past few days I explored additional SQL\Relational databases materials aiming to solidify a knowledge a bit but did not post here. I enrolled in the LinkedIn learning path called "Master SQL Development" which will get me through few shorter courses on a more advanced topics.
+Spent 3 hours importing course data to a database.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1804637130276167752)
+
+
+### Day 57: June 22nd, 2024
+Completed "Top Five Things to Know in Advanced SQL" course from the "Master SQL Development" Linkedin education where I worked with subqueries, Common Table Expressions and some Window functions.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1804637130276167752)
 
  
