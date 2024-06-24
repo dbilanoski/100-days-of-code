@@ -89,6 +89,7 @@
 [Day 56](#day-56-June-21st-2024)
 [Day 57](#day-57-June-22nd-2024)
 [Day 58](#day-58-June-23rd-2024)
+[Day 59](#day-59-June-24th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -514,9 +515,15 @@ Completed "Top Five Things to Know in Advanced SQL" course from the "Master SQL 
 [Twitter post](https://twitter.com/DBilanoski/status/1804637130276167752)
 
  
- ### Day 58: June 23rd, 2024
+### Day 58: June 23rd, 2024
 Completed "Advanced SQL: Logical Query Processing, Part 1" course from the "Master SQL Development" Linkedin education where I learnt about execution order in SQL. Fantastic course to wrap your head around queries.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1804998072566505916)
+
+
+### Day 59: June 24th, 2024
+Completed "Advanced SQL: Logical Query Processing, Part 2" course from the "Master SQL Development" Linkedin education. Maybe a tad too advanced for me at this point, but excellent dive into processing of joins, grouping sets and recursion.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1805352034700509696)
 
  
