@@ -91,6 +91,7 @@
 [Day 58](#day-58-June-23rd-2024)
 [Day 59](#day-59-June-24th-2024)
 [Day 60](#day-60-June-26th-2024)
+[Day 61](#day-61-June-27th-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -533,4 +534,10 @@ Completed "Advanced SQL: Logical Query Processing, Part 2" course from the "Mast
 Completed "Advanced SQL for Query Tuning and Performance Optimization" course from the "Master SQL Development" Linkedin education. Useful, explains query plans, indexing, partitioning and optimization quite well.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1806072880360296493)
+
+
+### Day 61: June 27th, 2024
+Completed "Advanced SQL for Application Development" course from the "Master SQL Development" Linkedin education. Worked with Python, learned about db drivers and ORM. It was a blast.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1806437096439128129)
 
