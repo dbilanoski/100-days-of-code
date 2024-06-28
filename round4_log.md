@@ -92,6 +92,7 @@
 [Day 59](#day-59-June-24th-2024)
 [Day 60](#day-60-June-26th-2024)
 [Day 61](#day-61-June-27th-2024)
+[Day 62](#day-62-June-28th-2024)
 
 
 ### Day 1: February 1st, 2024
@@ -541,3 +542,8 @@ Completed "Advanced SQL for Application Development" course from the "Master SQL
 
 [Twitter post](https://twitter.com/DBilanoski/status/1806437096439128129)
 
+
+### Day 62: June 28th, 2024
+Completed "Advanced SQL for Data Scientist" course from the "Master SQL Development" Linkedin education. A bit too advanced topics for me at this point but nevertheless, a good introduction to data modeling, indexing algorithms and custom functions.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1806803936659304556)
