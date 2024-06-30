@@ -561,6 +561,6 @@ Started and went throught moost of the challenges from "Level Up: Advanced SQL" 
 Completed "Level Up: Advanced SQL" course and with that, the "Master SQL Development" Linkedin education path is done. Fantastic collection of short courses diving deeper into SQL internals and processing logic. 
 Rest of the round I'll use to refresh Python.
 
-["Level Up: Advanced SQL" Course solutions](https://github.com/dbilanoski/100-days-of-code/blob/master/exercises/round_4/linkedin_master_sql_development.sql)
+["Level Up: Advanced SQL" Course solutions](https://github.com/dbilanoski/100-days-of-code/blob/master/exercises/round_4/linkedin_master_sql_development/level-up_advanced-SQL-course-solutions.sql)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1807496225236591097)
