@@ -554,11 +554,13 @@ Completed "Advanced SQL for Data Scientist" course from the "Master SQL Developm
 ### Day 63: June 29th, 2024
 Started and went throught moost of the challenges from "Level Up: Advanced SQL" course from the "Master SQL Development" Linkedin education. This one was super fun although _I did not care for the presenter much.
 
-[Twitter post]()
+[Twitter post](https://twitter.com/DBilanoski/status/1807496225236591097)
 
 
 ### Day 64: June 30th, 2024
-Completed "Level Up: Advanced SQL" course and with that, the "Master SQL Development" Linkedin education path is done. Fantastic collection of short coruses diving deeper into SQL internals and processing logic. 
+Completed "Level Up: Advanced SQL" course and with that, the "Master SQL Development" Linkedin education path is done. Fantastic collection of short courses diving deeper into SQL internals and processing logic. 
 Rest of the round I'll use to refresh Python.
 
-[Twitter post]()
+["Level Up: Advanced SQL" Course solutions](https://github.com/dbilanoski/100-days-of-code/blob/master/exercises/round_4/linkedin_master_sql_development.sql)
+
+[Twitter post](https://twitter.com/DBilanoski/status/1807496225236591097)
