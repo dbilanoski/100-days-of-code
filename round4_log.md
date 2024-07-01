@@ -95,7 +95,7 @@
 [Day 62](#day-62-June-28th-2024)
 [Day 63](#day-63-June-29th-2024)
 [Day 64](#day-64-June-30th-2024)
-
+[Day 65](#day-65-July-1st-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -564,3 +564,9 @@ Rest of the round I'll use to refresh Python.
 ["Level Up: Advanced SQL" Course solutions](https://github.com/dbilanoski/100-days-of-code/blob/master/exercises/round_4/linkedin_master_sql_development/level-up_advanced-SQL-course-solutions.sql)
 
 [Twitter post](https://twitter.com/DBilanoski/status/1807496225236591097)
+
+
+### Day 65: July 1st, 2024
+Spend some time to see which Python course could bring me up fast with basic Python and went with Udemy's "Automate Everything With Python". Did a crash course on bare basics today and starting with the course tomorrow.
+
+[Twitter post](https://twitter.com/DBilanoski/status/1807900410604118377)
