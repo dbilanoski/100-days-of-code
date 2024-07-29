@@ -97,6 +97,25 @@
 [Day 64](#day-64-June-30th-2024)
 [Day 65](#day-65-July-1st-2024)
 
+[Day 66](#day-66-July-7th-2024)
+[Day 67](#day-67-July-8th-2024)
+[Day 68](#day-68-July-9th-2024)
+[Day 69](#day-69-July-10th-2024)
+[Day 70](#day-70-July-11th-2024)
+[Day 70](#day-71-July-12th-2024)
+[Day 72](#day-72-July-13th-2024)
+[Day 73](#day-73-July-14th-2024)
+[Day 74](#day-74-July-15th-2024)
+[Day 75](#day-75-July-17th-2024)
+[Day 76](#day-76-July-18th-2024)
+[Day 77](#day-77-July-19th-2024)
+[Day 78](#day-78-July-20th-2024)
+[Day 78](#day-79-July-21st-2024)
+[Day 80](#day-80-July-22nd-2024)
+[Day 81](#day-81-July-24th-2024)
+[Day 82](#day-82-July-25th-2024)
+
+
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
 
@@ -570,3 +589,116 @@ Rest of the round I'll use to refresh Python.
 Spend some time to see which Python course could bring me up fast with basic Python and went with Udemy's "Automate Everything With Python". Did a crash course on bare basics today and starting with the course tomorrow.
 
 [Twitter post](https://twitter.com/DBilanoski/status/1807900410604118377)
+
+
+
+### Day 66: July 7th, 2024
+Pff.. had a month of posting nothing. But kept learning. So around 20 days we'll just have to do shortly and from the memory. Let's say 10 days of Python basics, then a week of SQL server and integration services.
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 67: July 8th, 2024
+Backlog entry - Python basics.
+
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 68: July 9th, 2024
+Backlog entry - Python basics.
+
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 69: July 10th, 2024
+Backlog entry - Python basics.
+
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 70: July 11th, 2024
+Backlog entry - Python basics.
+
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 71: July 12th, 2024
+Backlog entry - Python basics.
+
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 72: July 13th, 2024
+Backlog entry - Python basics.
+
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 73: July 14th, 2024
+Backlog entry - Python basics.
+
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 74: July 15th, 2024
+Backlog entry - Python basics.
+
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 75: July 17th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 76: July 18th, 2024
+Backlog entry - SSIS and Microsoft SQL Server.
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 77: July 19th, 2024
+Backlog entry - SSIS and Microsoft SQL Server.
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 78: July 20th, 2024
+Backlog entry - SSIS and Microsoft SQL Server.
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+
+### Day 79: July 21th, 2024
+Backlog entry - SSIS and Microsoft SQL Server.
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+
+### Day 80: July 22nd, 2024
+Backlog entry - SSIS and Microsoft SQL Server.
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 81: July 24th, 2024
+Backlog entry - SSIS and Microsoft SQL Server.
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 82: July 25th, 2024
+Backlog entry - SSIS and Microsoft SQL Server.
+
+[Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
