@@ -96,7 +96,6 @@
 [Day 63](#day-63-June-29th-2024)
 [Day 64](#day-64-June-30th-2024)
 [Day 65](#day-65-July-1st-2024)
-
 [Day 66](#day-66-July-7th-2024)
 [Day 67](#day-67-July-8th-2024)
 [Day 68](#day-68-July-9th-2024)
@@ -115,6 +114,21 @@
 [Day 81](#day-81-July-24th-2024)
 [Day 82](#day-82-July-25th-2024)
 
+[Day 83](#day-83-September-1st-2024)
+[Day 84](#day-84-September-2nd-2024)
+[Day 85](#day-85-September-3rd-2024)
+[Day 86](#day-86-September-5th-2024)
+[Day 87](#day-87-September-6th-2024)
+[Day 88](#day-88-September-7th-2024)
+[Day 89](#day-89-September-8th-2024)
+[Day 90](#day-90-September-9th-2024)
+[Day 91](#day-91-September-10th-2024)
+[Day 92](#day-92-September-11th-2024)
+[Day 93](#day-93-September-12th-2024)
+[Day 94](#day-94-September-13th-2024)
+[Day 95](#day-95-September-14th-2024)
+[Day 96](#day-96-September-15th-2024)
+[Day 97](#day-97-September-16th-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -702,3 +716,82 @@ Backlog entry - SSIS and Microsoft SQL Server.
 Backlog entry - SSIS and Microsoft SQL Server.
 
 [Twitter post](https://x.com/DBilanoski/status/1818025422367379728)
+
+
+### Day 83: September 1st, 2024
+Another 1+month of posting nothing - probably the worst challenge round ever. Had a hell of a summer. But kept learning. So let's say 15 days of Python basics around oop, api handling and data crunching libraries, mostly around taks on the new job. Did I mention I got a new job? 
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+
+### Day 84: September 2nd, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+
+### Day 85: September 3rd, 2024
+Backlog entry - Python basics.
+
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 86: September 5th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 87: September 6th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 88: September 7th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 89: September 8th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 90: September 9th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 91: September 10th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 92: September 11th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 93: September 12th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 94: September 13th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 95: September 14th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 96: September 15th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
+
+### Day 97: September 16th, 2024
+Backlog entry - Python basics.
+
+[Twitter post](https://x.com/DBilanoski/status/1835783293800771716)
