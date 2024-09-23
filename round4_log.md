@@ -130,6 +130,7 @@
 [Day 96](#day-96-September-15th-2024)
 [Day 97](#day-97-September-16th-2024)
 [Day 98](#day-98-September-17th-2024)
+[Day 99](#day-99-September-23rd-2024)
 
 ### Day 1: February 1st, 2024
 Starting the fourth round of the challenge and as usual, took the first day to plot my goals and sort the literature but this time I had some unfinished business which I'm gonna do from last round so planning did not took long time.
@@ -802,4 +803,9 @@ Backlog entry - Python basics.
 Today was the challenges and assignments from some lectures on the OOP with Python. Will use rest of the days to complete the basics.
 
 [Twitter post](https://x.com/DBilanoski/status/1836145989477859547)
+
+### Day 99: September 23rd, 2024
+Skipped few days, today back to it. Worked on error handling and unit testing in Python.
+
+[Twitter post](https://x.com/DBilanoski/status/1838323004419215768)
 
