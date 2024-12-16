@@ -18,7 +18,7 @@ Rounds are described below under ["Rounds"](#rounds) with links to separate roun
 
 **Round Three (January 11th 2023 - September 7th 2023)** - log available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/round3_log.md)
 
-**Round Four (February 1st, 2024 - )** - log available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/round4_log.md)
+**Round Four (February 1st, 2024 - December 16th)** - log available [here](https://github.com/dbilanoski/whole-year-of-code/blob/master/round4_log.md)
 
 ## Note
 This repo is heavily inspired by Alexander Kallaway's 100-days-of-code project which I strongly recommend checking out.

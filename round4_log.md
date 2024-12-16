@@ -16,7 +16,7 @@
 - [X] Register on Medium and write an article
 
 2. Actual learning
-- [ ] Leftovers from the least round (Linux and databases, Google cert course)
+- [X] Leftovers from the least round (Linux and databases, Google cert course)
 - [ ] Python Playright (automatization and scraping of web apps)
 
 
@@ -28,6 +28,19 @@
 - [X] Revisit and learn Bash scripting in more detail
 
 **Start date: February 1st, 2024.**
+
+**End date: December 16th, 2024.**
+
+### Conclusion
+- Completed [FreeCodeCamp's Relational Databases & Linux course](https://www.freecodecamp.org/learn/relational-database/)
+- Completed [Udemy's Pearson INF-201: Information Technology Specialist Databases course](https://www.udemy.com/certificate/UC-8a3757bb-79bc-4540-9f8d-4a32138be323/)
+- Completed [Linkedin's Master SQL Development Learning path](https://www.linkedin.com/learning/paths/master-sql-development)
+- Completed [SSIS Youtube short course](https://www.youtube.com/watch?v=G_wG-bzTCZY&list=PLIS18DuNPDYEh7XZBloiXkLpvQU7aQYAp&index=3)
+- Built at least 30 small Python projects to master the basics
+- Completely reworked my LinkedIn profile
+- Rewrote my CV and created a new format for it
+- Wrote a dozen articles on [Medium](https://medium.com/@dbilanoski)
+- Landed a dev job as a Global Implementation Specialist on July 1st
 
 
 ## Days - table of content
@@ -809,3 +822,14 @@ Skipped few days, today back to it. Worked on error handling and unit testing in
 
 [Twitter post](https://x.com/DBilanoski/status/1838323004419215768)
 
+
+### Day 100: September 27th, 2024
+*Writing this on 16th of December to complete the entry from 27th Septemeber..*
+
+Okay, I left this one as a blank entry on September 27th and realized a few months later that I never updated the journal.
+
+Since this was probably my worst round in terms of discipline and continuity, any attempt at a quality conclusion won’t do it justice, so I’m wrapping it up quick and dirty. I worked a lot with databases and Python, and in the end, I landed a dev job as a Global Implementation Specialist as of July 1st. Main goal: checked!
+
+See you next round, with better focus and discipline.
+
+[Twitter post](https://x.com/DBilanoski/status/1868771743571362185)
